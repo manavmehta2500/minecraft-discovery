@@ -1,0 +1,7 @@
+import os
+
+LOVABLE_API_URL = os.getenv("LOVABLE_API_URL")
+LOVABLE_API_KEY = os.getenv("LOVABLE_API_KEY")
+MAX_ITEMS = int(os.getenv("MAX_ITEMS", 1000))
+SLEEP_BETWEEN_CYCLES = int(os.getenv("SLEEP_BETWEEN_CYCLES", 3600))
+DISCOVERY_MODE = os.getenv("DISCOVERY_MODE", "FAST")
