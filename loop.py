@@ -1,8 +1,10 @@
 """Main discovery loop.
 
-Runs a discovery cycle against each configured source, sleeps, then repeats.
-On SIGINT/SIGTERM, finishes the current source and exits cleanly.
+Modes:
+  python loop.py            # infinite loop (for Railway/Fly/always-on servers)
+  python loop.py --once     # run ONE cycle and exit (for cron / GitHub Actions)
 """
+import argparse
 import logging
 import signal
 import sys
@@ -28,7 +30,7 @@ def _handle_signal(signum, frame):
 
 
 def _run_cycle():
-    """Run one discovery cycle. Returns (published_total, cycle_cap_hit)."""
+    """Run one discovery cycle. Returns published_total."""
     published_total = 0
 
     sources = [
@@ -55,13 +57,27 @@ def _run_cycle():
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Minecraft mod discovery worker")
+    parser.add_argument(
+        "--once",
+        action="store_true",
+        help="Run a single discovery cycle and exit (use for cron / GitHub Actions).",
+    )
+    args = parser.parse_args()
+
     signal.signal(signal.SIGINT, _handle_signal)
     signal.signal(signal.SIGTERM, _handle_signal)
 
     log.info(
-        "Minecraft Discovery starting (mode=%s, max_items=%d, sleep=%ds, dry_run=%s)",
-        DISCOVERY_MODE, MAX_ITEMS, SLEEP_BETWEEN_CYCLES, DRY_RUN,
+        "Minecraft Discovery starting (mode=%s, max_items=%d, sleep=%ds, dry_run=%s, once=%s)",
+        DISCOVERY_MODE, MAX_ITEMS, SLEEP_BETWEEN_CYCLES, DRY_RUN, args.once,
     )
+
+    if args.once:
+        start = time.time()
+        published = _run_cycle()
+        log.info("One-shot cycle complete: published=%d, elapsed=%.1fs", published, time.time() - start)
+        return 0
 
     cycle = 0
     while not _shutdown:
@@ -79,7 +95,6 @@ def main():
             cycle, published, elapsed, SLEEP_BETWEEN_CYCLES,
         )
 
-        # Sleep in small increments so shutdown is responsive
         slept = 0
         while slept < SLEEP_BETWEEN_CYCLES and not _shutdown:
             time.sleep(min(5, SLEEP_BETWEEN_CYCLES - slept))
