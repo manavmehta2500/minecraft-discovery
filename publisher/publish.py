@@ -1,10 +1,4 @@
-"""Publish items by merging them into data/mods.json in the repo.
-
-- Each mod is keyed by its external_url (canonical source URL).
-- If a field is marked locked in data/locks.json, the bot never overwrites it.
-- external_hash changes => description/image/etc. update (unless locked).
-- After each run the GitHub Actions workflow commits the updated data back to main.
-"""
+"""Publish items by merging them into data/mods.json in the repo."""
 import json
 import logging
 import hashlib
@@ -33,7 +27,7 @@ def _load_json(path, default):
             with path.open("r", encoding="utf-8") as f:
                 return json.load(f)
     except (OSError, json.JSONDecodeError) as e:
-        log.warning("Couldn't read %s: %s — starting fresh", path.name, e)
+        log.warning("Couldn't read %s: %s - starting fresh", path.name, e)
     return default
 
 
@@ -58,18 +52,14 @@ def _stable_id(url):
 
 
 def publish_item(data):
-    """Merge a discovered mod into the local JSON store. Returns True if changed."""
     if not data or not data.get("external_url"):
         return False
-
     with _lock:
         mods, locks = _load_all()
         url = data["external_url"]
         now = _now()
-
         locked_fields = locks.get(url, {})
         existing = next((m for m in mods if m.get("external_url") == url), None)
-
         if existing is None:
             new_item = {
                 "id": _stable_id(url),
@@ -93,8 +83,6 @@ def publish_item(data):
             _save_json(MODS_PATH, mods)
             log.info("New mod: %s", new_item["name"])
             return True
-
-        # Update existing — skip locked fields
         changed = False
         if existing.get("external_hash") != data.get("external_hash"):
             for field in ("name", "description", "image_url"):
@@ -106,5 +94,22 @@ def publish_item(data):
                     changed = True
             existing["external_hash"] = data.get("external_hash") or existing.get("external_hash")
             changed = True
+        if data.get("downloads") is not None and data.get("downloads") != existing.get("downloads"):
+            existing["downloads"] = data.get("downloads")
+            changed = True
+        if data.get("categories") and data.get("categories") != existing.get("categories") and "categories" not in locked_fields:
+            existing["categories"] = data.get("categories")
+            changed = True
+        existing["is_verified"] = bool(data.get("is_verified", existing.get("is_verified")))
+        if data.get("source") and not existing.get("source"):
+            existing["source"] = data.get("source")
+        existing["admin_locked"] = sorted(locked_fields.keys())
+        if changed:
+            existing["updated_at"] = now
+            _save_json(MODS_PATH, mods)
+            log.info("Updated: %s", existing.get("name"))
+        return changed
 
-        if 
+
+def flush():
+    pass
