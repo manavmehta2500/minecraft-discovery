@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Minecraft Mod Discovery</title>
+<meta name="description" content="Fresh Minecraft mods discovered from Modrinth, CurseForge, IJAMinecraft, and Planet Minecraft — updated hourly." />
+<style>
+  :root {
+    --bg: #0f1419;
+    --bg-card: #1a2029;
+    --bg-card-hover: #222a36;
+    --border: #2a3340;
+    --text: #e6edf3;
+    --muted: #8b98a9;
+    --accent: #4ade80;
+    --accent-dark: #22c55e;
+    --danger: #f87171;
+    --verified: #60a5fa;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+  header {
+    padding: 48px 24px 24px;
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, #151b22 0%, var(--bg) 100%);
+  }
+  header h1 {
+    margin: 0 0 8px;
+    font-size: clamp(28px, 5vw, 44px);
+    letter-spacing: -0.02em;
+  }
+  header h1 .grass { color: var(--accent); }
+  header p { margin: 0; color: var(--muted); font-size: 16px; }
+  .stats {
+    margin-top: 20px;
+    display: inline-flex;
+    gap: 24px;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  .stats strong { color: var(--text); font-size: 20px; display: block; }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px;
+  }
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 24px;
+    align-items: center;
+  }
+  .search {
+    flex: 1 1 240px;
+    padding: 10px 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 15px;
+    outline: none;
+  }
+  .search:focus { border-color: var(--accent); }
+  .filter {
+    padding: 10px 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+  }
+  .card:hover {
+    transform: translateY(-3px);
+    border-color: var(--accent);
+    background: var(--bg-card-hover);
+  }
+  .thumb {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #0a0e13 center/cover no-repeat;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--muted);
+    font-size: 32px;
+  }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .badge {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: rgba(0,0,0,0.7);
+    color: var(--verified);
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .body { padding: 14px 16px 16px; flex: 1; display: flex; flex-direction: column; }
+  .title {
+    margin: 0 0 6px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .desc {
+    margin: 0 0 12px;
+    font-size: 13px;
+    color: var(--muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .meta {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: var(--muted);
+    gap: 8px;
+  }
+  .source {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: rgba(255,255,255,0.05);
+    padding: 3px 8px;
+    border-radius: 6px;
+  }
+  .downloads::before { content: "⬇ "; }
+  .tags {
+    padding: 0 16px 14px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .tag {
+    font-size: 11px;
+    background: rgba(74,222,128,0.12);
+    color: var(--accent);
+    padding: 2px 7px;
+    border-radius: 4px;
+  }
+  .empty, .loading, .error {
+    text-align: center;
+    color: var(--muted);
+    padding: 60px 24px;
+  }
+  .error { color: var(--danger); }
+  footer {
+    text-align: center;
+    padding: 32px 24px;
+    color: var(--muted);
+    font-size: 13px;
+    border-top: 1px solid var(--border);
+    margin-top: 40px;
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<header>
+  <h1><span class="grass">⛏</span> Minecraft Mod Discovery</h1>
+  <p>Fresh mods, shaders, and packs — auto-discovered from across the community every hour.</p>
+  <div class="stats" id="stats">
+    <div><strong id="count">—</strong>mods indexed</div>
+    <div><strong id="sources">—</strong>sources</div>
+    <div><strong id="updated">—</strong>last update</div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="toolbar">
+    <input id="search" class="search" type="search" placeholder="Search mods…" autocomplete="off" />
+    <select id="sourceFilter" class="filter">
+      <option value="">All sources</option>
+    </select>
+    <select id="sort" class="filter">
+      <option value="new">Newly discovered</option>
+      <option value="updated">Recently updated</option>
+      <option value="downloads">Most downloaded</option>
+      <option value="alpha">A–Z</option>
+    </select>
+  </div>
+  <div id="grid" class="grid">
+    <div class="loading">Loading mods…</div>
+  </div>
+</main>
+
+<footer>
+  Built by a bot that crawls <a href="https://modrinth.com" target="_blank" rel="noopener">Modrinth</a>,
+  <a href="https://www.curseforge.com/minecraft/mc-mods" target="_blank" rel="noopener">CurseForge</a>,
+  <a href="https://ijaminecraft.com/mods" target="_blank" rel="noopener">IJAMinecraft</a>, and
+  <a href="https://www.planetminecraft.com/mods/" target="_blank" rel="noopener">Planet Minecraft</a> hourly.
+  <br/>
+  <a href="https://github.com/manavmehta2500/minecraft-discovery" target="_blank" rel="noopener">Source on GitHub</a>
+</footer>
+
+<script>
+  const FALLBACK_ICON = "🧱";
+
+  function escapeHtml(s) {
+    return String(s ?? "").replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    }[c]));
+  }
+
+  function formatNumber(n) {
+    n = Number(n) || 0;
+    if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M";
+    if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "k";
+    return String(n);
+  }
+
+  function timeAgo(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (isNaN(d)) return "";
+    const s = Math.floor((Date.now() - d) / 1000);
+    if (s < 60) return "just now";
+    if (s < 3600) return Math.floor(s/60) + "m ago";
+    if (s < 86400) return Math.floor(s/3600) + "h ago";
+    if (s < 86400*30) return Math.floor(s/86400) + "d ago";
+    return d.toLocaleDateString();
+  }
+
+  function cardHtml(mod) {
+    const src = (mod.source && mod.source.name) || "Unknown";
+    const thumb = mod.image_url
+      ? `<img src="${escapeHtml(mod.image_url)}" alt="" loading="lazy" onerror="this.replaceWith(document.createTextNode('${FALLBACK_ICON}'))"/>`
+      : FALLBACK_ICON;
+    const verified = mod.is_verified ? `<span class="badge">verified</span>` : "";
+    const tags = (mod.categories || []).slice(0, 5).map(t => `<span class="tag">${escapeHtml(t.replace(/^mc_version:/, ""))}</span>`).join("");
+    const author = mod.author ? `by ${escapeHtml(mod.author)}` : "";
+    const dl = mod.downloads ? `<span class="downloads">${formatNumber(mod.downloads)}</span>` : "";
+    return `
+      <a class="card" href="${escapeHtml(mod.external_url)}" target="_blank" rel="noopener"
+         data-name="${escapeHtml((mod.name||"").toLowerCase())}"
+         data-source="${escapeHtml(src.toLowerCase())}"
+         data-downloads="${mod.downloads||0}"
+         data-discovered="${mod.discovered_at||""}"
+         data-updated="${mod.updated_at||""}">
+        <div class="thumb">${thumb}${verified}</div>
+        <div class="tags">${tags}</div>
+        <div class="body">
+          <h3 class="title">${escapeHtml(mod.name || "Unknown Mod")}</h3>
+          <p class="desc">${escapeHtml(mod.description || "")}</p>
+          <div class="meta">
+            <span class="source">${escapeHtml(src)}</span>
+            <span>${author}</span>
+            ${dl}
+          </div>
+        </div>
+      </a>`;
+  }
+
+  let allMods = [];
+
+  function applyFilters() {
+    const q = document.getElementById("search").value.trim().toLowerCase();
+    const src = document.getElementById("sourceFilter").value.toLowerCase();
+    const sort = document.getElementById("sort").value;
+    const grid = document.getElementById("grid");
+
+    let list = allMods.filter(m => {
+      if (src && !(m.source?.name || "").toLowerCase().includes(src)) return false;
+      if (!q) return true;
+      const hay = (m.name + " " + (m.description||"") + " " + (m.categories||[]).join(" ") + " " + (m.author||"")).toLowerCase();
+      return hay.includes(q);
+    });
+
+    list.sort((a, b) => {
+      if (sort === "downloads") return (b.downloads||0) - (a.downloads||0);
+      if (sort === "alpha") return (a.name||"").localeCompare(b.name||"");
+      if (sort === "updated") return new Date(b.updated_at||0) - new Date(a.updated_at||0);
+      return new Date(b.discovered_at||0) - new Date(a.discovered_at||0);
+    });
+
+    if (!list.length) {
+      grid.innerHTML = `<div class="empty">No mods match your filter yet. The bot crawls more every hour!</div>`;
+      return;
+    }
+    grid.innerHTML = list.map(cardHtml).join("");
+  }
+
+  function populateSourceFilter(mods) {
+    const sources = new Set();
+    mods.forEach(m => m.source?.name && sources.add(m.source.name));
+    const sel = document.getElementById("sourceFilter");
+    const current = sel.value;
+    [...sources].sort().forEach(s => {
+      if ([...sel.options].some(o => o.value === s.toLowerCase())) return;
+      const opt = document.createElement("option");
+      opt.value = s.toLowerCase();
+      opt.textContent = s;
+      sel.appendChild(opt);
+    });
+    sel.value = current;
+  }
+
+  function updateStats(mods) {
+    document.getElementById("count").textContent = formatNumber(mods.length);
+    const sources = new Set(mods.map(m => m.source?.name).filter(Boolean));
+    document.getElementById("sources").textContent = sources.size;
+    const latest = mods
+      .map(m => m.updated_at || m.discovered_at)
+      .filter(Boolean)
+      .sort()
+      .slice(-1)[0];
+    document.getElementById("updated").textContent = latest ? timeAgo(latest) : "—";
+  }
+
+  async function load() {
+    const grid = document.getElementById("grid");
+    try {
+      const res = await fetch("data/mods.json", { cache: "no-cache" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      allMods = await res.json();
+    } catch (e) {
+      grid.innerHTML = `<div class="error">Couldn't load mod data (${escapeHtml(e.message)}).<br/>The crawler is probably still on its first run — refresh in a few minutes.</div>`;
+      return;
+    }
+    if (!Array.isArray(allMods) || !allMods.length) {
+      grid.innerHTML = `<div class="empty">The bot is doing its first crawl right now — check back in a few minutes.</div>`;
+      return;
+    }
+    populateSourceFilter(allMods);
+    updateStats(allMods);
+    applyFilters();
+  }
+
+  document.getElementById("search").addEventListener("input", applyFilters);
+  document.getElementById("sourceFilter").addEventListener("change", applyFilters);
+  document.getElementById("sort").addEventListener("change", applyFilters);
+
+  load();
+  setInterval(load, 120_000);
+</script>
+</body>
+</html>

@@ -1,66 +1,110 @@
-"""Publish normalized items to the Lovable backend."""
-import logging
-import requests
+"""Publish items by merging them into data/mods.json in the repo.
 
-from config import LOVABLE_API_URL, LOVABLE_API_KEY, DRY_RUN, REQUEST_TIMEOUT
+- Each mod is keyed by its external_url (canonical source URL).
+- If a field is marked locked in data/locks.json, the bot never overwrites it.
+- external_hash changes => description/image/etc. update (unless locked).
+- After each run the GitHub Actions workflow commits the updated data back to main.
+"""
+import json
+import logging
+import hashlib
+import threading
+from datetime import datetime, timezone
+from pathlib import Path
 
 log = logging.getLogger(__name__)
 
-_BATCH = []
-_BATCH_SIZE = 25
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+MODS_PATH = DATA_DIR / "mods.json"
+LOCKS_PATH = DATA_DIR / "locks.json"
+
+_lock = threading.Lock()
+_mods_cache = None
+_locks_cache = None
 
 
-def _headers():
-    return {
-        "Authorization": f"Bearer {LOVABLE_API_KEY}",
-        "Content-Type": "application/json",
-    }
+def _now():
+    return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
-def _post(payload):
-    if DRY_RUN:
-        log.info("[DRY RUN] Would publish %s", payload.get("name"))
-        return True
-
-    if not LOVABLE_API_URL:
-        log.error("LOVABLE_API_URL is not configured — skipping publish")
-        return False
-    if not LOVABLE_API_KEY:
-        log.error("LOVABLE_API_KEY is not configured — skipping publish")
-        return False
-
-    url = f"{LOVABLE_API_URL}/items/upsert"
+def _load_json(path, default):
     try:
-        resp = requests.post(url, json=payload, headers=_headers(), timeout=REQUEST_TIMEOUT)
-        if resp.status_code in (200, 201):
-            log.info("Published: %s", payload.get("name"))
-            return True
-        log.error(
-            "Failed to publish %s: HTTP %s — %s",
-            payload.get("name"), resp.status_code, resp.text[:300],
-        )
-    except requests.RequestException as e:
-        log.error("Publish error for %s: %s", payload.get("name"), e)
-    return False
+        if path.exists():
+            with path.open("r", encoding="utf-8") as f:
+                return json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        log.warning("Couldn't read %s: %s — starting fresh", path.name, e)
+    return default
+
+
+def _save_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    with tmp.open("w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=False)
+    tmp.replace(path)
+
+
+def _load_all():
+    global _mods_cache, _locks_cache
+    if _mods_cache is None:
+        _mods_cache = _load_json(MODS_PATH, [])
+        _locks_cache = _load_json(LOCKS_PATH, {})
+    return _mods_cache, _locks_cache
+
+
+def _stable_id(url):
+    return hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
 
 
 def publish_item(data):
-    """Publish a single normalized item. Returns True/False."""
-    if not data or not data.get("name"):
+    """Merge a discovered mod into the local JSON store. Returns True if changed."""
+    if not data or not data.get("external_url"):
         return False
-    return _post(data)
 
+    with _lock:
+        mods, locks = _load_all()
+        url = data["external_url"]
+        now = _now()
 
-def publish_batch(items):
-    """Publish a list of normalized items sequentially. Returns success count."""
-    ok = 0
-    for item in items:
-        if publish_item(item):
-            ok += 1
-    return ok
+        locked_fields = locks.get(url, {})
+        existing = next((m for m in mods if m.get("external_url") == url), None)
 
+        if existing is None:
+            new_item = {
+                "id": _stable_id(url),
+                "name": data.get("name") or "Unknown Mod",
+                "description": data.get("description") or "",
+                "image_url": data.get("image_url") or "",
+                "external_url": url,
+                "external_hash": data.get("external_hash") or "",
+                "category": data.get("category") or "mods",
+                "source": data.get("source") or {},
+                "is_verified": bool(data.get("is_verified")),
+                "author": data.get("author") or "",
+                "downloads": data.get("downloads") or 0,
+                "categories": data.get("categories") or [],
+                "published_at": data.get("published_at") or now,
+                "discovered_at": now,
+                "updated_at": now,
+                "admin_locked": sorted(locked_fields.keys()),
+            }
+            mods.append(new_item)
+            _save_json(MODS_PATH, mods)
+            log.info("New mod: %s", new_item["name"])
+            return True
 
-def flush():
-    """Hook if you later want buffered batch publishing."""
-    global _BATCH
-    _BATCH = []
+        # Update existing — skip locked fields
+        changed = False
+        if existing.get("external_hash") != data.get("external_hash"):
+            for field in ("name", "description", "image_url"):
+                if field in locked_fields:
+                    continue
+                new_val = data.get(field)
+                if new_val and new_val != existing.get(field):
+                    existing[field] = new_val
+                    changed = True
+            existing["external_hash"] = data.get("external_hash") or existing.get("external_hash")
+            changed = True
+
+        if 
