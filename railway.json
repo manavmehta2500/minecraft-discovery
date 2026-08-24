@@ -1,0 +1,9 @@
+{
+  "$schema": "https://railway.com/railway.schema.json",
+  "deploy": {
+    "startCommand": "python loop.py",
+    "builder": "NIXPACKS",
+    "healthcheckPath": null
+  },
+  "worker": true
+}
