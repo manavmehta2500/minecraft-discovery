@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 278.0M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 278.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "7b731ee6f0e06e851a21e3b12893fef4b7d7f2656adb494a04f053a70902d33e",
+    "external_hash": "c982ed34fa7ab9dca65d22ae0891a7ea44a3b7068a8e33f4e21a1f270d4870d5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,16 +395,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-08-24T21:40:00+00:00",
+    "updated_at": "2026-08-24T23:40:56+00:00",
     "admin_locked": []
   },
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 389.4M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 389.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "9b400d7261e737212fb8da2f981602a93c386b2790cb99a230fb575de266f6d0",
+    "external_hash": "f98d2113743ed2ed0087ecba7eba25f9874ebce655fd0e4a3403e6e897ddaca8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-08-24T21:40:02+00:00",
+    "updated_at": "2026-08-24T23:41:18+00:00",
     "admin_locked": []
   },
   {
