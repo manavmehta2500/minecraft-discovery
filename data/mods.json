@@ -191,10 +191,10 @@
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 470.9M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 471.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "1eefe010cf1f96b2b02446fff846ccd036a6475c14674d123ae1e1f57a9149ec",
+    "external_hash": "b97921385d5313c329eed02e2084bfaf755978ce90d5031770797875e846f463",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,16 +206,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-08-25T10:54:02+00:00",
+    "updated_at": "2026-08-25T21:48:03+00:00",
     "admin_locked": []
   },
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 176.0M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 176.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "382645db2dbc8643468118aea9e1132d033dcc87efcf6de61a328ce4c753e6f4",
+    "external_hash": "cd4e4b1e08643b3fd962cac66f75ba4145e3b0926007d9a83da3cb6a18f367cb",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-08-25T14:10:30+00:00",
+    "updated_at": "2026-08-25T21:47:50+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 300.7M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 300.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "b69cd73cf55ce4d5289185cc71ed9902f69277ae93d710235b76d1b5765d0e10",
+    "external_hash": "fb76769f598b73ad897943626039712e00f2d867599a3a4a6cc089eee63a4d8e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-08-25T15:09:30+00:00",
+    "updated_at": "2026-08-25T21:47:47+00:00",
     "admin_locked": []
   },
   {
