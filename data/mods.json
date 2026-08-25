@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 175.8M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 175.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "ee7f109ad9436c524bd0aa3f36387d6200a216176cec207e9025326b46f03ef1",
+    "external_hash": "098cbaec5b3b70eb73403de407419f62abbda09ecb7b6e4dfdf317707923e320",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-08-24T21:39:50+00:00",
+    "updated_at": "2026-08-25T03:15:24+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 300.5M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 300.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "f4fefbe29d8dbbc10716f64531e814475af5008c892e77c95bcce8fe8d2e8cda",
+    "external_hash": "a897085bcdef8cc075474b411c35d0322a0340e52a101f55eada330ae6ec627b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-08-24T21:39:52+00:00",
+    "updated_at": "2026-08-25T03:15:16+00:00",
     "admin_locked": []
   },
   {
@@ -3154,7 +3154,7 @@
     },
     "is_verified": true,
     "author": "Snownee",
-    "downloads": 64510495,
+    "downloads": 64524797,
     "categories": [
       "fabric",
       "forge",
@@ -3236,7 +3236,7 @@
     ],
     "published_at": "2022-12-11T14:21:53.979193+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-25T01:57:18+00:00",
+    "updated_at": "2026-08-25T03:16:20+00:00",
     "admin_locked": []
   },
   {
