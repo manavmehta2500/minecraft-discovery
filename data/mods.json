@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 365.1M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 365.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "ff9093c1d4c314ad0db00864df5ddf21a7025c7beb5b023d3acf3f63b88475d2",
+    "external_hash": "12dfef0b053c99545b3714f3a457730792fd5bade635c8056a25acfb36da39df",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,16 +38,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-08-25T11:48:46+00:00",
+    "updated_at": "2026-08-25T19:49:26+00:00",
     "admin_locked": []
   },
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 614.4M Downloads | Mods",
+    "description": "View Items and Recipes 614.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "681c15edeec0d721619611e3fe0c830c84ec866e193f36b6d854537ea8bca70b",
+    "external_hash": "1cda0d56e40b4efec554d46cc77e4cbad602bc23fc55431ba54994e50ff783e9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-08-25T15:09:26+00:00",
+    "updated_at": "2026-08-25T19:49:38+00:00",
     "admin_locked": []
   },
   {
