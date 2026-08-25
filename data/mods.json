@@ -2859,7 +2859,7 @@
     },
     "is_verified": true,
     "author": "henkelmax",
-    "downloads": 64836700,
+    "downloads": 64970530,
     "categories": [
       "adventure",
       "bukkit",
@@ -3134,11 +3134,12 @@
       "mc_version:26.3-snapshot-6",
       "mc_version:26.3-snapshot-7",
       "mc_version:26.3-snapshot-8",
-      "mc_version:26.3-snapshot-9"
+      "mc_version:26.3-snapshot-9",
+      "mc_version:26.3-snapshot-10"
     ],
     "published_at": "2021-11-15T12:29:48.239701+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-25T01:57:18+00:00",
+    "updated_at": "2026-08-25T17:49:59+00:00",
     "admin_locked": []
   },
   {
