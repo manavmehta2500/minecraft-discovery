@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 247.3M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 247.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "4964fa26d8c4ff883b26e26d2f985649fe37067ac3a8ce670686b11bd8cf7d4e",
+    "external_hash": "5bc9c6e94185d3e1455df2547262035ff36d02b69a3cd8d9ff079e21c589b877",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,16 +185,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-08-25T01:56:06+00:00",
+    "updated_at": "2026-08-25T10:53:54+00:00",
     "admin_locked": []
   },
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 470.8M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 470.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "ceb0c33ae391a5980a35f738792464d5326ec60bf245c8f69926aebdca6b1a69",
+    "external_hash": "1eefe010cf1f96b2b02446fff846ccd036a6475c14674d123ae1e1f57a9149ec",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-08-24T22:47:55+00:00",
+    "updated_at": "2026-08-25T10:54:02+00:00",
     "admin_locked": []
   },
   {
