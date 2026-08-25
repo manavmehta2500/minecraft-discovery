@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 197.5M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 197.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "a96c5d900d23936fc8c5f7cf1fc5776c424b12e6fbd4321db94059d09467c8ca",
+    "external_hash": "5896379e92b30239c3ad09a06c7f65772264357db634a56c5b1dd3be87ae0a15",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,7 +143,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-08-24T21:39:45+00:00",
+    "updated_at": "2026-08-25T04:05:14+00:00",
     "admin_locked": []
   },
   {
@@ -317,10 +317,10 @@
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 256.5M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 256.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "3ac3f9b96e961b685edd76c7beb232006c007b7f3153579891dfc57a3ad6f7ef",
+    "external_hash": "2f7c3b4d3f2678ad953434495a8c482da83a69551524137271a8c75e606361ef",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,7 +332,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-08-24T21:39:56+00:00",
+    "updated_at": "2026-08-25T04:05:08+00:00",
     "admin_locked": []
   },
   {
