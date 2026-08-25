@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 408.4M Downloads | Mods",
+    "description": "An open source library for other mods! 408.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "277e83620fbfc8d2eba9d8b3e4aab474d8589d8772251d82f137eebf2af881c0",
+    "external_hash": "516f23d1e83986bc25eab594a7ae7b9a9e4792e0b248273a1e795810616e7ded",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-08-24T21:43:13+00:00",
+    "updated_at": "2026-08-25T05:51:17+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 262.6M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 262.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "6695cd879966342e201c391fa3c5651c044fcdf0b504a308192c2257c2eec887",
+    "external_hash": "86d8803cb99088ce4fc468de9c95806291d519643a526b9b5d07bbaa9789dfa9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-08-24T22:47:43+00:00",
+    "updated_at": "2026-08-25T05:51:04+00:00",
     "admin_locked": []
   },
   {
