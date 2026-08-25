@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 144.6M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 144.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "0fa15a167868cce0dd95cc20019311b5feef759c04482acb4d86ba3071b306a4",
+    "external_hash": "c96cbc863003339f10e6a564ed75c107c6a097a3ffeeaa0c16db8741422b3a84",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-08-25T11:48:47+00:00",
+    "updated_at": "2026-08-25T20:50:17+00:00",
     "admin_locked": []
   },
   {
