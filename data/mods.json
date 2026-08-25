@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 365.0M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 365.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "a6774b788a68475c79791a1af8bd0fa6d82ad8eb2e29d434fa73e7dc655a5f07",
+    "external_hash": "ff9093c1d4c314ad0db00864df5ddf21a7025c7beb5b023d3acf3f63b88475d2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,7 +38,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-08-25T01:56:17+00:00",
+    "updated_at": "2026-08-25T11:48:46+00:00",
     "admin_locked": []
   },
   {
@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 144.5M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 144.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "77bcb21d202ac6249e6ad1d21f074f882dfd25dd1c5495f05392dd37462467b8",
+    "external_hash": "0fa15a167868cce0dd95cc20019311b5feef759c04482acb4d86ba3071b306a4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-08-25T01:56:07+00:00",
+    "updated_at": "2026-08-25T11:48:47+00:00",
     "admin_locked": []
   },
   {
