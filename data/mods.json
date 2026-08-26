@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 144.7M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 144.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "c96cbc863003339f10e6a564ed75c107c6a097a3ffeeaa0c16db8741422b3a84",
+    "external_hash": "ff6251d25dbfe5141cd8959b10a3dc4949bf2243ba022c493b4f71427167c558",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-08-25T20:50:17+00:00",
+    "updated_at": "2026-08-26T07:12:56+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 300.8M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 300.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "fb76769f598b73ad897943626039712e00f2d867599a3a4a6cc089eee63a4d8e",
+    "external_hash": "012cc578e7aa5bfdf830ce8c4ce60941b186039b47ea49ff8fe3eece296896f0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-08-25T21:47:47+00:00",
+    "updated_at": "2026-08-26T07:12:39+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 262.9M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 263.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "3f81d3dcf9a0fa12e1f8f570191729c000a1efaf51f4ea4eb568d613de86a177",
+    "external_hash": "e23f128ef4efd46efa9a9ea9da3a38054faedc4e186726052586a00b8e1587d5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-08-26T02:02:40+00:00",
+    "updated_at": "2026-08-26T07:12:41+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 389.6M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 389.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "e66769620a9d7dfce7d5e10abb2aaca71970904e9c0d2369c90dc0af95073ab9",
+    "external_hash": "1598112bc80868c3019f842d12ba383c20e8524e61f5d91e2d8792d9d2b49390",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-08-25T16:59:46+00:00",
+    "updated_at": "2026-08-26T07:12:47+00:00",
     "admin_locked": []
   },
   {
