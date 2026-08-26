@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 247.6M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 247.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "248f6c3f52ca5f373c21e9a8a4c8c3bfe68ab19a8c54f4503faf4b10d3caec98",
+    "external_hash": "a38ddb929b1e492b5629ffca7bc0cdb830d1652762db390bdad274af7c06c4c0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-08-26T02:02:25+00:00",
+    "updated_at": "2026-08-26T13:26:35+00:00",
     "admin_locked": []
   },
   {
@@ -296,10 +296,10 @@
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 371.0M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 371.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "d278a270f68de68d1b730f054dd9019b15275ab237ac70df32d7455167fe3115",
+    "external_hash": "4c1164a1bdb7b48ba18ec2d4d62f3223d13f65e530567fba900b3b3dea6d7291",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-08-26T02:02:21+00:00",
+    "updated_at": "2026-08-26T13:26:51+00:00",
     "admin_locked": []
   },
   {
