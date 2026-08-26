@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 614.6M Downloads | Mods",
+    "description": "View Items and Recipes 614.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "484b6ec20ef233f16d80f913246abbbf7e08d5742a291d7d66f3f18310893f6a",
+    "external_hash": "67f61babc90e29095def337f76b3bb62537451320ac0455fadd929c301e939ff",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-08-26T02:02:19+00:00",
+    "updated_at": "2026-08-26T08:03:59+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 233.1M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 233.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "8163c47b7f575c00ffb52eaa5ed6fc525dba2072b2e6e5372b2fe9cd884d6575",
+    "external_hash": "6f3292d84a069cc919228614e009ca2a6539dcef0dac6b797830326d21c0a5b8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-08-25T23:43:03+00:00",
+    "updated_at": "2026-08-26T08:04:03+00:00",
     "admin_locked": []
   },
   {
