@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 614.8M Downloads | Mods",
+    "description": "View Items and Recipes 614.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "b641b7f039a7af9dc2f8a1df6ed61d704b7e92b36c448e7e4fd09f5818c4a03d",
+    "external_hash": "3f18237a993fe0c09efa04579f31f5d56fecd8dccf3cb649f29f8ec6219428c9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-08-26T15:56:01+00:00",
+    "updated_at": "2026-08-26T20:10:24+00:00",
     "admin_locked": []
   },
   {
@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 408.8M Downloads | Mods",
+    "description": "An open source library for other mods! 408.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "1448636328254e912be86fbf06ab47b568b5e9b91af705003c0e7cd17b2cffe8",
+    "external_hash": "151d6cb49b46becb5b4aaab0277003164344712ff843163bdb56a21391a9653a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-08-26T10:54:31+00:00",
+    "updated_at": "2026-08-26T20:10:36+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 197.9M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 198.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "7d93bbb7cd0af3e7549b09b93249165d19eccc06e886183053a17ea16f9dfb6b",
+    "external_hash": "4ddb3cf669f2f3cc76247ae68beae9cfcd413499ec6f295ba60dd1945d73a3c4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-08-26T10:54:37+00:00",
+    "updated_at": "2026-08-26T20:10:15+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.5M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "7958583c908c66d127772f2f4a9f659d394e7019cac9d924235153d1f003033d",
+    "external_hash": "cf2d6457345c418635c6767b66ee5381cde1d6fc3154b79cda6af9eb4658ca61",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-08-26T15:56:00+00:00",
+    "updated_at": "2026-08-26T20:10:16+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 247.7M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 247.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "a38ddb929b1e492b5629ffca7bc0cdb830d1652762db390bdad274af7c06c4c0",
+    "external_hash": "b16f8edb915f7dffce3b9272d39b181b32208f312defbf31bc12c6cb3bc2e996",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,16 +185,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-08-26T13:26:35+00:00",
+    "updated_at": "2026-08-26T20:10:29+00:00",
     "admin_locked": []
   },
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 471.1M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 471.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "496a5383363161f140432fe6a9174eedcc1af0e86eaf04675934fdf1d1567df6",
+    "external_hash": "cc07e467cd6a4280849476cdffe7140ec104faf164bdd45a55c985d53cd2d980",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-08-26T10:01:05+00:00",
+    "updated_at": "2026-08-26T20:10:25+00:00",
     "admin_locked": []
   },
   {
