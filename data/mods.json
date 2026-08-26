@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "375f76edf6f6fd6c3cbb205bdd1423d375234141775f14545939087a068bbccd",
+    "external_hash": "90e4592a7e5bf38ed079e74983625f598f6cf5e07730ddc3404c07d841d14906",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-08-26T02:02:20+00:00",
+    "updated_at": "2026-08-26T05:53:33+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 176.1M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 176.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "cd4e4b1e08643b3fd962cac66f75ba4145e3b0926007d9a83da3cb6a18f367cb",
+    "external_hash": "2e21a941c0465fcbd7f52562321a0a822a74079491a39be24189e4e087ec23ae",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-08-25T21:47:50+00:00",
+    "updated_at": "2026-08-26T05:53:35+00:00",
     "admin_locked": []
   },
   {
