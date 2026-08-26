@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 408.9M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 409.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "60de3c5b36b4e925e208aaeb8f3057054ef440029c603168fc603c068ffcbbbe",
+    "external_hash": "f779c82d5a20258fb05465d3e15b941c811d1f60024c535e98444897b51e91f8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,16 +17,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-08-26T02:02:34+00:00",
+    "updated_at": "2026-08-26T15:55:56+00:00",
     "admin_locked": []
   },
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 365.3M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 365.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "5c745c5ab90be6c26f734bf202a75a926dea76c2c3ac1f79f723cd9e33c6a185",
+    "external_hash": "0fdd06b918ffa6462bda02a72278b2c46cc42ce2d30a95d73653a5c2c7343669",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,16 +38,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-08-26T03:28:41+00:00",
+    "updated_at": "2026-08-26T15:55:50+00:00",
     "admin_locked": []
   },
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 614.7M Downloads | Mods",
+    "description": "View Items and Recipes 614.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "67f61babc90e29095def337f76b3bb62537451320ac0455fadd929c301e939ff",
+    "external_hash": "b641b7f039a7af9dc2f8a1df6ed61d704b7e92b36c448e7e4fd09f5818c4a03d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-08-26T08:03:59+00:00",
+    "updated_at": "2026-08-26T15:56:01+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.4M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "90e4592a7e5bf38ed079e74983625f598f6cf5e07730ddc3404c07d841d14906",
+    "external_hash": "7958583c908c66d127772f2f4a9f659d394e7019cac9d924235153d1f003033d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-08-26T05:53:33+00:00",
+    "updated_at": "2026-08-26T15:56:00+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 339.6M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 339.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "bebc7500f717a736add3135720ece35ac4f366d51cf2a0d5334c2d0243d87c6e",
+    "external_hash": "926269658268b79c9303ed4770bafacdd740d73585de9984525e23686f206d29",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-08-26T02:02:22+00:00",
+    "updated_at": "2026-08-26T15:55:48+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 278.4M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 278.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "5934d4227aade1add2a0d0b12088677cb690a120b83ad6f10a3e00be0d2874b1",
+    "external_hash": "5ad0b76a5abd4522194a92c028e4468f0d416e6475b02c653c4a24f97c82f7f5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-08-26T03:28:30+00:00",
+    "updated_at": "2026-08-26T15:55:46+00:00",
     "admin_locked": []
   },
   {
