@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 408.7M Downloads | Mods",
+    "description": "An open source library for other mods! 408.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "d2b95ef6351060bf7b421e257e1ef666c27877325675c5f36b5c98242c751d1d",
+    "external_hash": "1448636328254e912be86fbf06ab47b568b5e9b91af705003c0e7cd17b2cffe8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-08-25T23:42:34+00:00",
+    "updated_at": "2026-08-26T10:54:31+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 197.8M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 197.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "160a448695421a30cb6cde11ddff35c4c018d9d4bffe3a55d789b6833cfc2d41",
+    "external_hash": "7d93bbb7cd0af3e7549b09b93249165d19eccc06e886183053a17ea16f9dfb6b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,7 +143,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-08-25T23:42:26+00:00",
+    "updated_at": "2026-08-26T10:54:37+00:00",
     "admin_locked": []
   },
   {
@@ -359,10 +359,10 @@
   {
     "id": "34d247df9b60ae22",
     "name": "Entity Culling Fabric/Forge",
-    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 222.1M Downloads | Mods",
+    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 222.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
-    "external_hash": "fdd8f654dc014aa7ca0a9225fdefa02515eecf65bad41b8b4450ed3d9c72fa74",
+    "external_hash": "2393b25108f8c725500e8c40524bb5e5d0c4d9776334fc28bcd559c459056c28",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -374,7 +374,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:58+00:00",
     "discovered_at": "2026-08-24T21:39:58+00:00",
-    "updated_at": "2026-08-26T02:02:27+00:00",
+    "updated_at": "2026-08-26T10:54:21+00:00",
     "admin_locked": []
   },
   {
