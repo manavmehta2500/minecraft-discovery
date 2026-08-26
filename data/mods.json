@@ -317,10 +317,10 @@
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 256.8M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 256.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "890a796c18d2cc2763831055e0547554bded6a513784224e8c4b020b06e4deac",
+    "external_hash": "bfce72c85ae9ac7d696f6918b4c166aad67dcdd2a5c8f0a45802ccd36356b7e5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,7 +332,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-08-25T23:42:35+00:00",
+    "updated_at": "2026-08-26T11:49:56+00:00",
     "admin_locked": []
   },
   {
