@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 409.0M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 409.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "f779c82d5a20258fb05465d3e15b941c811d1f60024c535e98444897b51e91f8",
+    "external_hash": "b4b02b03b6a14a52544d52d993618bcfca9b9d3ba49043231a22bd4810dfb7af",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,16 +17,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-08-26T15:55:56+00:00",
+    "updated_at": "2026-08-27T09:57:51+00:00",
     "admin_locked": []
   },
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 365.5M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 365.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "48f22bf289b7a6d84715a88b8e0eec0bb01136d394f9c1698e162a892e810071",
+    "external_hash": "0f9a48757ba6e977d19ff3f7994bc250a1b4cb1b39864d7ffe26c463052efb69",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,16 +38,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-08-26T23:42:30+00:00",
+    "updated_at": "2026-08-27T09:57:57+00:00",
     "admin_locked": []
   },
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 614.9M Downloads | Mods",
+    "description": "View Items and Recipes 615.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "3f18237a993fe0c09efa04579f31f5d56fecd8dccf3cb649f29f8ec6219428c9",
+    "external_hash": "7806f15f3ffafc4782398f14a1b83ae22a37f755fa6d0be31c9cbfa35f2dd44a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-08-26T20:10:24+00:00",
+    "updated_at": "2026-08-27T09:57:44+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 144.9M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 145.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "92a580ce4725ad379b35945df1dffad88c86ba2b6c53690ec652efab3c88e278",
+    "external_hash": "c3deb792ddb502926f9395f6e030aeb3f87adc68f4bbfcc6de845d3162494b39",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,16 +80,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-08-26T18:06:43+00:00",
+    "updated_at": "2026-08-27T09:57:49+00:00",
     "admin_locked": []
   },
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 408.9M Downloads | Mods",
+    "description": "An open source library for other mods! 409.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "151d6cb49b46becb5b4aaab0277003164344712ff843163bdb56a21391a9653a",
+    "external_hash": "4950b29ba3be46068831fc4f595a09853d7119175a78ce1401f9682476ab5d08",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-08-26T20:10:36+00:00",
+    "updated_at": "2026-08-27T09:57:40+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 198.0M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 198.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "4ddb3cf669f2f3cc76247ae68beae9cfcd413499ec6f295ba60dd1945d73a3c4",
+    "external_hash": "a2533a22a8c9a05df6aecf13a980ec02dd97c3241e774ec5676148c3e19adef5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-08-26T20:10:15+00:00",
+    "updated_at": "2026-08-27T09:57:46+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.6M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 399.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "cf2d6457345c418635c6767b66ee5381cde1d6fc3154b79cda6af9eb4658ca61",
+    "external_hash": "6337bc3d9b770b3beaae14718e5f15a6ba0f9b65d60bdca2e3fda263c9f0492d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-08-26T20:10:16+00:00",
+    "updated_at": "2026-08-27T09:58:00+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 247.8M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 247.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "b16f8edb915f7dffce3b9272d39b181b32208f312defbf31bc12c6cb3bc2e996",
+    "external_hash": "63167e0fa70cd68a36e993269ea4b4631a19304353560f3925a53fe0ed8cecc4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,16 +185,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-08-26T20:10:29+00:00",
+    "updated_at": "2026-08-27T09:58:06+00:00",
     "admin_locked": []
   },
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 471.2M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 471.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "cc07e467cd6a4280849476cdffe7140ec104faf164bdd45a55c985d53cd2d980",
+    "external_hash": "7ab5a0ffe0ab1b038b7a1d31faa5900b1eb10bf171595ce2188a5e7352926174",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-08-26T20:10:25+00:00",
+    "updated_at": "2026-08-27T09:57:50+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 339.7M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 339.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "926269658268b79c9303ed4770bafacdd740d73585de9984525e23686f206d29",
+    "external_hash": "bf291f2470f3ab39ed90d4b72ff67e69775f958c3fb5be39ad6a612dbe6d9cda",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,16 +248,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-08-26T15:55:48+00:00",
+    "updated_at": "2026-08-27T09:58:04+00:00",
     "admin_locked": []
   },
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 301.0M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 301.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "277c6110a7bf150afb3276c413be32e6cc462fde536b1be59c4e2363a0d039b6",
+    "external_hash": "95094ea809b60f1b13d2f3a25d7287cad107661f3dfad3a82bb88fe2202459b5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,16 +269,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-08-26T18:06:35+00:00",
+    "updated_at": "2026-08-27T09:57:43+00:00",
     "admin_locked": []
   },
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 233.3M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 233.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "8aef43dcaa647e581a0f4fb52f9e2779e5e83fd9d6cec2108e3c16a7f9525f40",
+    "external_hash": "2cf2f10a347db49a79412d01898c5627676ff4659385e60b76f0206b5ea283c4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-08-26T18:06:58+00:00",
+    "updated_at": "2026-08-27T09:57:48+00:00",
     "admin_locked": []
   },
   {
@@ -317,10 +317,10 @@
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 257.0M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 257.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "19ffd28835f7f966e172ccc6daa5d790f23d9f641f618a73b52385ed72c1c972",
+    "external_hash": "26b0f2af6ff93a6d4bd7af1ee089dcf50d12c8f283708d7c181b8a7eca39a49f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,16 +332,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-08-26T23:42:20+00:00",
+    "updated_at": "2026-08-27T09:57:42+00:00",
     "admin_locked": []
   },
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 263.2M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 263.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "9d1f1f39d28d198dd8beab962bffd2db385717e13c254946cf25a3d59acff342",
+    "external_hash": "68890a7aa4bef845ab51c1319cd1eca8c35a9511371104b575b1635d57f54210",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,16 +353,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-08-26T23:42:24+00:00",
+    "updated_at": "2026-08-27T09:58:07+00:00",
     "admin_locked": []
   },
   {
     "id": "34d247df9b60ae22",
     "name": "Entity Culling Fabric/Forge",
-    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 222.3M Downloads | Mods",
+    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 222.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
-    "external_hash": "4e7d9555533d23bccd1215f8153ee1ae1e38221fbbac84b2b512245aa7eeec0a",
+    "external_hash": "685eb66221dac1f8cc17727239b61ed8417f3ebec08f5c2550dad984ed8a3d76",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -374,16 +374,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:58+00:00",
     "discovered_at": "2026-08-24T21:39:58+00:00",
-    "updated_at": "2026-08-26T23:42:19+00:00",
+    "updated_at": "2026-08-27T09:57:45+00:00",
     "admin_locked": []
   },
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 278.6M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 278.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "622ed3278a574d2abd3ac847f77cf42a2f9909391f23e893f3aef3732a5688bc",
+    "external_hash": "5e1530157af21e7b5efb9e2ed24b1bb95c922da76e30186cf88ffd9410571b1e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-08-26T23:42:29+00:00",
+    "updated_at": "2026-08-27T09:57:56+00:00",
     "admin_locked": []
   },
   {
@@ -433,7 +433,7 @@
     },
     "is_verified": true,
     "author": "modmuss50",
-    "downloads": 241037864,
+    "downloads": 241955914,
     "categories": [
       "fabric",
       "library",
@@ -822,7 +822,7 @@
     ],
     "published_at": "2021-01-22T11:04:41.419169+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -839,7 +839,7 @@
     },
     "is_verified": true,
     "author": "jellysquid3",
-    "downloads": 214315937,
+    "downloads": 214913311,
     "categories": [
       "fabric",
       "neoforge",
@@ -886,7 +886,7 @@
     ],
     "published_at": "2021-01-03T00:53:34.185936+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -903,7 +903,7 @@
     },
     "is_verified": true,
     "author": "coderbot",
-    "downloads": 166968090,
+    "downloads": 167424860,
     "categories": [
       "decoration",
       "fabric",
@@ -947,7 +947,7 @@
     ],
     "published_at": "2021-05-27T05:11:15.690120+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -964,7 +964,7 @@
     },
     "is_verified": true,
     "author": "shedaniel",
-    "downloads": 159555307,
+    "downloads": 159970649,
     "categories": [
       "fabric",
       "forge",
@@ -1030,7 +1030,7 @@
     ],
     "published_at": "2022-04-21T10:29:41.555173+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1047,7 +1047,7 @@
     },
     "is_verified": true,
     "author": "tr7zw",
-    "downloads": 157195398,
+    "downloads": 157681329,
     "categories": [
       "babric",
       "fabric",
@@ -1102,7 +1102,7 @@
     ],
     "published_at": "2022-05-25T10:09:09.784330+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1119,7 +1119,7 @@
     },
     "is_verified": true,
     "author": "malte0811",
-    "downloads": 143760040,
+    "downloads": 144105158,
     "categories": [
       "fabric",
       "forge",
@@ -1162,7 +1162,7 @@
     ],
     "published_at": "2021-04-03T07:04:43.971189+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1179,7 +1179,7 @@
     },
     "is_verified": true,
     "author": "Prospector",
-    "downloads": 136873374,
+    "downloads": 137202140,
     "categories": [
       "fabric",
       "legacy-fabric",
@@ -1365,7 +1365,7 @@
     ],
     "published_at": "2020-11-06T05:11:04.725058+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1382,7 +1382,7 @@
     },
     "is_verified": true,
     "author": "jellysquid3",
-    "downloads": 121766619,
+    "downloads": 122050662,
     "categories": [
       "fabric",
       "neoforge",
@@ -1428,7 +1428,7 @@
     ],
     "published_at": "2021-01-03T00:56:52.292581+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1445,7 +1445,7 @@
     },
     "is_verified": true,
     "author": "RaphiMC",
-    "downloads": 117458034,
+    "downloads": 117744862,
     "categories": [
       "fabric",
       "forge",
@@ -1484,7 +1484,7 @@
     ],
     "published_at": "2022-10-01T16:26:11.439503+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1501,7 +1501,7 @@
     },
     "is_verified": true,
     "author": "isxander",
-    "downloads": 116167137,
+    "downloads": 116473131,
     "categories": [
       "fabric",
       "forge",
@@ -1558,7 +1558,7 @@
     ],
     "published_at": "2022-09-05T13:15:27.359550+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1575,7 +1575,7 @@
     },
     "is_verified": true,
     "author": "modmuss50",
-    "downloads": 111619118,
+    "downloads": 111929819,
     "categories": [
       "fabric",
       "library",
@@ -1819,7 +1819,7 @@
     ],
     "published_at": "2021-08-25T19:14:27.159100+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1836,7 +1836,7 @@
     },
     "is_verified": true,
     "author": "thexaero",
-    "downloads": 104902612,
+    "downloads": 105148360,
     "categories": [
       "adventure",
       "fabric",
@@ -1888,7 +1888,7 @@
     ],
     "published_at": "2023-04-22T18:06:33.825340+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1905,7 +1905,7 @@
     },
     "is_verified": true,
     "author": "Traben",
-    "downloads": 96070154,
+    "downloads": 96280103,
     "categories": [
       "decoration",
       "fabric",
@@ -1967,7 +1967,7 @@
     ],
     "published_at": "2022-01-26T02:02:53.096382+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -1984,7 +1984,7 @@
     },
     "is_verified": true,
     "author": "shedaniel",
-    "downloads": 95099078,
+    "downloads": 95307960,
     "categories": [
       "fabric",
       "forge",
@@ -2056,7 +2056,7 @@
     ],
     "published_at": "2020-11-16T10:40:17.116288+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2073,7 +2073,7 @@
     },
     "is_verified": true,
     "author": "thexaero",
-    "downloads": 91818979,
+    "downloads": 92038315,
     "categories": [
       "adventure",
       "fabric",
@@ -2125,7 +2125,7 @@
     ],
     "published_at": "2023-04-22T18:06:37.599573+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2142,7 +2142,7 @@
     },
     "is_verified": true,
     "author": "FlashyReese",
-    "downloads": 91622951,
+    "downloads": 91836414,
     "categories": [
       "cursed",
       "fabric",
@@ -2190,7 +2190,7 @@
     ],
     "published_at": "2021-02-17T04:37:04.928784+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2207,7 +2207,7 @@
     },
     "is_verified": true,
     "author": "Traben",
-    "downloads": 91064602,
+    "downloads": 91265806,
     "categories": [
       "decoration",
       "fabric",
@@ -2258,7 +2258,7 @@
     ],
     "published_at": "2023-04-03T00:59:48.707746+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2275,7 +2275,7 @@
     },
     "is_verified": true,
     "author": "squeek502",
-    "downloads": 84896493,
+    "downloads": 85111807,
     "categories": [
       "fabric",
       "food",
@@ -2327,7 +2327,7 @@
     ],
     "published_at": "2021-11-20T23:37:39.568172+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2344,7 +2344,7 @@
     },
     "is_verified": true,
     "author": "tr7zw",
-    "downloads": 82097309,
+    "downloads": 82299772,
     "categories": [
       "adventure",
       "decoration",
@@ -2387,7 +2387,7 @@
     ],
     "published_at": "2022-05-25T10:21:03.610236+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2404,7 +2404,7 @@
     },
     "is_verified": true,
     "author": "FlashyReese",
-    "downloads": 76826479,
+    "downloads": 76998177,
     "categories": [
       "fabric",
       "neoforge",
@@ -2454,7 +2454,7 @@
     ],
     "published_at": "2021-08-21T06:10:10.242065+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2471,7 +2471,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 75958331,
+    "downloads": 76309267,
     "categories": [
       "bukkit",
       "cursed",
@@ -2524,7 +2524,7 @@
     ],
     "published_at": "2023-05-27T18:02:21.144599+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2541,7 +2541,7 @@
     },
     "is_verified": true,
     "author": "embeddedt",
-    "downloads": 74431570,
+    "downloads": 74586639,
     "categories": [
       "fabric",
       "forge",
@@ -2581,7 +2581,7 @@
     ],
     "published_at": "2023-04-18T00:08:34.429392+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2598,7 +2598,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 72635303,
+    "downloads": 72681186,
     "categories": [
       "fabric",
       "forge",
@@ -2658,7 +2658,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T18:07:52+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2675,7 +2675,7 @@
     },
     "is_verified": true,
     "author": "tr7zw",
-    "downloads": 72208304,
+    "downloads": 72420926,
     "categories": [
       "adventure",
       "decoration",
@@ -2722,7 +2722,7 @@
     ],
     "published_at": "2022-05-04T15:49:59.369142+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2739,7 +2739,7 @@
     },
     "is_verified": true,
     "author": "Pepper_Bell",
-    "downloads": 69663736,
+    "downloads": 69822536,
     "categories": [
       "decoration",
       "fabric",
@@ -2780,7 +2780,7 @@
     ],
     "published_at": "2021-09-25T20:27:10.714654+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2797,7 +2797,7 @@
     },
     "is_verified": true,
     "author": "Gecko",
-    "downloads": 65720600,
+    "downloads": 65903822,
     "categories": [
       "fabric",
       "forge",
@@ -2842,7 +2842,7 @@
     ],
     "published_at": "2022-08-07T03:30:16.186586+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -2859,7 +2859,7 @@
     },
     "is_verified": true,
     "author": "henkelmax",
-    "downloads": 65013198,
+    "downloads": 65183646,
     "categories": [
       "adventure",
       "bukkit",
@@ -3139,7 +3139,7 @@
     ],
     "published_at": "2021-11-15T12:29:48.239701+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -3156,7 +3156,7 @@
     },
     "is_verified": true,
     "author": "Snownee",
-    "downloads": 64663752,
+    "downloads": 64810328,
     "categories": [
       "fabric",
       "forge",
@@ -3238,7 +3238,7 @@
     ],
     "published_at": "2022-12-11T14:21:53.979193+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -3255,7 +3255,7 @@
     },
     "is_verified": true,
     "author": "isxander",
-    "downloads": 62769522,
+    "downloads": 62916869,
     "categories": [
       "fabric",
       "quilt",
@@ -3294,7 +3294,7 @@
     ],
     "published_at": "2022-01-29T20:52:18.744493+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -3311,7 +3311,7 @@
     },
     "is_verified": true,
     "author": "juliand665",
-    "downloads": 62417716,
+    "downloads": 62557414,
     "categories": [
       "fabric",
       "forge",
@@ -3512,7 +3512,7 @@
     ],
     "published_at": "2020-12-01T15:57:46.862046+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-08-26T02:03:29+00:00",
+    "updated_at": "2026-08-27T09:58:54+00:00",
     "admin_locked": []
   },
   {
@@ -3529,7 +3529,7 @@
     },
     "is_verified": true,
     "author": "FX",
-    "downloads": 62184588,
+    "downloads": 62341286,
     "categories": [
       "fabric",
       "library",
@@ -3603,7 +3603,7 @@
     ],
     "published_at": "2022-06-02T22:36:08.467225+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -3620,7 +3620,7 @@
     },
     "is_verified": true,
     "author": "Keksuccino",
-    "downloads": 61927694,
+    "downloads": 62099972,
     "categories": [
       "fabric",
       "forge",
@@ -3660,7 +3660,7 @@
     ],
     "published_at": "2022-11-25T22:04:54.768104+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -3677,7 +3677,7 @@
     },
     "is_verified": true,
     "author": "Fuzs",
-    "downloads": 61866875,
+    "downloads": 62010188,
     "categories": [
       "fabric",
       "forge",
@@ -3722,7 +3722,7 @@
     ],
     "published_at": "2021-12-03T10:23:02.288424+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -3739,7 +3739,7 @@
     },
     "is_verified": true,
     "author": "Serilum",
-    "downloads": 61816955,
+    "downloads": 61943780,
     "categories": [
       "fabric",
       "forge",
@@ -3777,7 +3777,7 @@
     ],
     "published_at": "2022-08-30T10:44:01.264939+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -3794,7 +3794,7 @@
     },
     "is_verified": true,
     "author": "Patbox",
-    "downloads": 60126419,
+    "downloads": 60325350,
     "categories": [
       "fabric",
       "library",
@@ -3853,7 +3853,7 @@
     ],
     "published_at": "2023-05-07T21:31:58.154280+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -3870,7 +3870,7 @@
     },
     "is_verified": true,
     "author": "Fuzs",
-    "downloads": 58478827,
+    "downloads": 58614784,
     "categories": [
       "fabric",
       "forge",
@@ -3903,7 +3903,7 @@
     ],
     "published_at": "2022-07-06T18:55:14.270853+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -3920,7 +3920,7 @@
     },
     "is_verified": true,
     "author": "Keksuccino",
-    "downloads": 58196456,
+    "downloads": 58325264,
     "categories": [
       "fabric",
       "forge",
@@ -3962,7 +3962,7 @@
     ],
     "published_at": "2022-11-13T23:13:57.212151+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -3979,7 +3979,7 @@
     },
     "is_verified": true,
     "author": "BlayTheNinth",
-    "downloads": 56225164,
+    "downloads": 56347407,
     "categories": [
       "fabric",
       "forge",
@@ -4017,7 +4017,7 @@
     ],
     "published_at": "2022-06-14T18:11:16.556742+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4034,7 +4034,7 @@
     },
     "is_verified": true,
     "author": "YaLTeR",
-    "downloads": 55172683,
+    "downloads": 55312047,
     "categories": [
       "fabric",
       "forge",
@@ -4080,7 +4080,7 @@
     ],
     "published_at": "2021-03-20T15:55:49.895120+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4097,7 +4097,7 @@
     },
     "is_verified": true,
     "author": "Aizistral",
-    "downloads": 54913501,
+    "downloads": 55035414,
     "categories": [
       "fabric",
       "forge",
@@ -4144,7 +4144,7 @@
     ],
     "published_at": "2022-06-17T13:03:46.492544+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4161,7 +4161,7 @@
     },
     "is_verified": true,
     "author": "LambdAurora",
-    "downloads": 54167457,
+    "downloads": 54318618,
     "categories": [
       "adventure",
       "decoration",
@@ -4241,7 +4241,7 @@
     ],
     "published_at": "2020-12-21T15:59:13.578447+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4258,7 +4258,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 51292866,
+    "downloads": 51596337,
     "categories": [
       "equipment",
       "fabric",
@@ -4287,7 +4287,7 @@
     ],
     "published_at": "2025-03-27T22:25:52.213186+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4304,7 +4304,7 @@
     },
     "is_verified": true,
     "author": "henkelmax",
-    "downloads": 50427000,
+    "downloads": 50529258,
     "categories": [
       "adventure",
       "fabric",
@@ -4341,7 +4341,7 @@
     ],
     "published_at": "2022-06-23T14:36:52.813391+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4358,7 +4358,7 @@
     },
     "is_verified": true,
     "author": "creativemd",
-    "downloads": 48613829,
+    "downloads": 48734279,
     "categories": [
       "fabric",
       "forge",
@@ -4394,7 +4394,7 @@
     ],
     "published_at": "2021-08-17T09:10:08.972681+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4411,7 +4411,7 @@
     },
     "is_verified": true,
     "author": "Keksuccino",
-    "downloads": 47066892,
+    "downloads": 47166518,
     "categories": [
       "fabric",
       "forge",
@@ -4441,7 +4441,7 @@
     ],
     "published_at": "2023-11-17T23:00:35.949816+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4458,7 +4458,7 @@
     },
     "is_verified": true,
     "author": "thedarkcolour",
-    "downloads": 46931885,
+    "downloads": 47115835,
     "categories": [
       "forge",
       "library",
@@ -4513,7 +4513,7 @@
     ],
     "published_at": "2021-02-03T19:23:12.168918+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4530,7 +4530,7 @@
     },
     "is_verified": true,
     "author": "dzwdz",
-    "downloads": 46514152,
+    "downloads": 46613945,
     "categories": [
       "decoration",
       "fabric",
@@ -4578,7 +4578,7 @@
     ],
     "published_at": "2022-10-17T14:59:36.612208+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4595,7 +4595,7 @@
     },
     "is_verified": true,
     "author": "glisco",
-    "downloads": 45441537,
+    "downloads": 45543096,
     "categories": [
       "fabric",
       "library",
@@ -4639,7 +4639,7 @@
     ],
     "published_at": "2021-09-30T20:46:31.667429+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4656,7 +4656,7 @@
     },
     "is_verified": true,
     "author": "Darkhax",
-    "downloads": 43756705,
+    "downloads": 43844988,
     "categories": [
       "fabric",
       "forge",
@@ -4706,7 +4706,7 @@
     ],
     "published_at": "2023-06-09T23:52:07.518348+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4723,7 +4723,7 @@
     },
     "is_verified": true,
     "author": "comp500",
-    "downloads": 43214290,
+    "downloads": 43260980,
     "categories": [
       "fabric",
       "quilt",
@@ -4750,7 +4750,7 @@
     ],
     "published_at": "2021-07-19T17:56:39.449041+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4767,7 +4767,7 @@
     },
     "is_verified": true,
     "author": "SparkUniverse",
-    "downloads": 41315535,
+    "downloads": 41419611,
     "categories": [
       "fabric",
       "forge",
@@ -4811,7 +4811,7 @@
     ],
     "published_at": "2022-10-12T11:34:07.920560+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4828,7 +4828,7 @@
     },
     "is_verified": true,
     "author": "thosea",
-    "downloads": 39943900,
+    "downloads": 40063797,
     "categories": [
       "fabric",
       "forge",
@@ -4863,7 +4863,7 @@
     ],
     "published_at": "2023-12-04T21:20:58.458128+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4880,7 +4880,7 @@
     },
     "is_verified": true,
     "author": "astei",
-    "downloads": 39763757,
+    "downloads": 39848706,
     "categories": [
       "fabric",
       "optimization",
@@ -4924,7 +4924,7 @@
     ],
     "published_at": "2020-12-21T17:48:09.050177+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -4941,7 +4941,7 @@
     },
     "is_verified": true,
     "author": "Jerozgen",
-    "downloads": 38522957,
+    "downloads": 38613129,
     "categories": [
       "fabric",
       "optimization",
@@ -4994,7 +4994,7 @@
     ],
     "published_at": "2021-09-14T13:47:46.722392+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -5011,7 +5011,7 @@
     },
     "is_verified": true,
     "author": "MehVahdJukaar",
-    "downloads": 38401747,
+    "downloads": 38491130,
     "categories": [
       "fabric",
       "forge",
@@ -5034,7 +5034,7 @@
     ],
     "published_at": "2022-06-21T07:56:14.814685+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -5051,7 +5051,7 @@
     },
     "is_verified": true,
     "author": "Adubbz",
-    "downloads": 37418092,
+    "downloads": 37511385,
     "categories": [
       "fabric",
       "forge",
@@ -5091,7 +5091,7 @@
     ],
     "published_at": "2023-03-04T07:46:44.901915+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -5108,7 +5108,7 @@
     },
     "is_verified": true,
     "author": "blackd",
-    "downloads": 37436619,
+    "downloads": 37544102,
     "categories": [
       "fabric",
       "forge",
@@ -5190,7 +5190,7 @@
     ],
     "published_at": "2021-06-18T06:15:15.487832+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -5207,7 +5207,7 @@
     },
     "is_verified": true,
     "author": "Sollace",
-    "downloads": 37251871,
+    "downloads": 37339019,
     "categories": [
       "decoration",
       "fabric",
@@ -5293,7 +5293,7 @@
     ],
     "published_at": "2020-12-30T13:18:36.966588+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -5310,7 +5310,7 @@
     },
     "is_verified": true,
     "author": "jaredlll08",
-    "downloads": 36710730,
+    "downloads": 36802820,
     "categories": [
       "fabric",
       "forge",
@@ -5350,7 +5350,7 @@
     ],
     "published_at": "2023-06-09T23:49:02.305343+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -5367,7 +5367,7 @@
     },
     "is_verified": true,
     "author": "FX",
-    "downloads": 36543796,
+    "downloads": 36585289,
     "categories": [
       "fabric",
       "forge",
@@ -5433,7 +5433,7 @@
     ],
     "published_at": "2022-05-25T14:57:06.172838+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -5450,7 +5450,7 @@
     },
     "is_verified": true,
     "author": "creativemd",
-    "downloads": 36630490,
+    "downloads": 36719375,
     "categories": [
       "decoration",
       "fabric",
@@ -5489,7 +5489,7 @@
     ],
     "published_at": "2021-08-17T09:26:03.852346+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:30+00:00",
+    "updated_at": "2026-08-27T09:58:55+00:00",
     "admin_locked": []
   },
   {
@@ -5506,7 +5506,7 @@
     },
     "is_verified": true,
     "author": "jaredlll08",
-    "downloads": 36619636,
+    "downloads": 36708855,
     "categories": [
       "fabric",
       "forge",
@@ -5577,7 +5577,7 @@
     ],
     "published_at": "2023-06-09T23:49:05.550472+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -5594,7 +5594,7 @@
     },
     "is_verified": true,
     "author": "fzzyhmstrs",
-    "downloads": 36300131,
+    "downloads": 36428657,
     "categories": [
       "fabric",
       "forge",
@@ -5641,7 +5641,7 @@
     ],
     "published_at": "2024-04-21T07:12:15.276277+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -5658,7 +5658,7 @@
     },
     "is_verified": true,
     "author": "jaredlll08",
-    "downloads": 36202074,
+    "downloads": 36295149,
     "categories": [
       "fabric",
       "forge",
@@ -5717,7 +5717,7 @@
     ],
     "published_at": "2023-06-09T23:48:35.117961+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -5734,7 +5734,7 @@
     },
     "is_verified": true,
     "author": "Darkhax",
-    "downloads": 35547740,
+    "downloads": 35618692,
     "categories": [
       "fabric",
       "forge",
@@ -5797,7 +5797,7 @@
     ],
     "published_at": "2023-06-09T23:52:24.001750+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -5814,7 +5814,7 @@
     },
     "is_verified": true,
     "author": "MisterPeModder",
-    "downloads": 35318511,
+    "downloads": 35402328,
     "categories": [
       "fabric",
       "forge",
@@ -5852,7 +5852,7 @@
     ],
     "published_at": "2022-07-16T03:01:45.246757+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -5869,7 +5869,7 @@
     },
     "is_verified": true,
     "author": "ishland",
-    "downloads": 34873425,
+    "downloads": 34967506,
     "categories": [
       "fabric",
       "optimization",
@@ -6130,7 +6130,7 @@
     ],
     "published_at": "2021-10-02T10:14:46.020070+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6147,7 +6147,7 @@
     },
     "is_verified": true,
     "author": "Asek3",
-    "downloads": 34234665,
+    "downloads": 34332399,
     "categories": [
       "decoration",
       "forge",
@@ -6164,7 +6164,7 @@
     ],
     "published_at": "2022-07-02T10:02:12.932789+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6181,7 +6181,7 @@
     },
     "is_verified": true,
     "author": "Grend",
-    "downloads": 34073717,
+    "downloads": 34137845,
     "categories": [
       "fabric",
       "forge",
@@ -6212,7 +6212,7 @@
     ],
     "published_at": "2022-11-15T12:14:27.734514+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6229,7 +6229,7 @@
     },
     "is_verified": true,
     "author": "isxander",
-    "downloads": 34060996,
+    "downloads": 34142274,
     "categories": [
       "fabric",
       "forge",
@@ -6264,7 +6264,7 @@
     ],
     "published_at": "2022-03-17T20:44:31.607662+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6281,7 +6281,7 @@
     },
     "is_verified": true,
     "author": "Vazkii",
-    "downloads": 33367415,
+    "downloads": 33431625,
     "categories": [
       "fabric",
       "forge",
@@ -6312,7 +6312,7 @@
     ],
     "published_at": "2021-12-23T21:23:57.938115+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6329,7 +6329,7 @@
     },
     "is_verified": true,
     "author": "ThatGravyBoat",
-    "downloads": 33322892,
+    "downloads": 33391083,
     "categories": [
       "fabric",
       "forge",
@@ -6363,7 +6363,7 @@
     ],
     "published_at": "2022-11-17T00:56:41.383965+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6380,7 +6380,7 @@
     },
     "is_verified": true,
     "author": "Forstride",
-    "downloads": 33286183,
+    "downloads": 33422519,
     "categories": [
       "adventure",
       "decoration",
@@ -6439,7 +6439,7 @@
     ],
     "published_at": "2023-11-19T19:41:58.508068+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6456,7 +6456,7 @@
     },
     "is_verified": true,
     "author": "CobbledStudios",
-    "downloads": 33181707,
+    "downloads": 33251390,
     "categories": [
       "adventure",
       "fabric",
@@ -6471,7 +6471,7 @@
     ],
     "published_at": "2022-11-06T14:13:10.035067+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6488,7 +6488,7 @@
     },
     "is_verified": true,
     "author": "FiniteReality",
-    "downloads": 33170824,
+    "downloads": 33266518,
     "categories": [
       "fabric",
       "forge",
@@ -6520,7 +6520,7 @@
     ],
     "published_at": "2023-09-05T04:11:30.603349+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6537,7 +6537,7 @@
     },
     "is_verified": true,
     "author": "YUNGNICKYOUNG",
-    "downloads": 32920735,
+    "downloads": 32985780,
     "categories": [
       "fabric",
       "forge",
@@ -6559,7 +6559,7 @@
     ],
     "published_at": "2022-11-28T18:42:13.412406+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6576,7 +6576,7 @@
     },
     "is_verified": true,
     "author": "masa",
-    "downloads": 32929538,
+    "downloads": 33031850,
     "categories": [
       "fabric",
       "forge",
@@ -6679,7 +6679,7 @@
     ],
     "published_at": "2024-01-05T00:55:14.743969+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6696,7 +6696,7 @@
     },
     "is_verified": true,
     "author": "jeseibel",
-    "downloads": 32743555,
+    "downloads": 32813114,
     "categories": [
       "fabric",
       "forge",
@@ -6740,7 +6740,7 @@
     ],
     "published_at": "2022-01-23T05:46:55.026356+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6757,7 +6757,7 @@
     },
     "is_verified": true,
     "author": "TreyRuffy",
-    "downloads": 32523364,
+    "downloads": 32585812,
     "categories": [
       "decoration",
       "fabric",
@@ -6814,7 +6814,7 @@
     ],
     "published_at": "2021-09-20T05:42:23.778430+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6831,7 +6831,7 @@
     },
     "is_verified": true,
     "author": "blackd",
-    "downloads": 32471702,
+    "downloads": 32546922,
     "categories": [
       "fabric",
       "forge",
@@ -6900,7 +6900,7 @@
     ],
     "published_at": "2022-09-25T15:49:53.267408+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6917,7 +6917,7 @@
     },
     "is_verified": true,
     "author": "MehVahdJukaar",
-    "downloads": 31400041,
+    "downloads": 31438953,
     "categories": [
       "fabric",
       "forge",
@@ -6948,7 +6948,7 @@
     ],
     "published_at": "2022-09-13T22:54:34.173688+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -6965,7 +6965,7 @@
     },
     "is_verified": true,
     "author": "TheIllusiveC4",
-    "downloads": 30302904,
+    "downloads": 30361875,
     "categories": [
       "fabric",
       "forge",
@@ -7009,7 +7009,7 @@
     ],
     "published_at": "2023-02-03T12:14:41.181761+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7026,7 +7026,7 @@
     },
     "is_verified": true,
     "author": "SuperMartijn642",
-    "downloads": 30257766,
+    "downloads": 30319945,
     "categories": [
       "fabric",
       "forge",
@@ -7086,7 +7086,7 @@
     ],
     "published_at": "2022-07-15T17:18:43.675914+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7103,7 +7103,7 @@
     },
     "is_verified": true,
     "author": "TheIllusiveC4",
-    "downloads": 29612930,
+    "downloads": 29680823,
     "categories": [
       "adventure",
       "equipment",
@@ -7146,7 +7146,7 @@
     ],
     "published_at": "2023-02-03T02:16:08.256771+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7163,7 +7163,7 @@
     },
     "is_verified": true,
     "author": "Corosus",
-    "downloads": 28875988,
+    "downloads": 28935324,
     "categories": [
       "fabric",
       "forge",
@@ -7183,7 +7183,7 @@
     ],
     "published_at": "2023-11-16T07:48:13.742590+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7200,7 +7200,7 @@
     },
     "is_verified": true,
     "author": "craneblock6666",
-    "downloads": 28631343,
+    "downloads": 28738013,
     "categories": [
       "adventure",
       "equipment",
@@ -7214,7 +7214,7 @@
     ],
     "published_at": "2024-05-31T23:27:58.574827+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7231,7 +7231,7 @@
     },
     "is_verified": true,
     "author": "PinkGoosik",
-    "downloads": 27849206,
+    "downloads": 27897990,
     "categories": [
       "decoration",
       "fabric",
@@ -7272,7 +7272,7 @@
     ],
     "published_at": "2021-08-27T14:57:05.818377+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7289,7 +7289,7 @@
     },
     "is_verified": true,
     "author": "Emi",
-    "downloads": 27133049,
+    "downloads": 27199433,
     "categories": [
       "fabric",
       "forge",
@@ -7313,7 +7313,7 @@
     ],
     "published_at": "2022-06-08T18:43:43.368416+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7330,7 +7330,7 @@
     },
     "is_verified": true,
     "author": "TonimatasDEV",
-    "downloads": 27093729,
+    "downloads": 27164341,
     "categories": [
       "fabric",
       "forge",
@@ -7378,7 +7378,7 @@
     ],
     "published_at": "2022-11-02T22:51:52.100958+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   },
   {
@@ -7395,7 +7395,7 @@
     },
     "is_verified": true,
     "author": "Su5eD",
-    "downloads": 26611331,
+    "downloads": 26705210,
     "categories": [
       "forge",
       "library",
@@ -7409,7 +7409,7 @@
     ],
     "published_at": "2023-07-18T01:52:43.220355+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-08-26T02:03:31+00:00",
+    "updated_at": "2026-08-27T09:58:57+00:00",
     "admin_locked": []
   }
 ]
