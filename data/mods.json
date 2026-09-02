@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 367.2M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 367.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "ebc0850d214e9d735811aee1bcafa7e4fd9deece1bcaf7c076cb852f67c8fdc5",
+    "external_hash": "292a231eb418177c2826129d4a33c82dc7ec43f045790e374d8ce580ff07ddf3",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,7 +38,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-02T01:04:47+00:00",
+    "updated_at": "2026-09-02T11:27:09+00:00",
     "admin_locked": []
   },
   {
@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 218.8M Downloads | Mods",
+    "description": "Memory usage optimizations 218.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "059b9bf14cb70a6d38b498aa8e7975d15c45633c188456937a4ca552198fe1ad",
+    "external_hash": "acbd934915edfc244c68b244ee59be39b19bafa73395c9b76f004ab858a7cd6e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,16 +122,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-09-01T11:46:11+00:00",
+    "updated_at": "2026-09-02T11:27:07+00:00",
     "admin_locked": []
   },
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 199.7M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 199.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "0ba81b26d6c684382380f788e4189d2184a88f42b87d87ce8976ab3ba41d1c72",
+    "external_hash": "71651d2dca1c5cb687cd7163b66dbc2c88bebdb1fa183420db0a8a773e342d3c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-01T22:38:53+00:00",
+    "updated_at": "2026-09-02T11:27:21+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 402.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 402.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "d0d2ee4a39340bb34b929bd44ea98ad9166a5347c7b7da59361faaa3497c383e",
+    "external_hash": "bd4edede89208c35bb78bf2a7d3fd0f401ec37447f35e4d37a3843dc5015f180",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-02T01:04:48+00:00",
+    "updated_at": "2026-09-02T11:27:14+00:00",
     "admin_locked": []
   },
   {
