@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 618.1M Downloads | Mods",
+    "description": "View Items and Recipes 618.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "1c480cb005a207d6b5d5589f6290d46cb6f6daaf25c1eb7535eb99e6ed3fc924",
+    "external_hash": "ece14d6502c0039f06d76cf666862c0a32741ed7c95479159cb406b4cabae081",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-03T01:10:25+00:00",
+    "updated_at": "2026-09-03T11:23:23+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 146.7M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 146.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "73880495c911e13314cdca1ddb3cef6c39f52d4de1ca2e69558529bdabb92165",
+    "external_hash": "cee61919116ed70afa975418761a2b25ce47f2cec2ab733086875de6f57a7f0d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-02T22:42:36+00:00",
+    "updated_at": "2026-09-03T11:23:45+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 249.9M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 250.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "f11f5809cce958ee2352b0f4ea59a677713b6064de48dd064fe8079a7b6d88d0",
+    "external_hash": "fd3d04f8aaf15ac0e7acc3c80dd54377053a859996eb278900acecc4fb7b54de",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-02T22:42:41+00:00",
+    "updated_at": "2026-09-03T11:23:40+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 235.6M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 235.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "c43fdb08787b42851a4b4eb6e803e838c82337260835a1813515ead672f19cc4",
+    "external_hash": "82028fe2bae5a374a450f9e668113d0556ab6fb986d48cd34a9859da4b1de458",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-02T22:42:23+00:00",
+    "updated_at": "2026-09-03T11:23:47+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 265.3M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 265.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "2470f90dbff31ccf9869433e998770db658811e39e5bbcd0c05296c04476607c",
+    "external_hash": "034b8d0e4c4f6b8d13efd80835696c933984206a2ce817357493dccebb0edbae",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-02T22:42:29+00:00",
+    "updated_at": "2026-09-03T11:23:44+00:00",
     "admin_locked": []
   },
   {
@@ -2598,7 +2598,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 74173749,
+    "downloads": 74226233,
     "categories": [
       "fabric",
       "forge",
@@ -2658,7 +2658,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-03T01:11:27+00:00",
+    "updated_at": "2026-09-03T11:24:33+00:00",
     "admin_locked": []
   },
   {
@@ -7413,6 +7413,27 @@
     "published_at": "2023-07-18T01:52:43.220355+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
     "updated_at": "2026-09-03T01:11:29+00:00",
+    "admin_locked": []
+  },
+  {
+    "id": "c0f1554e4a8dabdc",
+    "name": "Xaero's Minimap",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 244.0M Downloads | Mods",
+    "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
+    "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+    "external_hash": "42b1096d88b15ba8116e3f783864278f3dd954966a3caba04b53e5d640967ce7",
+    "category": "mods",
+    "source": {
+      "name": "CurseForge",
+      "base_url": "https://www.curseforge.com"
+    },
+    "is_verified": true,
+    "author": "",
+    "downloads": 0,
+    "categories": [],
+    "published_at": "2026-09-03T11:23:38+00:00",
+    "discovered_at": "2026-09-03T11:23:38+00:00",
+    "updated_at": "2026-09-03T11:23:38+00:00",
     "admin_locked": []
   }
 ]
