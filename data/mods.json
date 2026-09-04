@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 367.8M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 367.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "bbbb728e7734970a888645097931d3e522f2c3fb39926362c5f63ad1917c7cd6",
+    "external_hash": "67c3ae25354cb942b2952ebedab0c89e49e06110c797549a4355e626759d920a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,16 +38,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-04T16:27:53+00:00",
+    "updated_at": "2026-09-04T22:24:31+00:00",
     "admin_locked": []
   },
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 618.7M Downloads | Mods",
+    "description": "View Items and Recipes 618.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "85585a7f9e08dea23668c1824e1958f1a79c0fb575b2be2a9ca9562dfad0dc03",
+    "external_hash": "582c51f58b7bb8b57b9a97fd991d6864f8febdfc8bbf5f81fe0bc9085f3bbec2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-04T16:27:39+00:00",
+    "updated_at": "2026-09-04T22:24:39+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 147.0M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 147.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "940d7bde9507e3cd4dcb6d080e608eba144f581fd0dbfa7d05fb75966ccf1ab4",
+    "external_hash": "74a2a2ee1532053aa9f0e45a034b99797b895b6d055c891c2e7672009f2959f5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-04T11:26:54+00:00",
+    "updated_at": "2026-09-04T22:24:27+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.2M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "55d8d80c2c07e8df271905bd1d5c4f041b7d436bf15b9b5b27d70f5e6b004cac",
+    "external_hash": "fd73cd9d0952c1f5e6e1bea854e5b897a03be4b847f1d8e5f57edfdf0aacc413",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-04T16:27:55+00:00",
+    "updated_at": "2026-09-04T22:24:24+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 250.3M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 250.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "08631bfe29dd3a6d6d71c22383cb1ea17c3431b1e02efb2d5624a0b6fcb8c20d",
+    "external_hash": "e5b7cfb00593cb11b1fba3af3d3aa462a864d89c61e53269bcf8261574c32426",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-04T16:27:33+00:00",
+    "updated_at": "2026-09-04T22:24:21+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 178.8M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 178.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "acb554bbc3012cdab855e1ef5a9b5ae67797ae8fe07313fc4209afd31ae5c41d",
+    "external_hash": "e1180fd8a0688bbb975c8399eb8119b24850c8380af9b81b2fa348b377b24b63",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-04T16:27:41+00:00",
+    "updated_at": "2026-09-04T22:24:35+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 236.0M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 236.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "c979934c038aac6c9ac0b8c5048d9fd79829d921d4a0bc73bb42de5e25af2b04",
+    "external_hash": "3b1948dcfa83ed20f0b6e5107cc7e4a0673bbecfb97136e723741eeff24adaf6",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-04T16:27:38+00:00",
+    "updated_at": "2026-09-04T22:24:25+00:00",
     "admin_locked": []
   },
   {
