@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 618.5M Downloads | Mods",
+    "description": "View Items and Recipes 618.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "bfc3accd313cd7487af7fd3716ec77559816f0eff187f33781df63c5b9089729",
+    "external_hash": "6b812f759ece0417ff3fa6b4f5b46297ab2f15c1d3f4a8ba87cacf67683a34a1",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-04T05:59:49+00:00",
+    "updated_at": "2026-09-04T11:26:55+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 146.9M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 147.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "4e5b5a6f8c3e5be19b717240f58adf3c4d6cf73f81d86218b5af1592584e11a3",
+    "external_hash": "940d7bde9507e3cd4dcb6d080e608eba144f581fd0dbfa7d05fb75966ccf1ab4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,16 +80,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-03T22:38:44+00:00",
+    "updated_at": "2026-09-04T11:26:54+00:00",
     "admin_locked": []
   },
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 411.1M Downloads | Mods",
+    "description": "An open source library for other mods! 411.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "8feeee86debfabbecebd51934381eabf574d47c45284bb549e1a61bdeff01981",
+    "external_hash": "bf26ef065677cddb4d4252bdfa7514665d730e331056491ae126b7d61f60ce5c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-03T22:38:54+00:00",
+    "updated_at": "2026-09-04T11:26:49+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.0M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "0ffaccd0f746148974f488f78cb4db217179a0b377922f12eecc8a16a08923ab",
+    "external_hash": "bcb1331fb43637d96d74d86184b98c280a78994cec3466ccf4de3881c41b5aa5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-04T01:03:11+00:00",
+    "updated_at": "2026-09-04T11:26:56+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 303.2M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 303.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "6b612098aa8bc62020caf12147757f2284725c351fa76665e9cd8edd362b3782",
+    "external_hash": "2aa99fc1108f41d685503fa0959f50305addf6a53192073d191dfc6a55f20522",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-03T22:38:58+00:00",
+    "updated_at": "2026-09-04T11:26:42+00:00",
     "admin_locked": []
   },
   {
@@ -433,7 +433,7 @@
     },
     "is_verified": true,
     "author": "modmuss50",
-    "downloads": 247022195,
+    "downloads": 247208688,
     "categories": [
       "fabric",
       "library",
@@ -823,7 +823,7 @@
     ],
     "published_at": "2021-01-22T11:04:41.419169+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-04T01:04:08+00:00",
+    "updated_at": "2026-09-04T11:27:43+00:00",
     "admin_locked": []
   },
   {
@@ -4942,7 +4942,7 @@
     },
     "is_verified": true,
     "author": "Jerozgen",
-    "downloads": 39287715,
+    "downloads": 39308951,
     "categories": [
       "fabric",
       "optimization",
@@ -4995,7 +4995,7 @@
     ],
     "published_at": "2021-09-14T13:47:46.722392+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-04T01:04:09+00:00",
+    "updated_at": "2026-09-04T11:27:44+00:00",
     "admin_locked": []
   },
   {
