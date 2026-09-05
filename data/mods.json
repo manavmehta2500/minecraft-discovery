@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 618.9M Downloads | Mods",
+    "description": "View Items and Recipes 619.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "c95e95b5456cd9711aab8c04911faf84cf6cf5aebc15407db98b2d39cec2b6ec",
+    "external_hash": "efa6f1bdf885a64a3e54afe9efe346e90c6de2a9ff686f46b0e1c1560f728748",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-05T05:50:50+00:00",
+    "updated_at": "2026-09-05T10:43:14+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 200.4M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 200.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "12c31ae3bbb91a7786096c6ebc5c34a482f230daf1472dea18b74284a29b9be1",
+    "external_hash": "738685aa417ff84d52bbaf93d3b77d942700528d5cabf2b0ce93acf9d68d986a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-05T01:03:34+00:00",
+    "updated_at": "2026-09-05T10:43:16+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.4M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "5a78311cdca611c6049f33a17519f814860476f6072d30cc4c7a5b7ec83a2ed5",
+    "external_hash": "2b78050f9f98365571ebe6cb77c89a191d8b0ae0bb6b207a9fc014c773e6bbd6",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-05T05:50:30+00:00",
+    "updated_at": "2026-09-05T10:43:20+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 281.0M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 281.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "55c46a01bccd729937d72d4c56cb872e20eb0aa67fdfbddfb7ebd91c803c5336",
+    "external_hash": "7313b43701620ef51c3c4a8116ce6aee5ec7d424e76ccb42cfb71fa229db79ec",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-05T01:03:24+00:00",
+    "updated_at": "2026-09-05T10:43:13+00:00",
     "admin_locked": []
   },
   {
@@ -2599,7 +2599,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 74567691,
+    "downloads": 74651428,
     "categories": [
       "fabric",
       "forge",
@@ -2659,7 +2659,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-05T05:51:39+00:00",
+    "updated_at": "2026-09-05T10:44:07+00:00",
     "admin_locked": []
   },
   {
