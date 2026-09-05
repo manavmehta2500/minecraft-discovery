@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 411.5M Downloads | Mods",
+    "description": "An open source library for other mods! 411.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "b68923d381d2137678992272aba522d63af535bd56a9c6e97eddddbca59e5edd",
+    "external_hash": "9fd0714b955de33c2241c89367c2d1b3b534990386c1ba93823770d974c1ff47",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,16 +101,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-05T13:54:23+00:00",
+    "updated_at": "2026-09-05T21:20:07+00:00",
     "admin_locked": []
   },
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 219.2M Downloads | Mods",
+    "description": "Memory usage optimizations 219.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "c4212bdf687220c9505ea652080695ff10450c3b79220ac22a4ea0c846722d01",
+    "external_hash": "612dca2617ee3a03b205956ca9e5d6cc142ba6946f74a1a3cbd75fa5f742b749",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,7 +122,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-09-05T01:03:26+00:00",
+    "updated_at": "2026-09-05T21:20:18+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 250.6M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 250.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "e4d7dca1d5b1b8f1b2cbe6c6ebf2266917446c91bf911b8e14a182f6ba719fb4",
+    "external_hash": "265363cd95dcb58be84739a2b05ba522bc9cea7afa6e58abfd10ee6a44e594c9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-05T13:54:11+00:00",
+    "updated_at": "2026-09-05T21:20:09+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 179.1M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 179.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "700930a00dd24e72c69361240329cba5203e8d1ee5194efab861d1150f8d8877",
+    "external_hash": "32f2d279eb79b35ae8d5e71a4752ec707e527121aadf2069ab207b040de5e445",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-05T13:54:19+00:00",
+    "updated_at": "2026-09-05T21:20:19+00:00",
     "admin_locked": []
   },
   {
@@ -317,10 +317,10 @@
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 259.3M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 259.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "89f0c9c9436aa81a15de0f98d0642cf7a192b9039eee3ce5cfc179397a7dba29",
+    "external_hash": "682ed62f0a3e3718aa7fbb4a69497fe464b78c8deb7ef6082334b43e9a4d9106",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,16 +332,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-09-05T13:54:24+00:00",
+    "updated_at": "2026-09-05T21:20:16+00:00",
     "admin_locked": []
   },
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 266.0M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 266.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "c7a93f0d82dd49368c5c86a3a1ff552a5bda14da2eb52cb49ef3018322f2ff13",
+    "external_hash": "3f5ff28e07a129a5ae5635a0e554fd35b7420c287dcc4763a9f9184a55f30810",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-05T16:54:13+00:00",
+    "updated_at": "2026-09-05T21:20:23+00:00",
     "admin_locked": []
   },
   {
@@ -7421,10 +7421,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 244.5M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 244.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "be20f3450e7a8d2930ba670ca7ff9faa7c03f55f7ed18a30103a76c695785460",
+    "external_hash": "44dca3f8e011a18698ba7398d4bddda4501b32e454e5c9ec63238362c8582470",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7436,7 +7436,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-09-05T13:54:29+00:00",
+    "updated_at": "2026-09-05T21:20:12+00:00",
     "admin_locked": []
   }
 ]
