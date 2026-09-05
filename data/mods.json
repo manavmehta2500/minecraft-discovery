@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 368.0M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 368.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "756acc4a3aa9a36e64aaea922d7e934146fcc50d0e4acf7a13c0f96d8e8ade72",
+    "external_hash": "0db5b96df5a9b6adfa6682ff070e65cd7428de2b4758a93b7ec8506c172ba263",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,7 +38,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-05T05:50:39+00:00",
+    "updated_at": "2026-09-05T16:53:06+00:00",
     "admin_locked": []
   },
   {
@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 147.2M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 147.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "d401c4ef28a8bc063142a3a8b5f3f8eb22ffa2f66c296df2e200dcd799585e5f",
+    "external_hash": "d3e49d5da8686f9be6f7fbec1783244e35f29fe5127f1472d7028203d2bc8082",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-05T05:50:52+00:00",
+    "updated_at": "2026-09-05T16:52:49+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 200.5M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 200.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "738685aa417ff84d52bbaf93d3b77d942700528d5cabf2b0ce93acf9d68d986a",
+    "external_hash": "ad66df670750f899646c74a21e82bd8dbd0c093d9041975c625cc20d5ac78547",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-05T10:43:16+00:00",
+    "updated_at": "2026-09-05T16:53:57+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.5M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "2b78050f9f98365571ebe6cb77c89a191d8b0ae0bb6b207a9fc014c773e6bbd6",
+    "external_hash": "0b6105bdd0280e863181dff0c1273cb4f70071f62f6cff9c3424e3ad3e374272",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-05T10:43:20+00:00",
+    "updated_at": "2026-09-05T16:53:23+00:00",
     "admin_locked": []
   },
   {
@@ -191,10 +191,10 @@
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 473.2M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 473.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "c886b9e88d4f5aedeea07d9108c8f1c8d78242ed16c4d25519b0698094b960b6",
+    "external_hash": "f52e7aa61898a4355d6463797b57b0f86cdf656a10593c92b32b23e128940e06",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-09-05T05:50:31+00:00",
+    "updated_at": "2026-09-05T16:52:14+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 341.6M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 341.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "da90a7a43b7bcfca29852a209aa25c55a4a6bde3c1bcab413b28d53775d888c8",
+    "external_hash": "f88171e419dabf5be0643f98282b29b3fb7eb8bf967ce5b0cc4f7f7f63c700d7",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-09-05T05:50:38+00:00",
+    "updated_at": "2026-09-05T16:53:24+00:00",
     "admin_locked": []
   },
   {
@@ -296,10 +296,10 @@
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 373.2M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 373.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "31d4b63e4844849984158000dd669171245ae734f8131dd007b747abc3be4325",
+    "external_hash": "b4cbba689764c5600f45048b49d0347ef797b57465b7a83809ea762a572c97d0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-05T05:50:41+00:00",
+    "updated_at": "2026-09-05T16:54:45+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 265.9M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 266.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "adb5b4675ad772d4d681c6e7b55390d4dd6b0dce9414e70a0a0ac8f18a9a67b8",
+    "external_hash": "c7a93f0d82dd49368c5c86a3a1ff552a5bda14da2eb52cb49ef3018322f2ff13",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-05T05:50:29+00:00",
+    "updated_at": "2026-09-05T16:54:13+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 391.2M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 391.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "9fa69b09a617db862dcbe4a07a713c794a3fb1c17379bbc72d561c06c8df9cf1",
+    "external_hash": "6ae06a1736f34596598af94cacae622446451fb2803cedb18d6c7b1c2584456a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-09-05T01:03:31+00:00",
+    "updated_at": "2026-09-05T16:54:56+00:00",
     "admin_locked": []
   },
   {
@@ -2599,7 +2599,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 74654706,
+    "downloads": 74733035,
     "categories": [
       "fabric",
       "forge",
@@ -2659,7 +2659,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-05T13:55:25+00:00",
+    "updated_at": "2026-09-05T16:56:11+00:00",
     "admin_locked": []
   },
   {
