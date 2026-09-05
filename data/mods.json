@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 410.9M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 411.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "b8dddb93bb627278310114f8c8fa8ed14b6ced0492e372d1aeb4c2e0660ba502",
+    "external_hash": "3b2f282179565e6f6960584ac79f550239dc45f316c49f591878cf23bc8bbb31",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,16 +17,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-09-05T13:54:17+00:00",
+    "updated_at": "2026-09-05T23:58:09+00:00",
     "admin_locked": []
   },
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 368.1M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 368.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "0db5b96df5a9b6adfa6682ff070e65cd7428de2b4758a93b7ec8506c172ba263",
+    "external_hash": "b84a67d88357432d8bdaf4aeaf7f64cf77119c37f88e156bf47712bdfd4863fe",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,16 +38,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-05T16:53:06+00:00",
+    "updated_at": "2026-09-05T23:58:06+00:00",
     "admin_locked": []
   },
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 619.2M Downloads | Mods",
+    "description": "View Items and Recipes 619.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "e591ed0260c81f41412530fb59aa6233448e717ccfe20e7999d6c4c111012821",
+    "external_hash": "b00de74eb5be0cce77d6336de66e2bdc2155a27b2a941c804672c2e44459b2f8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-05T19:06:06+00:00",
+    "updated_at": "2026-09-05T23:58:02+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 147.3M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 147.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "d3e49d5da8686f9be6f7fbec1783244e35f29fe5127f1472d7028203d2bc8082",
+    "external_hash": "d8b0711b2855012a8d6f0f40ec4e46134738246966a0ae946bd90baefaee4af2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-05T16:52:49+00:00",
+    "updated_at": "2026-09-05T23:58:14+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 200.6M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 200.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "ad66df670750f899646c74a21e82bd8dbd0c093d9041975c625cc20d5ac78547",
+    "external_hash": "44b98f914f258ae38c1165ae0e6979692a147cb47e40b68930b9171fbb27d32a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-05T16:53:57+00:00",
+    "updated_at": "2026-09-05T23:58:13+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.7M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 403.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "52a2cd1ddfe983234ede1e240c9387e650249275419c34f3b9fe83b2efb82db3",
+    "external_hash": "76bfd8cd3fdcf55cee6b8ac809cbf68812fe35ab172dd2e8210128f3e38db32f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-05T19:06:07+00:00",
+    "updated_at": "2026-09-05T23:58:10+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 236.4M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 236.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "0201545f5eb4edf15e235577bd52f6925d4c1b0447f81fd547663e64608c5d04",
+    "external_hash": "6c7125ef6b4f5cd78e68436c69d0c947cac307c0773d5e458261bb3a836b8b09",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,16 +290,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-05T19:05:51+00:00",
+    "updated_at": "2026-09-05T23:58:17+00:00",
     "admin_locked": []
   },
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 373.3M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 373.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "b4cbba689764c5600f45048b49d0347ef797b57465b7a83809ea762a572c97d0",
+    "external_hash": "6eed7147cc9078c8314a86529c677025984ece5b8b92043166529a791406ea09",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-05T16:54:45+00:00",
+    "updated_at": "2026-09-05T23:58:03+00:00",
     "admin_locked": []
   },
   {
