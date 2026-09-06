@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 619.6M Downloads | Mods",
+    "description": "View Items and Recipes 619.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "f9e4670333b045ca4e6d6091b8b30b557b2fc880c56afdd85630e62e0fcd858f",
+    "external_hash": "aef1c28e3d1ff87b0221bf4bb4568ad72ed0f57d45c59490dc9cf5b5c4a1da2c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-06T13:43:26+00:00",
+    "updated_at": "2026-09-06T19:16:16+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 404.1M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 404.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "045fc839b0f072bfe08bde541922c093c607a449a712a4ab2dfc51055bc3171a",
+    "external_hash": "ea1e4169430ccaaa989220d3697cb6c5d3f3164ce23d3069948f72803db0453b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-06T17:08:18+00:00",
+    "updated_at": "2026-09-06T19:16:20+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 250.9M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 251.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "5e10a1493dfd9acfedc09952a0b695981eb3028a4393222d6eb680e4b1b8dc11",
+    "external_hash": "cf78aeeef2116ffe343b75d8e1ae8324e803a05d87154803ef0f51ceaad95e0d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-06T13:43:43+00:00",
+    "updated_at": "2026-09-06T19:16:33+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 179.4M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 179.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "2feffac86757b294f364b764da385e503bb5a461614580c66b17542921e12446",
+    "external_hash": "5ff38ad1c01ed6cbb54a4b78672ea7e604b00badb29d38065d3b53eb5893a8b1",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-06T13:43:33+00:00",
+    "updated_at": "2026-09-06T19:16:13+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 303.9M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "53025bede910391fdf7b707dc8d878e10bdf3bbfd93d48e7167e2e5dbaa14654",
+    "external_hash": "c3984e7dd7f5688dd7a9491464325034e9f1e61fff1ef09c62a5291c020f9e54",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-06T13:43:35+00:00",
+    "updated_at": "2026-09-06T19:16:18+00:00",
     "admin_locked": []
   },
   {
@@ -296,10 +296,10 @@
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 373.5M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 373.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "ea33973593f55f73b3dee3e565adb34d68f28f66c1f4bfef31d33a4866298c2c",
+    "external_hash": "ea1e08805c0e9b5a23310b09cbba4ecab9b73d0aa943fc932d6b8c14d66c48b2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-06T13:43:31+00:00",
+    "updated_at": "2026-09-06T19:16:22+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 266.3M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 266.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "1dbd0c80367f4d923dd6dab1fed4f8830a54c093da03be962b007daca6ea1ca2",
+    "external_hash": "86346861e02507215f6b9eb5c3e204c51d5942c572808741e8a85689ea6c9788",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-06T13:43:34+00:00",
+    "updated_at": "2026-09-06T19:16:17+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 281.4M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 281.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "e4b46c3dbf622e2a6fc1f87ec6d8de624ddabdc043491b1c959c6b13dbed4ae2",
+    "external_hash": "8087b2bea26ad0021c269a6e10c142b8cf34c4af250e6689ef8080f1005ea020",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,16 +395,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-06T13:43:23+00:00",
+    "updated_at": "2026-09-06T19:16:30+00:00",
     "admin_locked": []
   },
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 391.4M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 391.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "ad4c4c3433fc4270f7739bc82e44ec32ff6a7a4615ab85fd2896f12868b47b2f",
+    "external_hash": "d156fd86949ac7f14c351753666ca5ff8e015e2a244c7e6f6eeae0ee94ab9264",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-09-06T04:48:04+00:00",
+    "updated_at": "2026-09-06T19:16:35+00:00",
     "admin_locked": []
   },
   {
