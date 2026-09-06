@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 368.4M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 368.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "5f5b773297b8eb7fd42b0ebbc168f789fc7c8ef7abad09041d57c8ef0bb6fc06",
+    "external_hash": "beac59ed69522c31623bb36bc942c08aba48e50d0e36d7cf7f1557801cdef0c2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,7 +38,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-06T13:43:46+00:00",
+    "updated_at": "2026-09-06T21:28:19+00:00",
     "admin_locked": []
   },
   {
@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 411.8M Downloads | Mods",
+    "description": "An open source library for other mods! 411.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "3e32ac9fad4fc343a598334cf388a5a5f19351b5c85bded429f5699bcca44fa8",
+    "external_hash": "6ce6bc493da1ec87fefb4098b46b5bd756123749161ec4daf3cf49b7cec4040d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-06T13:43:25+00:00",
+    "updated_at": "2026-09-06T21:27:59+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 236.7M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 236.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "10b21bc00a71f94b2fa3b0ab56dafdcf312059833dc8320da3f0d1e29e94bf5e",
+    "external_hash": "855f66f4e278c6eac6cb1954669e94fe0fde5c303e405b7da9f6a3f6cd003482",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-06T17:08:17+00:00",
+    "updated_at": "2026-09-06T21:27:54+00:00",
     "admin_locked": []
   },
   {
