@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 201.3M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 201.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "d0e85aae71b3257ec29816eeaa4c0fab3e983e1d31b5cfb9ed82ed6f12945a97",
+    "external_hash": "37822dcecf878662bae4fb843649e130970f8785fbf5732c8f796b89caca2f2b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,7 +143,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-08T04:47:39+00:00",
+    "updated_at": "2026-09-08T14:38:05+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.4M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "e03e5df6acd56191a127a014fc5b326ee31e37acaec9998a531feef96554bfe8",
+    "external_hash": "ce27a0e5b0ae89fa2347e35e149dfb9d18605a28b9212ec6fb77ca3291e65205",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-08T04:47:37+00:00",
+    "updated_at": "2026-09-08T14:38:08+00:00",
     "admin_locked": []
   },
   {
@@ -296,10 +296,10 @@
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 373.9M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 374.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "e6f870943def3e39071986355770d05cd189879d678a8ba9a33fe54b3477ebc9",
+    "external_hash": "98382c5383ae22e6802e357ade01acf15405a1678b13d2e4aec27b4aa5b73e67",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,16 +311,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-07T23:34:18+00:00",
+    "updated_at": "2026-09-08T14:37:51+00:00",
     "admin_locked": []
   },
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 260.0M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 260.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "f2fc3694967c01f4c0c34c0aa3eecb00d6aad45aa0031ba50dcaeaba7b0aa3f4",
+    "external_hash": "3fbf060ad85995e98fdbba0329c259a3269f282f3ff77c0ecd8673072e7a80a7",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,7 +332,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-09-08T04:47:55+00:00",
+    "updated_at": "2026-09-08T14:37:52+00:00",
     "admin_locked": []
   },
   {
@@ -359,10 +359,10 @@
   {
     "id": "34d247df9b60ae22",
     "name": "Entity Culling Fabric/Forge",
-    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 224.0M Downloads | Mods",
+    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 225.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
-    "external_hash": "1c4b8bcdc7d35f7f25a88c7cc8950f7b890eda4a320422cd3086e5c4e1ad2dd2",
+    "external_hash": "79eb13ae40503fcc37051278a1ee47b66dd7c4885804e1069454844505ccaffa",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -374,7 +374,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:58+00:00",
     "discovered_at": "2026-08-24T21:39:58+00:00",
-    "updated_at": "2026-09-02T22:42:22+00:00",
+    "updated_at": "2026-09-08T14:38:07+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 391.7M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 391.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "bb48f58af36ee84b1370fc73a536c76a28175e571abc9a1f906773e752b85767",
+    "external_hash": "cf5be5a91cae9f47cfdb54e6f6fec42b618b3d1f15925b9abc296e72faf1eff3",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-09-07T20:38:19+00:00",
+    "updated_at": "2026-09-08T14:37:48+00:00",
     "admin_locked": []
   },
   {
@@ -433,7 +433,7 @@
     },
     "is_verified": true,
     "author": "modmuss50",
-    "downloads": 249992981,
+    "downloads": 250318238,
     "categories": [
       "fabric",
       "library",
@@ -820,11 +820,12 @@
       "mc_version:26.3-snapshot-9",
       "mc_version:26.3-snapshot-10",
       "mc_version:26.3-pre-1",
-      "mc_version:26.3-pre-2"
+      "mc_version:26.3-pre-2",
+      "mc_version:26.3-pre-3"
     ],
     "published_at": "2021-01-22T11:04:41.419169+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-08T04:48:47+00:00",
+    "updated_at": "2026-09-08T14:38:55+00:00",
     "admin_locked": []
   },
   {
@@ -2599,7 +2600,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 75198539,
+    "downloads": 75282766,
     "categories": [
       "fabric",
       "forge",
@@ -2659,7 +2660,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-08T04:48:47+00:00",
+    "updated_at": "2026-09-08T14:38:55+00:00",
     "admin_locked": []
   },
   {
@@ -2860,7 +2861,7 @@
     },
     "is_verified": true,
     "author": "henkelmax",
-    "downloads": 67314938,
+    "downloads": 67387057,
     "categories": [
       "adventure",
       "bukkit",
@@ -3138,11 +3139,12 @@
       "mc_version:26.3-snapshot-9",
       "mc_version:26.3-snapshot-10",
       "mc_version:26.3-pre-1",
-      "mc_version:26.3-pre-2"
+      "mc_version:26.3-pre-2",
+      "mc_version:26.3-pre-3"
     ],
     "published_at": "2021-11-15T12:29:48.239701+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-08T04:48:47+00:00",
+    "updated_at": "2026-09-08T14:38:55+00:00",
     "admin_locked": []
   },
   {
@@ -3982,7 +3984,7 @@
     },
     "is_verified": true,
     "author": "BlayTheNinth",
-    "downloads": 57810974,
+    "downloads": 57864387,
     "categories": [
       "fabric",
       "forge",
@@ -4020,7 +4022,7 @@
     ],
     "published_at": "2022-06-14T18:11:16.556742+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-08T04:48:48+00:00",
+    "updated_at": "2026-09-08T14:38:56+00:00",
     "admin_locked": []
   },
   {
@@ -5873,7 +5875,7 @@
     },
     "is_verified": true,
     "author": "ishland",
-    "downloads": 36091522,
+    "downloads": 36133829,
     "categories": [
       "fabric",
       "optimization",
@@ -6136,7 +6138,7 @@
     ],
     "published_at": "2021-10-02T10:14:46.020070+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-09-08T04:48:49+00:00",
+    "updated_at": "2026-09-08T14:38:57+00:00",
     "admin_locked": []
   },
   {
@@ -7421,10 +7423,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 245.2M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 245.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "1785aca2bb8c7aad0eeeecaea3c4077b07a6710f66445ba5c634d31f03d66737",
+    "external_hash": "71fdba198d680f20dff8e47c14e230f46780d8c1c030fe5f3f30ba856e62818a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7436,7 +7438,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-09-08T04:47:52+00:00",
+    "updated_at": "2026-09-08T14:37:53+00:00",
     "admin_locked": []
   }
 ]
