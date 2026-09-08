@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 411.5M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 411.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "c1216ec5b05b15390a6beef525e15a85d9ce6d60e45e781236f99859d7e32733",
+    "external_hash": "2d037ce025c6b177dc69794ff14685a9016fd83c6939a043f50a4814559542e4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,7 +17,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-09-08T09:48:23+00:00",
+    "updated_at": "2026-09-08T21:55:07+00:00",
     "admin_locked": []
   },
   {
@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 219.6M Downloads | Mods",
+    "description": "Memory usage optimizations 219.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "09196a50c1fc040acef9ebe2ad48d602bb1aede784142307806c52b34fcb0422",
+    "external_hash": "eef2b610eaf62905c0e29156bb523a044700f480ba589478ce759057d1e8e1ff",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,16 +122,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-09-08T04:47:35+00:00",
+    "updated_at": "2026-09-08T21:55:05+00:00",
     "admin_locked": []
   },
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 201.4M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 201.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "37822dcecf878662bae4fb843649e130970f8785fbf5732c8f796b89caca2f2b",
+    "external_hash": "71dd93afda561708d0fd7c5501ae5d3a809e0b495e2639dd4b39dcc0506254e3",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,7 +143,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-08T14:38:05+00:00",
+    "updated_at": "2026-09-08T21:54:51+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 251.6M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 251.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "3c3acbbe196eaceb37091c61eedc4d3fe15ace73b7f70aa06ee2c871959ec7b3",
+    "external_hash": "616d690e112977f1b8180979d3d515e211219a355f5cd85ed461b50fd7dc832c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-08T18:46:31+00:00",
+    "updated_at": "2026-09-08T21:54:54+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 342.3M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 342.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "58f4c41300f7882d13a188be8205cea2adf4827d13a3fc2c3bc9914260bb7a60",
+    "external_hash": "6b795558514d44c73450da19ad01d1ee33d171773b1d3fbbe4b266860bcb333c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,16 +248,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-09-08T04:47:42+00:00",
+    "updated_at": "2026-09-08T21:54:57+00:00",
     "admin_locked": []
   },
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.5M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "ce27a0e5b0ae89fa2347e35e149dfb9d18605a28b9212ec6fb77ca3291e65205",
+    "external_hash": "9a4f0d10acc672538e7d9360cf8e53e25c0faae32b6e839e6c2d9b864f5e1a7d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-08T14:38:08+00:00",
+    "updated_at": "2026-09-08T21:55:06+00:00",
     "admin_locked": []
   },
   {
@@ -296,10 +296,10 @@
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 374.0M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 374.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "98382c5383ae22e6802e357ade01acf15405a1678b13d2e4aec27b4aa5b73e67",
+    "external_hash": "246a49d845a0674a659c4b8684527e04414f2801a49d7822be4c1449aed57a43",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,16 +311,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-08T14:37:51+00:00",
+    "updated_at": "2026-09-08T21:54:56+00:00",
     "admin_locked": []
   },
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 260.1M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 260.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "3fbf060ad85995e98fdbba0329c259a3269f282f3ff77c0ecd8673072e7a80a7",
+    "external_hash": "f1bb41ea05e36ff93964ba58a26449ba6a6d033e7c467447c4eb374169872dca",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,7 +332,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-09-08T14:37:52+00:00",
+    "updated_at": "2026-09-08T21:55:00+00:00",
     "admin_locked": []
   },
   {
