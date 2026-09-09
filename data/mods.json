@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 201.6M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 201.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "27d9a50c2d6f11d7a0f7dee43e2454f7e92763a7fd41da77a48d7f0e00672e20",
+    "external_hash": "984eb2439ef97ee7b09e8de91ca539577db8c5d106a8b6d53748e165d6682e90",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-09T06:03:55+00:00",
+    "updated_at": "2026-09-09T19:50:16+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 405.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 405.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "421dd2152b9018c3bfca8a761d9d9b9dfc1a6b136a385fc3ac30147b449c35c5",
+    "external_hash": "f28d66a116086efcfac10955553ed9ba0bf9d816f0bcf13d29920602285ce6fa",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-09T16:44:30+00:00",
+    "updated_at": "2026-09-09T19:50:24+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 251.8M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 251.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "d3f3aa1713b06bf6fbf918a8c015ff43d1b2b9caa95b18f1609b309765a0b833",
+    "external_hash": "a9642f3bb2d9a02936de3c4ec124a5237861709cd47195e292d284e4bb363819",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,16 +185,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-09T11:32:37+00:00",
+    "updated_at": "2026-09-09T19:50:23+00:00",
     "admin_locked": []
   },
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 474.1M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 474.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "87d90c6819fbe207f317e27721959992b4fdbfe7d57578444288c176d7e0e5e6",
+    "external_hash": "2b1eaf6e64fd6629a0824bdb5b7c71570de186fd4bd799ebeba2d1eede27d2ea",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,16 +206,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-09-09T06:04:01+00:00",
+    "updated_at": "2026-09-09T19:50:11+00:00",
     "admin_locked": []
   },
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 180.2M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 180.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "44a8abb0b4e6a071e2062f18d59803bc030746301c9967d04a8c7539d29872f7",
+    "external_hash": "828f4cc1277c8d64f2970b35bbfcb09c046652a35131ac12f010b472b5249c84",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-09T06:03:48+00:00",
+    "updated_at": "2026-09-09T19:50:29+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.7M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "1fab8dd0c526d4e85f36776ca0326525f0a55fdf908ba257b6bf41214e98d523",
+    "external_hash": "8e47d5a60e4747b1be19d42e366e429394737c56504fed24a6a0dee365d57c52",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-09T11:32:34+00:00",
+    "updated_at": "2026-09-09T19:50:14+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 267.2M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 267.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "24de6544e11fcf2e358e91b0550870e92c3ed79bc9a23f5e912aee669b5922de",
+    "external_hash": "a072d716748960652b83696fb2783f85aac6626fea4bf6b8bb25f1867b43c9a9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-09T16:44:44+00:00",
+    "updated_at": "2026-09-09T19:50:30+00:00",
     "admin_locked": []
   },
   {
