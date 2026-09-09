@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 412.5M Downloads | Mods",
+    "description": "An open source library for other mods! 412.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "671483fb78b1f0d57f78fe91f7948b4dd42bafe2d5596944c702adfb543c392f",
+    "external_hash": "4b4e98712d7a63aa5329ba9bf4ee210330bba6b7b1d957c66f78e63229bb7091",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-09T00:20:37+00:00",
+    "updated_at": "2026-09-09T11:32:26+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 251.7M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 251.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "616d690e112977f1b8180979d3d515e211219a355f5cd85ed461b50fd7dc832c",
+    "external_hash": "d3f3aa1713b06bf6fbf918a8c015ff43d1b2b9caa95b18f1609b309765a0b833",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-08T21:54:54+00:00",
+    "updated_at": "2026-09-09T11:32:37+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 342.4M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 342.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "6b795558514d44c73450da19ad01d1ee33d171773b1d3fbbe4b266860bcb333c",
+    "external_hash": "065afecb3acd7dc7d8a5fcea9e6fe870d8aee669d9babed6aa1a80f826070247",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,16 +248,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-09-08T21:54:57+00:00",
+    "updated_at": "2026-09-09T11:32:23+00:00",
     "admin_locked": []
   },
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.6M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 304.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "9a4f0d10acc672538e7d9360cf8e53e25c0faae32b6e839e6c2d9b864f5e1a7d",
+    "external_hash": "1fab8dd0c526d4e85f36776ca0326525f0a55fdf908ba257b6bf41214e98d523",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-08T21:55:06+00:00",
+    "updated_at": "2026-09-09T11:32:34+00:00",
     "admin_locked": []
   },
   {
@@ -433,7 +433,7 @@
     },
     "is_verified": true,
     "author": "modmuss50",
-    "downloads": 250559871,
+    "downloads": 250694170,
     "categories": [
       "fabric",
       "library",
@@ -825,7 +825,7 @@
     ],
     "published_at": "2021-01-22T11:04:41.419169+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-09T00:21:32+00:00",
+    "updated_at": "2026-09-09T11:33:33+00:00",
     "admin_locked": []
   },
   {
@@ -1986,7 +1986,7 @@
     },
     "is_verified": true,
     "author": "shedaniel",
-    "downloads": 97887277,
+    "downloads": 97949118,
     "categories": [
       "fabric",
       "forge",
@@ -2058,7 +2058,7 @@
     ],
     "published_at": "2020-11-16T10:40:17.116288+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-09T00:21:32+00:00",
+    "updated_at": "2026-09-09T11:33:33+00:00",
     "admin_locked": []
   },
   {
@@ -3799,7 +3799,7 @@
     },
     "is_verified": true,
     "author": "Patbox",
-    "downloads": 62886006,
+    "downloads": 62932662,
     "categories": [
       "fabric",
       "library",
@@ -3854,11 +3854,12 @@
       "mc_version:26w14a",
       "mc_version:26.1.2",
       "mc_version:26.2-pre-1",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3-pre-3"
     ],
     "published_at": "2023-05-07T21:31:58.154280+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-09T00:21:33+00:00",
+    "updated_at": "2026-09-09T11:33:34+00:00",
     "admin_locked": []
   },
   {
