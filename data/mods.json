@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 369.3M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 369.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "5e346ffbac089d44c22329dd31f719fe7af3f229dac236a01a73d4b2b35cf125",
+    "external_hash": "945f581dc609d66a71afab688c46d51278004fcbd9d1a8a70003d328d25cbe1f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,7 +38,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-09T22:36:54+00:00",
+    "updated_at": "2026-09-10T11:29:17+00:00",
     "admin_locked": []
   },
   {
@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 148.4M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 148.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "ecd3aeeb4f19b1e916569a01c1d91d43ec9fe74b322533b306a3ffe6ea91b5dd",
+    "external_hash": "53ab3d86d478982cf0dbb3af5aa4be62d85c8265df53803f4701eceae324ccc3",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,16 +80,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-09T22:36:52+00:00",
+    "updated_at": "2026-09-10T11:29:06+00:00",
     "admin_locked": []
   },
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 412.7M Downloads | Mods",
+    "description": "An open source library for other mods! 412.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "3ad049e295de54953867b062670046b407cf4e077497d1dc07f04f69dc1d80bf",
+    "external_hash": "ba20315ce09f0744d71691e22dc8fc0ffed8445e78698a2fdcdcbf49ee00730e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-09T22:37:02+00:00",
+    "updated_at": "2026-09-10T11:29:22+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 237.7M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 237.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "d2f13c90b12a8fb45dd44525578e21b0aa82b2ade34bbc6dd27ab0fdfc7e8887",
+    "external_hash": "4b9146e7ee7b20d521c45996af9874f888d040e918b1c07c7de8f18ae9f2e107",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-09T22:36:58+00:00",
+    "updated_at": "2026-09-10T11:29:04+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 282.4M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 282.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "788cc6d6f852f5dd20488788d2d4cb5dcb18f0047552240ed3e58a6bd1f66027",
+    "external_hash": "89bfaeeba9c490190d67614901e4fda87167a10275a702a69720a3302a423092",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-09T22:37:08+00:00",
+    "updated_at": "2026-09-10T11:29:12+00:00",
     "admin_locked": []
   },
   {
@@ -2075,7 +2075,7 @@
     },
     "is_verified": true,
     "author": "thexaero",
-    "downloads": 94778535,
+    "downloads": 94838461,
     "categories": [
       "adventure",
       "fabric",
@@ -2127,7 +2127,7 @@
     ],
     "published_at": "2023-04-22T18:06:37.599573+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-10T01:10:29+00:00",
+    "updated_at": "2026-09-10T11:30:11+00:00",
     "admin_locked": []
   },
   {
