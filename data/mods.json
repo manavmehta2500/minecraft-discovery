@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 220.4M Downloads | Mods",
+    "description": "Memory usage optimizations 220.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "909f090340d8da178d166bfe16c873d8bd1be2370fba40c6ba04a14af50d6ed5",
+    "external_hash": "1559561755c465bba3349d82bdc5595a0b01a1f002b5cebb1aa7299c447c5bc4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,16 +122,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-09-14T23:12:02+00:00",
+    "updated_at": "2026-09-15T21:31:05+00:00",
     "admin_locked": []
   },
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 203.1M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 203.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "4801a202520b736b323ba6b202e60c324bb133d54c9212b76353f88935b38ab1",
+    "external_hash": "816798fb53dc6b57a3e77dcd926eeab64d23f582fdd136499abbc1040a4f1f9f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-15T07:51:25+00:00",
+    "updated_at": "2026-09-15T21:31:08+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 407.7M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 407.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "c6ddced4bafcacc7da1c45a8b3ea164ef68e0379b69387e96f45d7c7a8c8d8fc",
+    "external_hash": "e63f76ac3843773a343697f6e0881a4bbc21e2dfd2efec04e8e182a4ccc98a4e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-15T18:17:39+00:00",
+    "updated_at": "2026-09-15T21:31:21+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 253.6M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 253.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "5b60c0f225adc164594b3bc662837b27dde4f67aee5aa1f4eb6fb6d7c58cbdf3",
+    "external_hash": "006953342bb951546750d5a74f5887078ebbe4863e7810574823aa4fe1796d2c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-15T13:39:33+00:00",
+    "updated_at": "2026-09-15T21:31:01+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 268.9M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 269.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "353eb654ce4a939afbfc51577c38c2702e6f2633d46a284aae15475f3841220e",
+    "external_hash": "951976957c226bac0321b8e90552d76dd427a08c525f6acefa5dba12fa30d29b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-15T07:51:36+00:00",
+    "updated_at": "2026-09-15T21:31:18+00:00",
     "admin_locked": []
   },
   {
@@ -2001,7 +2001,7 @@
     },
     "is_verified": true,
     "author": "shedaniel",
-    "downloads": 99101804,
+    "downloads": 99226383,
     "categories": [
       "fabric",
       "forge",
@@ -2069,11 +2069,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2020-11-16T10:40:17.116288+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-15T01:34:26+00:00",
+    "updated_at": "2026-09-15T21:32:10+00:00",
     "admin_locked": []
   },
   {
@@ -3562,7 +3563,7 @@
     },
     "is_verified": true,
     "author": "FX",
-    "downloads": 65185320,
+    "downloads": 65287548,
     "categories": [
       "fabric",
       "library",
@@ -3632,11 +3633,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2022-06-02T22:36:08.467225+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-15T01:34:26+00:00",
+    "updated_at": "2026-09-15T21:32:10+00:00",
     "admin_locked": []
   },
   {
@@ -3710,7 +3712,7 @@
     },
     "is_verified": true,
     "author": "Fuzs",
-    "downloads": 64619858,
+    "downloads": 64707565,
     "categories": [
       "fabric",
       "forge",
@@ -3751,11 +3753,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2021-12-03T10:23:02.288424+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-15T01:34:27+00:00",
+    "updated_at": "2026-09-15T21:32:11+00:00",
     "admin_locked": []
   },
   {
@@ -4013,7 +4016,7 @@
     },
     "is_verified": true,
     "author": "BlayTheNinth",
-    "downloads": 58619816,
+    "downloads": 58694695,
     "categories": [
       "fabric",
       "forge",
@@ -4047,11 +4050,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2022-06-14T18:11:16.556742+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-15T01:34:27+00:00",
+    "updated_at": "2026-09-15T21:32:11+00:00",
     "admin_locked": []
   },
   {
@@ -4068,7 +4072,7 @@
     },
     "is_verified": true,
     "author": "YaLTeR",
-    "downloads": 57932297,
+    "downloads": 57948574,
     "categories": [
       "fabric",
       "forge",
@@ -4115,7 +4119,7 @@
     ],
     "published_at": "2021-03-20T15:55:49.895120+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-15T18:18:46+00:00",
+    "updated_at": "2026-09-15T21:32:11+00:00",
     "admin_locked": []
   },
   {
@@ -7379,7 +7383,7 @@
     },
     "is_verified": true,
     "author": "TonimatasDEV",
-    "downloads": 28397196,
+    "downloads": 28438404,
     "categories": [
       "fabric",
       "forge",
@@ -7423,11 +7427,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2022-11-02T22:51:52.100958+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-09-15T01:34:29+00:00",
+    "updated_at": "2026-09-15T21:32:12+00:00",
     "admin_locked": []
   },
   {
