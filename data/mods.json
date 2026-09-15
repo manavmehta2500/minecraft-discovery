@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 623.2M Downloads | Mods",
+    "description": "View Items and Recipes 623.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "c63cbd51b37a3b1d84b408b80f990872c6cff68136c95cbe8cc4bad402351e78",
+    "external_hash": "06c7e5a416ebdbb42bdbae534066de4cceb2a901c4762781a8e411c017a9ce1f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-15T01:33:23+00:00",
+    "updated_at": "2026-09-15T13:39:35+00:00",
     "admin_locked": []
   },
   {
@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 414.1M Downloads | Mods",
+    "description": "An open source library for other mods! 414.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "c8e43f7d89f0ecac0488c49059900bfdd0689b4b2e514cf16a967a26480c6135",
+    "external_hash": "ba890eed9694bf0cafe0f4e0e48b4c8999b02945dc1adfe5e5bd6a4aa0d317b7",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-15T01:33:24+00:00",
+    "updated_at": "2026-09-15T13:39:22+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 253.5M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 253.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "5ce629b2109c40c50227f464c651ec14ac6107a5e825643e8b3870b7ceae7e49",
+    "external_hash": "5b60c0f225adc164594b3bc662837b27dde4f67aee5aa1f4eb6fb6d7c58cbdf3",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-15T01:33:14+00:00",
+    "updated_at": "2026-09-15T13:39:33+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 306.2M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 306.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "bb32ee23d636a0678daf723ae6b74092d89f5de4eace3c0a75ff92a82e5cb121",
+    "external_hash": "f0004714a919c886bb069d3adceeda30a2109c195b25789925e8a95323dafbab",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-15T01:33:28+00:00",
+    "updated_at": "2026-09-15T13:39:31+00:00",
     "admin_locked": []
   },
   {
@@ -317,10 +317,10 @@
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 261.6M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 261.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "6c2777862ac7d394fe8e7a2eb3512ce1eec27287236de21f76f3608a6005a5d1",
+    "external_hash": "add178583604a06bc71b6516e29a9756d57b090d7fae63d98b4c1166b84d636c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,7 +332,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-09-14T23:12:05+00:00",
+    "updated_at": "2026-09-15T13:39:32+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 283.8M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 283.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "57ac633ec2829b7e3ac89da9bad4c8b5b900faff30fcd3224dfc3f0037300353",
+    "external_hash": "99cbd0dfd870d60f6159542a0c267d1272559d2454994b244cbbbe242ad8382c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,16 +395,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-15T01:33:18+00:00",
+    "updated_at": "2026-09-15T13:39:41+00:00",
     "admin_locked": []
   },
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 392.8M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 392.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "2a8e309d5bd835c51c3ab5b7b3458c018613d0924ae80d4ab35cfe7a1180b924",
+    "external_hash": "a4040717a85e146334c35683f48e476176ccd5c73b2cd47b5b17785516bed958",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-09-14T19:27:15+00:00",
+    "updated_at": "2026-09-15T13:39:25+00:00",
     "admin_locked": []
   },
   {
@@ -1847,7 +1847,7 @@
     },
     "is_verified": true,
     "author": "thexaero",
-    "downloads": 109471049,
+    "downloads": 109523962,
     "categories": [
       "adventure",
       "fabric",
@@ -1895,11 +1895,13 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3-rc-2",
+      "mc_version:26.3-rc-3"
     ],
     "published_at": "2023-04-22T18:06:33.825340+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-15T01:34:26+00:00",
+    "updated_at": "2026-09-15T13:40:32+00:00",
     "admin_locked": []
   },
   {
@@ -2084,7 +2086,7 @@
     },
     "is_verified": true,
     "author": "thexaero",
-    "downloads": 95846822,
+    "downloads": 95892710,
     "categories": [
       "adventure",
       "fabric",
@@ -2132,11 +2134,13 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3-rc-2",
+      "mc_version:26.3-rc-3"
     ],
     "published_at": "2023-04-22T18:06:37.599573+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-15T01:34:26+00:00",
+    "updated_at": "2026-09-15T13:40:32+00:00",
     "admin_locked": []
   },
   {
@@ -2609,7 +2613,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 76467577,
+    "downloads": 76547605,
     "categories": [
       "fabric",
       "forge",
@@ -2669,7 +2673,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-15T01:34:26+00:00",
+    "updated_at": "2026-09-15T13:40:32+00:00",
     "admin_locked": []
   },
   {
@@ -7443,10 +7447,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 246.9M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 247.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "51c55e02b533dea62804137813e8ce69a3786f136af284428553b9c0dbbe4f2d",
+    "external_hash": "04fd4a9dddf3c68c0e78c4f199ec036f831fc62eba36c3b61a49ada002411027",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7458,7 +7462,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-09-14T23:12:07+00:00",
+    "updated_at": "2026-09-15T13:39:44+00:00",
     "admin_locked": []
   }
 ]
