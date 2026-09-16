@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 150.2M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 150.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "9760283b84edf972dd840e31052da69fe108793b89d0bf4295044195e3790ae5",
+    "external_hash": "2d660c99ff31f0c2a70c616f2f369b5f2c6303c0cc555cd815b58e7111750f9e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,16 +80,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-16T17:06:32+00:00",
+    "updated_at": "2026-09-16T23:01:10+00:00",
     "admin_locked": []
   },
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 414.4M Downloads | Mods",
+    "description": "An open source library for other mods! 414.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "b9cfada651e293a52b9156c62e141393dda65129c2541bff2a4f45f00df254fe",
+    "external_hash": "67764a408939a7714e4e9ecc80feac40a4073dfb89e7ce901c30cf860520aa8f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-16T11:45:53+00:00",
+    "updated_at": "2026-09-16T23:01:16+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 239.6M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 239.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "5dbd7df72e741442856db24119c21b0dbf9036363723d45962e39d220fc5e9e3",
+    "external_hash": "96387342d5124ac15a92b868a8d62143b55211a3c1c013731242919dd7f69ba2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-16T17:06:29+00:00",
+    "updated_at": "2026-09-16T23:01:27+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 284.1M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 284.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "73cc4c30f5e7a9a1ba488c2c954fb305dafdf87c21f4777b69601b9add167c2a",
+    "external_hash": "19c3abf2d11caa71e66a8cc99f6a5d6bc6de1e92a4eb5edae61feb8b1c5e44e9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-16T11:45:54+00:00",
+    "updated_at": "2026-09-16T23:01:13+00:00",
     "admin_locked": []
   },
   {
@@ -1459,7 +1459,7 @@
     },
     "is_verified": true,
     "author": "RaphiMC",
-    "downloads": 123146790,
+    "downloads": 123322744,
     "categories": [
       "fabric",
       "forge",
@@ -1494,11 +1494,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2022-10-01T16:26:11.439503+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-16T00:28:51+00:00",
+    "updated_at": "2026-09-16T23:02:19+00:00",
     "admin_locked": []
   },
   {
@@ -5651,7 +5652,7 @@
     },
     "is_verified": true,
     "author": "fzzyhmstrs",
-    "downloads": 38794960,
+    "downloads": 38907980,
     "categories": [
       "fabric",
       "forge",
@@ -5699,7 +5700,7 @@
     ],
     "published_at": "2024-04-21T07:12:15.276277+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-09-16T00:28:53+00:00",
+    "updated_at": "2026-09-16T23:02:20+00:00",
     "admin_locked": []
   },
   {
