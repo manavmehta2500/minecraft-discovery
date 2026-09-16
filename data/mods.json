@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 414.3M Downloads | Mods",
+    "description": "An open source library for other mods! 414.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "9566f32e208f0ed874d241a351c53ab91388f9278937a4699d28f913e0932343",
+    "external_hash": "b9cfada651e293a52b9156c62e141393dda65129c2541bff2a4f45f00df254fe",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-16T00:27:46+00:00",
+    "updated_at": "2026-09-16T11:45:53+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 306.4M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 306.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "e88c1e3aa7a09cbe42c85ba740412d95d4add03e671940163e17e406beeb31d9",
+    "external_hash": "3ef361e69bd465a6f046925bae79243ac8144d61c7cb1f94c931e28c2a479ec3",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-16T00:27:54+00:00",
+    "updated_at": "2026-09-16T11:45:41+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 284.0M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 284.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "f573a8d641819f8dadfa40d21817ddd232e3a6ad5d1741c5aa27296adf305e9d",
+    "external_hash": "73cc4c30f5e7a9a1ba488c2c954fb305dafdf87c21f4777b69601b9add167c2a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-16T00:27:59+00:00",
+    "updated_at": "2026-09-16T11:45:54+00:00",
     "admin_locked": []
   },
   {
@@ -433,7 +433,7 @@
     },
     "is_verified": true,
     "author": "modmuss50",
-    "downloads": 254863121,
+    "downloads": 255115773,
     "categories": [
       "fabric",
       "library",
@@ -828,7 +828,7 @@
     ],
     "published_at": "2021-01-22T11:04:41.419169+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-16T00:28:51+00:00",
+    "updated_at": "2026-09-16T11:46:51+00:00",
     "admin_locked": []
   },
   {
@@ -2497,7 +2497,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 83121107,
+    "downloads": 83223832,
     "categories": [
       "bukkit",
       "cursed",
@@ -2546,11 +2546,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2023-05-27T18:02:21.144599+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-16T00:28:51+00:00",
+    "updated_at": "2026-09-16T11:46:51+00:00",
     "admin_locked": []
   },
   {
@@ -2824,7 +2825,7 @@
     },
     "is_verified": true,
     "author": "Gecko",
-    "downloads": 69248996,
+    "downloads": 69254701,
     "categories": [
       "fabric",
       "forge",
@@ -2870,7 +2871,7 @@
     ],
     "published_at": "2022-08-07T03:30:16.186586+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-16T06:08:38+00:00",
+    "updated_at": "2026-09-16T11:46:51+00:00",
     "admin_locked": []
   },
   {
@@ -4306,7 +4307,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 57542336,
+    "downloads": 57630775,
     "categories": [
       "equipment",
       "fabric",
@@ -4331,11 +4332,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2025-03-27T22:25:52.213186+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-16T00:28:53+00:00",
+    "updated_at": "2026-09-16T11:46:52+00:00",
     "admin_locked": []
   },
   {
@@ -4578,7 +4580,7 @@
     },
     "is_verified": true,
     "author": "dzwdz",
-    "downloads": 48380635,
+    "downloads": 48409224,
     "categories": [
       "decoration",
       "fabric",
@@ -4627,7 +4629,7 @@
     ],
     "published_at": "2022-10-17T14:59:36.612208+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-16T00:28:53+00:00",
+    "updated_at": "2026-09-16T11:46:52+00:00",
     "admin_locked": []
   },
   {
@@ -6599,7 +6601,7 @@
     },
     "is_verified": true,
     "author": "YUNGNICKYOUNG",
-    "downloads": 34169621,
+    "downloads": 34184914,
     "categories": [
       "fabric",
       "forge",
@@ -6621,7 +6623,7 @@
     ],
     "published_at": "2022-11-28T18:42:13.412406+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-09-16T00:28:54+00:00",
+    "updated_at": "2026-09-16T11:46:53+00:00",
     "admin_locked": []
   },
   {
@@ -7479,10 +7481,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 247.1M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 247.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "f183bdeb8c9de375597b8fd199544e0b0cb0523331b0410f8e956cca75279ffa",
+    "external_hash": "34d92cea976a44a906393560f343665d1149dc84b8361f001291ed9dcb21af2d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7494,7 +7496,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-09-16T00:27:53+00:00",
+    "updated_at": "2026-09-16T11:45:49+00:00",
     "admin_locked": []
   }
 ]
