@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 371.2M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 371.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "1a2bde495acb9acd399a8a85a1bfe256900950242bbf06fc8fe1539734463f6a",
+    "external_hash": "068aa927ba343d0066d26065f8e7bd86d8a0f24ce9963f6e13da34a47c8ae89c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,7 +38,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-17T13:34:13+00:00",
+    "updated_at": "2026-09-17T22:14:59+00:00",
     "admin_locked": []
   },
   {
@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 414.6M Downloads | Mods",
+    "description": "An open source library for other mods! 414.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "3b08f52148d23e758167bab0903c7cea117c67ab1f94e5dd36c0c1936672173b",
+    "external_hash": "33cf105e7118fd926f6fa454f906951917d466acff4e34fc79fe37b99fe8721f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-17T13:34:17+00:00",
+    "updated_at": "2026-09-17T22:15:13+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 408.4M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 408.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "8f2be8f356da821951d347d10b00415891eea426c9a042191a1952d7d25cb521",
+    "external_hash": "653e0e5111c341e5ea82b61daa950f76a9a077a55de27b29e6ff7469cba5d383",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-17T18:19:49+00:00",
+    "updated_at": "2026-09-17T22:15:04+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 254.1M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 254.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "46f15bb61ac0603956fa0a693fcf1c6685107b0b5fe7ac8df9fc67e06b48358e",
+    "external_hash": "66fe2c4e03f0d87231573c37d0f012d8e2c8031779a77798daddd0150bcea754",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,16 +185,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-17T13:34:25+00:00",
+    "updated_at": "2026-09-17T22:14:58+00:00",
     "admin_locked": []
   },
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 475.8M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 475.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "87d993107b2225866cd184eaeb99a12c474cdd29b51d1ed8809c273ac905c5cf",
+    "external_hash": "2df2ef043644066e77e85a5ceebe765b160a9abb1d68498f13785ca83332fc4e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-09-17T07:46:40+00:00",
+    "updated_at": "2026-09-17T22:15:00+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 344.1M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 344.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "fcc95f7b22353075755d7acf2811434dbcf4eaa1ea50690c3798bd0a5c426cce",
+    "external_hash": "5ec8658db2ea609771798cdcaba4472fa52d1d0d14ba3525e11be42253592675",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-09-17T07:46:53+00:00",
+    "updated_at": "2026-09-17T22:15:14+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 269.4M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 269.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "233822334df21319d29f84b726e4bed7d2dd3eff1b8976936e3469e929460399",
+    "external_hash": "243cd7907fb1aa4b6dbefe55821e8288a74d06329666fc2958c10919ded1c844",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-17T13:34:37+00:00",
+    "updated_at": "2026-09-17T22:15:18+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 284.3M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 284.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "b8bf5dd8682df8f8c75d9b109ad79148a0d271e6150d5bbc1f26d172e04961f0",
+    "external_hash": "84495a00eb0df1b59c20d9c879e318f982a0bc98e86177ae98c5e06e6e7e9331",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-17T13:34:29+00:00",
+    "updated_at": "2026-09-17T22:15:01+00:00",
     "admin_locked": []
   },
   {
@@ -2701,7 +2701,7 @@
     },
     "is_verified": true,
     "author": "tr7zw",
-    "downloads": 76154201,
+    "downloads": 76265352,
     "categories": [
       "adventure",
       "decoration",
@@ -2744,11 +2744,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2022-05-04T15:49:59.369142+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-17T01:31:30+00:00",
+    "updated_at": "2026-09-17T22:16:06+00:00",
     "admin_locked": []
   },
   {
@@ -5063,7 +5064,7 @@
     },
     "is_verified": true,
     "author": "MehVahdJukaar",
-    "downloads": 40100782,
+    "downloads": 40146810,
     "categories": [
       "fabric",
       "forge",
@@ -5087,7 +5088,7 @@
     ],
     "published_at": "2022-06-21T07:56:14.814685+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-17T01:31:31+00:00",
+    "updated_at": "2026-09-17T22:16:08+00:00",
     "admin_locked": []
   },
   {
@@ -6763,7 +6764,7 @@
     },
     "is_verified": true,
     "author": "jeseibel",
-    "downloads": 34087945,
+    "downloads": 34127729,
     "categories": [
       "fabric",
       "forge",
@@ -6803,11 +6804,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2022-01-23T05:46:55.026356+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-09-17T01:31:32+00:00",
+    "updated_at": "2026-09-17T22:16:09+00:00",
     "admin_locked": []
   },
   {
@@ -7484,10 +7486,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 247.4M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 247.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "b13a53ede099c1099fa1f085f3d975c90166a059c98baf9bc0ac7818ab5b0763",
+    "external_hash": "88c1d1fd1d11115e9cbd9eeeeb70835751381c74136fcc578cf63a44a883a30b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7499,7 +7501,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-09-17T07:46:55+00:00",
+    "updated_at": "2026-09-17T22:15:15+00:00",
     "admin_locked": []
   }
 ]
