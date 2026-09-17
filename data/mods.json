@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 624.0M Downloads | Mods",
+    "description": "View Items and Recipes 624.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "1dc887216c0bd11571fa15cd8b04b8dd093d806f163981fa0e5983298fe3a116",
+    "external_hash": "aeb507b9f2167e56549232a7455c350517b5e3c18a867a74aac60449f8b099be",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-17T13:34:34+00:00",
+    "updated_at": "2026-09-17T18:20:05+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 150.4M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 150.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "0dffad2f021a17a9d7cf8086d00b49f70d44d680c9e5d4f7f26586e1bff2ef1a",
+    "external_hash": "a672d915d21419f20ef014932cd8632763312efb5b1da3341a4345979d9e8a11",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-17T07:47:03+00:00",
+    "updated_at": "2026-09-17T18:19:55+00:00",
     "admin_locked": []
   },
   {
@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 220.6M Downloads | Mods",
+    "description": "Memory usage optimizations 220.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "9d4a97bd3546a1afdd4f8e6eb8ed23e11f072c76076b63e9c6086875d6b3dd26",
+    "external_hash": "9dc40f36760107e839c4481bb2915f48f8580e4ffca788aff98c9041025fe6fb",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,16 +122,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-09-16T20:13:26+00:00",
+    "updated_at": "2026-09-17T18:20:04+00:00",
     "admin_locked": []
   },
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 203.5M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 203.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "8c0bbfd4ee22c8d2b03e801c1d7b96e20648f770123302baf4f1c50bfb3a416b",
+    "external_hash": "84975fb59f8d8b3cdd66b1c9ccea5d9c19ce5c63dcc299b73477e2aa07b4621b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-17T07:46:48+00:00",
+    "updated_at": "2026-09-17T18:19:59+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 408.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 408.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "3cc746efc7d8b2cc52efab5e4f97231b86aa1f40b20c8af15ab39f70a0058e3a",
+    "external_hash": "8f2be8f356da821951d347d10b00415891eea426c9a042191a1952d7d25cb521",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-17T07:47:04+00:00",
+    "updated_at": "2026-09-17T18:19:49+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 182.3M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 182.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "c88341cb480d635eedd72c2fa8fbc11a7d9af4004f29700d119c590322ea68cf",
+    "external_hash": "bae1d5c5cf32c9997a35425659c05fa9a7e6fc96c3996f7b2935c7aae0b29ad9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-17T01:30:43+00:00",
+    "updated_at": "2026-09-17T18:19:40+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 306.7M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 306.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "018c3221e0f5584b09adc71cb545d4aa4c66b768169e3a586e2287948ff17d50",
+    "external_hash": "5df19902f98c5a77cf9ee600662dfe37ba71cc21aa558f7d26d5eec83b1ea54c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,16 +269,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-17T07:46:49+00:00",
+    "updated_at": "2026-09-17T18:19:48+00:00",
     "admin_locked": []
   },
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 239.8M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 239.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "1b9cc06732dfcb054b6bfdcca2310a40922446deea820618d283329f5d4b041a",
+    "external_hash": "75d9f6c02488e27eb8244c5c3e87175cc75b6d4fac7e86d8b0439289c2ba19f6",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,16 +290,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-17T07:47:01+00:00",
+    "updated_at": "2026-09-17T18:19:45+00:00",
     "admin_locked": []
   },
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 375.9M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 376.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "97b346014bbfc5c283ef239c2b269d2fff330809c252df3d05dd5e9be21a1940",
+    "external_hash": "e670c3d9befd231686e333d23d91f017baf9dcd03f0c527d3475ef20d0eae396",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,16 +311,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-17T01:30:39+00:00",
+    "updated_at": "2026-09-17T18:19:44+00:00",
     "admin_locked": []
   },
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 262.0M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 262.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "fda0bfeedf7f3d7d862c21a4cbf3fb400445579de6f79661b767619f6e3ec0db",
+    "external_hash": "62fe2840503cce1a16267be375cd8046aeff65884f8bdde3e450d9394d797927",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,7 +332,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-09-17T01:30:36+00:00",
+    "updated_at": "2026-09-17T18:19:54+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 393.1M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 393.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "baa97f00b8bf79bef8b308fd1310ef61d1242ac17aa74ba4bc4bd931f06ab683",
+    "external_hash": "cd87bb3c9f2c1fe9d9c571b9c1108e56b390ccba46d9ded5093ea006815784ad",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-09-16T20:13:28+00:00",
+    "updated_at": "2026-09-17T18:19:51+00:00",
     "admin_locked": []
   },
   {
@@ -1130,7 +1130,7 @@
     },
     "is_verified": true,
     "author": "malte0811",
-    "downloads": 150741829,
+    "downloads": 150914030,
     "categories": [
       "fabric",
       "forge",
@@ -1169,11 +1169,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2021-04-03T07:04:43.971189+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-17T01:31:30+00:00",
+    "updated_at": "2026-09-17T18:20:53+00:00",
     "admin_locked": []
   },
   {
@@ -1458,7 +1459,7 @@
     },
     "is_verified": true,
     "author": "RaphiMC",
-    "downloads": 123352388,
+    "downloads": 123515828,
     "categories": [
       "fabric",
       "forge",
@@ -1498,7 +1499,7 @@
     ],
     "published_at": "2022-10-01T16:26:11.439503+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-17T01:31:30+00:00",
+    "updated_at": "2026-09-17T18:20:53+00:00",
     "admin_locked": []
   },
   {
@@ -1515,7 +1516,7 @@
     },
     "is_verified": true,
     "author": "isxander",
-    "downloads": 122250453,
+    "downloads": 122401795,
     "categories": [
       "fabric",
       "forge",
@@ -1565,14 +1566,11 @@
       "mc_version:26.2-snapshot-2",
       "mc_version:26.2",
       "mc_version:26.3-snapshot-1",
-      "mc_version:26.3-snapshot-4",
-      "mc_version:26.3-snapshot-5",
-      "mc_version:26.3-snapshot-6",
-      "mc_version:26.3-snapshot-7"
+      "mc_version:26.3"
     ],
     "published_at": "2022-09-05T13:15:27.359550+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-17T01:31:30+00:00",
+    "updated_at": "2026-09-17T18:20:53+00:00",
     "admin_locked": []
   },
   {
@@ -4308,7 +4306,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 57794028,
+    "downloads": 57988294,
     "categories": [
       "equipment",
       "fabric",
@@ -4338,7 +4336,7 @@
     ],
     "published_at": "2025-03-27T22:25:52.213186+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-17T01:31:31+00:00",
+    "updated_at": "2026-09-17T18:20:54+00:00",
     "admin_locked": []
   },
   {
@@ -4819,7 +4817,7 @@
     },
     "is_verified": true,
     "author": "SparkUniverse",
-    "downloads": 43623680,
+    "downloads": 43694149,
     "categories": [
       "fabric",
       "forge",
@@ -4864,7 +4862,7 @@
     ],
     "published_at": "2022-10-12T11:34:07.920560+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-17T01:31:31+00:00",
+    "updated_at": "2026-09-17T18:20:54+00:00",
     "admin_locked": []
   },
   {
