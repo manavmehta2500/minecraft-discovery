@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 150.7M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 150.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "ed6a5d5f992bf829dfd167b1c72acbd39c6fb5dfb2b1e076bc474f23bffc5ddb",
+    "external_hash": "3bf623472b17a2fa21ba52b3cad475b9536e8c98875c13c7088a8929cc7e93df",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-18T16:31:17+00:00",
+    "updated_at": "2026-09-18T22:38:59+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 254.4M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 254.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "76a410c64989e41a7fbf27185fba273a800d56e004e7f92d9b3813df378dce69",
+    "external_hash": "a80616cab485770b4f7adca23b4eeb9a5186b3c5ad80a82847452efed145d769",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-18T16:31:32+00:00",
+    "updated_at": "2026-09-18T22:39:11+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 344.3M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 344.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "06c242d0eb46871f1344250cc922d898ef16e7326de5d2499ffa6a5fa2043a52",
+    "external_hash": "406b6e4e93c8ddb7fd518b9c3fcb95a9ad4b030752cf91f5ca0ad6a6d99e5eb6",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-09-18T11:25:41+00:00",
+    "updated_at": "2026-09-18T22:39:05+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 240.1M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 240.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "ca7d03ad4cfff091f6d1d6da2db8311d2b2171d63fff15383c1232ff62a4ccfe",
+    "external_hash": "27c6c37912f13bba0f3009e5f5c2a5631680186493adfef171fda53c82d814c9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-18T16:31:18+00:00",
+    "updated_at": "2026-09-18T22:38:56+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 393.3M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 393.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "a2220cbccf2c196a87278df940cae6b669b621aac6f946904ab796b5390420c5",
+    "external_hash": "a2f3487cf081b6a0db7ccb064d72dd0175ff9695ca2ba82d3db6d8bf1591c137",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-09-18T06:00:34+00:00",
+    "updated_at": "2026-09-18T22:39:13+00:00",
     "admin_locked": []
   },
   {
@@ -2001,7 +2001,7 @@
     },
     "is_verified": true,
     "author": "shedaniel",
-    "downloads": 99539466,
+    "downloads": 99699086,
     "categories": [
       "fabric",
       "forge",
@@ -2074,7 +2074,7 @@
     ],
     "published_at": "2020-11-16T10:40:17.116288+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-18T00:29:44+00:00",
+    "updated_at": "2026-09-18T22:40:09+00:00",
     "admin_locked": []
   },
   {
@@ -2496,7 +2496,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 83700498,
+    "downloads": 84000622,
     "categories": [
       "bukkit",
       "cursed",
@@ -2550,7 +2550,7 @@
     ],
     "published_at": "2023-05-27T18:02:21.144599+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-18T00:29:44+00:00",
+    "updated_at": "2026-09-18T22:40:09+00:00",
     "admin_locked": []
   },
   {
