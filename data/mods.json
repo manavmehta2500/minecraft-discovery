@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 625.8M Downloads | Mods",
+    "description": "View Items and Recipes 625.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "6e5ae535d8b29d2a6af8d2b06f6fca0921d44e6be49f4f4c8b773bc64d1973fd",
+    "external_hash": "cbcd616671355713337467d622665102c48cb8e5d7447fb14dbd3dc6bd127444",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-21T20:01:32+00:00",
+    "updated_at": "2026-09-21T23:21:24+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 151.6M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 151.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "02d44609783f53bed2ef013139fabf10cca3b8517eba2622116f662d44c3441f",
+    "external_hash": "b43b807df4462f41940318909fc3368a44a9ee2b7668f6accc179829b449a3ee",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,16 +80,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-21T14:17:56+00:00",
+    "updated_at": "2026-09-21T23:21:26+00:00",
     "admin_locked": []
   },
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 415.7M Downloads | Mods",
+    "description": "An open source library for other mods! 415.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "24892de9db505cf1cf91ac49253df06a1903d005719e66e5e51cab7805fd7442",
+    "external_hash": "9feeb0d7a9ccbcc6d56fe81b459f899bdcac183cdd0b520afb978f8e32bab0e0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-21T14:17:46+00:00",
+    "updated_at": "2026-09-21T23:21:29+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 204.6M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 204.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "37453f79f5620da02b0a15e57f712e130d73fddb6b46d5d72b6414e20722e74d",
+    "external_hash": "a58453496e1a49b261991e90126701f8bc1818975d60cc651e9f871773ab0afe",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,7 +143,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-21T14:18:01+00:00",
+    "updated_at": "2026-09-21T23:21:30+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 183.5M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 183.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "557d233467c4a27413bce566bb5318d372c210a3d15db8c7419d4c3c92200dc1",
+    "external_hash": "7bac5ed35e25f8c039da7e16b91047b2d4ad6f038d4e748ec9713fff24410c0a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-21T14:17:54+00:00",
+    "updated_at": "2026-09-21T23:21:33+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 241.1M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 241.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "628776cc959ac697a748d37635f71c505b4f8001c49e4230545c192b6d530f44",
+    "external_hash": "98fa0fb8375a3c95d1e53618236d8a5184664e836e79491f184b5aa67471f67e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-21T14:17:58+00:00",
+    "updated_at": "2026-09-21T23:21:22+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 285.4M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 285.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "e7281079ee689b8dd22044ddb00868201bdf8a15d1b664c69887cc9286969a28",
+    "external_hash": "0ef98012cb40ffb69884039bb4ea976fe191831ed1c3ee4970a1f42a44594b51",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-21T14:17:51+00:00",
+    "updated_at": "2026-09-21T23:21:34+00:00",
     "admin_locked": []
   },
   {
@@ -3921,7 +3921,7 @@
     },
     "is_verified": true,
     "author": "Fuzs",
-    "downloads": 61581745,
+    "downloads": 61661238,
     "categories": [
       "fabric",
       "forge",
@@ -3955,7 +3955,7 @@
     ],
     "published_at": "2022-07-06T18:55:14.270853+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-21T01:13:11+00:00",
+    "updated_at": "2026-09-21T23:22:34+00:00",
     "admin_locked": []
   },
   {
@@ -7502,10 +7502,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 248.5M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 248.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "4ce2092eb6b2b76597400bc5ec460013e6523234b1ca294dc5fe6bd2300631cc",
+    "external_hash": "9c7c4513025783e81f5fb167e84630c246c82538e1b1dbda6ddf96ec6dcc1f40",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7517,7 +7517,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-09-21T14:17:42+00:00",
+    "updated_at": "2026-09-21T23:21:23+00:00",
     "admin_locked": []
   }
 ]
