@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 151.7M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 151.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "b43b807df4462f41940318909fc3368a44a9ee2b7668f6accc179829b449a3ee",
+    "external_hash": "6aaa0134b6beb8a707e16f6dc75ccfcfe186cc94601b004b769a8692c80f4612",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-21T23:21:26+00:00",
+    "updated_at": "2026-09-22T10:04:45+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 204.7M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 204.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "a58453496e1a49b261991e90126701f8bc1818975d60cc651e9f871773ab0afe",
+    "external_hash": "c8fc2e4a64596582b8dba56a7b9802f77e065dfb3a9801f4837b6a4a865b523b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-21T23:21:30+00:00",
+    "updated_at": "2026-09-22T10:04:42+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 410.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 410.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "a1e6ec4f487395615a330b71c1c690ff8f96e43e85fe26e7147f9e16ce1c8a88",
+    "external_hash": "9abb536df0c07e16b4168974336bb373655ae02b84a38b6ba0594085d39ed3fd",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-22T05:07:37+00:00",
+    "updated_at": "2026-09-22T10:04:44+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 183.6M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 183.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "7bac5ed35e25f8c039da7e16b91047b2d4ad6f038d4e748ec9713fff24410c0a",
+    "external_hash": "d8e532e814131f146202ef2ced8c22bba46515cc677c664033f5b673869459fe",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,16 +227,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-21T23:21:33+00:00",
+    "updated_at": "2026-09-22T10:04:32+00:00",
     "admin_locked": []
   },
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 345.1M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 345.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "d22f044b830cfdcf7ccecdb45637aa476da1ae4d92b14388d8b5f1c2329ac5dd",
+    "external_hash": "4c6c0d9fb565e8bd92fae89db152209841391317c883ca6463b4ba8af3aae701",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-09-21T20:01:33+00:00",
+    "updated_at": "2026-09-22T10:04:34+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 241.2M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 241.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "98fa0fb8375a3c95d1e53618236d8a5184664e836e79491f184b5aa67471f67e",
+    "external_hash": "872d32c9fd48208f2ab2f1d4f0dcafd80b7656fbd0ca7b4db0e975d2d0006037",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-21T23:21:22+00:00",
+    "updated_at": "2026-09-22T10:04:35+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 285.5M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 285.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "0ef98012cb40ffb69884039bb4ea976fe191831ed1c3ee4970a1f42a44594b51",
+    "external_hash": "0b91ccdb4b2bdb44ca6ce8b3520d513f7a37461e43c330968efb51fef028054e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-21T23:21:34+00:00",
+    "updated_at": "2026-09-22T10:04:46+00:00",
     "admin_locked": []
   },
   {
@@ -2828,7 +2828,7 @@
     },
     "is_verified": true,
     "author": "Gecko",
-    "downloads": 70106063,
+    "downloads": 70136274,
     "categories": [
       "fabric",
       "forge",
@@ -2874,7 +2874,7 @@
     ],
     "published_at": "2022-08-07T03:30:16.186586+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-22T05:08:27+00:00",
+    "updated_at": "2026-09-22T10:05:41+00:00",
     "admin_locked": []
   },
   {
@@ -7188,7 +7188,7 @@
     },
     "is_verified": true,
     "author": "TheIllusiveC4",
-    "downloads": 31162101,
+    "downloads": 31171004,
     "categories": [
       "adventure",
       "equipment",
@@ -7227,11 +7227,12 @@
       "mc_version:26.1",
       "mc_version:26.1.1",
       "mc_version:26.1.2",
-      "mc_version:26.2"
+      "mc_version:26.2",
+      "mc_version:26.3"
     ],
     "published_at": "2023-02-03T02:16:08.256771+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-09-22T05:08:30+00:00",
+    "updated_at": "2026-09-22T10:05:43+00:00",
     "admin_locked": []
   },
   {
