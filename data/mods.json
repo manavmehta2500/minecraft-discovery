@@ -65,10 +65,10 @@
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 152.0M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 152.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "1de930f1cf5a1cc2519ea3b66defce9c1a90dc4bf586fb06a32a6f2830bbc128",
+    "external_hash": "7edf828a9c2e1cb85d20dfbb7d10a3289d4cae76f1319934ca75e0be1bad41f5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-09-23T06:04:39+00:00",
+    "updated_at": "2026-09-23T20:28:25+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 205.0M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 205.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "fef6cdb114a7d946b57af63470b451da0359ec939bb4f6801e8b36dbe514e268",
+    "external_hash": "11363502f1dc5e7c4d00e802741a964f95b6634c5a1b32c2bb74e730fdc9dbb8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,7 +143,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-23T06:04:23+00:00",
+    "updated_at": "2026-09-23T20:28:14+00:00",
     "admin_locked": []
   },
   {
@@ -191,10 +191,10 @@
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 477.1M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 477.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "1f94bcb85e7a1eca04642f0dbad9a7c028603770bb64dab6b186d54af39bb977",
+    "external_hash": "ff23aea58f25e77da5d52681e7ec6bfe922664766fa8c3622bd293441f648cc2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-09-23T06:04:30+00:00",
+    "updated_at": "2026-09-23T20:28:17+00:00",
     "admin_locked": []
   },
   {
@@ -296,10 +296,10 @@
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 377.3M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 377.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "93c6ca05ae4ff7d124479889e99bd45ed26c37a7b87f2269b6e56a989e199bd0",
+    "external_hash": "151904a070d1ad800717a29343139109ec62e5e0dd5e0c8b877a75fb3082565b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-23T06:04:17+00:00",
+    "updated_at": "2026-09-23T20:28:30+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 285.8M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 285.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "e1fb8aac02baf6aad1b371ad1e161b98cb60266005f0413b405c4816230dc05a",
+    "external_hash": "d24bfd23d529a3e22305776526af67dc4b506a29779104aa8924db5ac3e2c1eb",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-23T06:04:34+00:00",
+    "updated_at": "2026-09-23T20:28:29+00:00",
     "admin_locked": []
   },
   {
@@ -3301,7 +3301,7 @@
     },
     "is_verified": true,
     "author": "isxander",
-    "downloads": 66346616,
+    "downloads": 66436966,
     "categories": [
       "fabric",
       "quilt",
@@ -3341,7 +3341,7 @@
     ],
     "published_at": "2022-01-29T20:52:18.744493+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-23T00:45:17+00:00",
+    "updated_at": "2026-09-23T20:29:22+00:00",
     "admin_locked": []
   },
   {
