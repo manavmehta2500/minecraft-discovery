@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 414.7M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 414.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "f0e501076fcce04b48984679196e8e7cd57c06b858a671b95e8395a5550d1c79",
+    "external_hash": "25c5b1cbd53a3715b33bc2c7952b83bbf2fe4840cc4275548b557d8b7fb8e3c1",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,7 +17,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-09-25T07:56:47+00:00",
+    "updated_at": "2026-09-25T22:27:58+00:00",
     "admin_locked": []
   },
   {
@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 627.2M Downloads | Mods",
+    "description": "View Items and Recipes 627.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "fe660114923848a2687131b2ee55791054a473178eae86899e66bc8e2f25ede0",
+    "external_hash": "60ae5c2c2754eb990b42c19e4bbf310dcad5474a62ce33a99ef544b14901aa41",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-25T18:42:47+00:00",
+    "updated_at": "2026-09-25T22:27:49+00:00",
     "admin_locked": []
   },
   {
@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 221.6M Downloads | Mods",
+    "description": "Memory usage optimizations 221.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "6ad4708783c8a68bca63313ef914880c3d0ebffa31fc41177cc1e2567f4bc6b9",
+    "external_hash": "81b5aab0966a4e90fc016d745da82016910b872ed82fe859dd388a27ecb493f7",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,7 +122,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-09-25T01:36:34+00:00",
+    "updated_at": "2026-09-25T22:27:55+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 411.5M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 411.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "ae3451b3608c4c9746845ba563bb36ba17f2fa706b613202f7e9a2aa8a50b2f1",
+    "external_hash": "a803aa253acd5b40b0512f248cb7e6f98cba7debb62c4c0c674caf529f3ce779",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-25T18:42:54+00:00",
+    "updated_at": "2026-09-25T22:27:57+00:00",
     "admin_locked": []
   },
   {
@@ -191,10 +191,10 @@
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 477.5M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 477.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "e758a74bb6b0646cfb0408a88aba6e607106d26dbfb84b6b2ffa68b2817db6b4",
+    "external_hash": "90b938f93c88455e3ae61892fc15658bb7ccf025301a4254ad354736a9a4530a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,16 +206,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-09-25T13:55:11+00:00",
+    "updated_at": "2026-09-25T22:28:04+00:00",
     "admin_locked": []
   },
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 184.4M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 184.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "20f9b48643eefb79ce0841287e483e8ec764fc8bc6346adc6a8d36107f6653eb",
+    "external_hash": "1197865bf428aa8ee3cce7e811bd2f55cc45610f8f23aa036347a2f406680d31",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-25T13:54:53+00:00",
+    "updated_at": "2026-09-25T22:27:56+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 308.7M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 308.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "7ee3f46f8fff44914a8b7daa24d6ad1718b55e0ef3543ab4ccf103c810cec144",
+    "external_hash": "f2f5fedd0b618399b3c19ffefaa67152604ce9271a55b5d81080b305b5eb7d72",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-25T13:54:57+00:00",
+    "updated_at": "2026-09-25T22:27:52+00:00",
     "admin_locked": []
   },
   {
@@ -296,10 +296,10 @@
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 377.7M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 377.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "2e184667e454a246c09cd9e9a22acf19a7592369e7f16de8cee4ebdcd5f6712a",
+    "external_hash": "7211f46d54b2ff2df7591c952abbe1836d06f6f6771364f4d2ce813d31098a17",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-25T07:56:35+00:00",
+    "updated_at": "2026-09-25T22:27:59+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 271.6M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 271.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "d9c09350351c07a91654f5aa9a0178a493c2ae01a63781e30ff1f5ddbbb8ac00",
+    "external_hash": "4a5ae2efe6ad9002bdd299193cc27d0978e87ad7b23ec10ca731affb2b9d4818",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,16 +353,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-25T18:42:37+00:00",
+    "updated_at": "2026-09-25T22:27:50+00:00",
     "admin_locked": []
   },
   {
     "id": "34d247df9b60ae22",
     "name": "Entity Culling Fabric/Forge",
-    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 229.2M Downloads | Mods",
+    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 229.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
-    "external_hash": "868d5ed785b46d3661953419e4fd60dd1cc0e1f1401351dcb8508621a5103494",
+    "external_hash": "09d6e22a25c21bf7408bab5244dffd5fdda3cc4b58de3c66b01adddfe6c8283f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -374,7 +374,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:58+00:00",
     "discovered_at": "2026-08-24T21:39:58+00:00",
-    "updated_at": "2026-09-25T13:55:03+00:00",
+    "updated_at": "2026-09-25T22:28:02+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 394.4M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 394.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "f32bc194cc63ad8f5ea92ecc22f320d7242d1a7eed42df8abcd8d476d2b7cf29",
+    "external_hash": "eb17d61e2fc509aa5ba92eedf6ebd3568f7252fc789d6a71a06b8676d95e1bdd",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-09-25T07:56:53+00:00",
+    "updated_at": "2026-09-25T22:28:01+00:00",
     "admin_locked": []
   },
   {
@@ -4420,7 +4420,7 @@
     },
     "is_verified": true,
     "author": "creativemd",
-    "downloads": 51601972,
+    "downloads": 51699714,
     "categories": [
       "fabric",
       "forge",
@@ -4457,7 +4457,7 @@
     ],
     "published_at": "2021-08-17T09:10:08.972681+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-25T01:37:34+00:00",
+    "updated_at": "2026-09-25T22:29:00+00:00",
     "admin_locked": []
   },
   {
@@ -4594,7 +4594,7 @@
     },
     "is_verified": true,
     "author": "dzwdz",
-    "downloads": 49087470,
+    "downloads": 49168159,
     "categories": [
       "decoration",
       "fabric",
@@ -4643,7 +4643,7 @@
     ],
     "published_at": "2022-10-17T14:59:36.612208+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-25T01:37:34+00:00",
+    "updated_at": "2026-09-25T22:29:00+00:00",
     "admin_locked": []
   },
   {
@@ -5178,7 +5178,7 @@
     },
     "is_verified": true,
     "author": "blackd",
-    "downloads": 39771055,
+    "downloads": 39858677,
     "categories": [
       "fabric",
       "forge",
@@ -5260,7 +5260,7 @@
     ],
     "published_at": "2021-06-18T06:15:15.487832+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-09-25T01:37:35+00:00",
+    "updated_at": "2026-09-25T22:29:00+00:00",
     "admin_locked": []
   },
   {
