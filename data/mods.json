@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 411.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 411.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "6e1a3e7cfe4fbb9318b7743cb2166282e27b3bcc182b9b1a4a7928d59b3d438b",
+    "external_hash": "71a676af98928ff467b3b187ca379dd9b7dc859e64dddef90212845b890bf6c2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-25T07:56:55+00:00",
+    "updated_at": "2026-09-25T13:55:04+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 256.2M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 256.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "edc6038a792160f711516690bf860acc4acb5125d61e69a5107fc596e0fb96ae",
+    "external_hash": "498ca9fed48a5c447d834796a98ab671efd8debd9d75d47ba0057b9cc7ac3805",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,16 +185,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-25T01:36:23+00:00",
+    "updated_at": "2026-09-25T13:55:10+00:00",
     "admin_locked": []
   },
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 477.4M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 477.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "a51a83587cf25f8a3616c538f8c52c89f4a655498f376ba7ab0789db1ca97370",
+    "external_hash": "e758a74bb6b0646cfb0408a88aba6e607106d26dbfb84b6b2ffa68b2817db6b4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,16 +206,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-09-24T22:33:23+00:00",
+    "updated_at": "2026-09-25T13:55:11+00:00",
     "admin_locked": []
   },
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 184.3M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 184.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "1100ab9f1bc4d7e36a0a6439ec818a31522d75c6ede092db1d30a82d14875900",
+    "external_hash": "20f9b48643eefb79ce0841287e483e8ec764fc8bc6346adc6a8d36107f6653eb",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-25T01:36:24+00:00",
+    "updated_at": "2026-09-25T13:54:53+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 308.6M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 308.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "bec20ae073bea65541f8da03f48e7530a3b3a0aebdcbb3e24f7830c1fa7a4dbd",
+    "external_hash": "7ee3f46f8fff44914a8b7daa24d6ad1718b55e0ef3543ab4ccf103c810cec144",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-25T01:36:42+00:00",
+    "updated_at": "2026-09-25T13:54:57+00:00",
     "admin_locked": []
   },
   {
@@ -359,10 +359,10 @@
   {
     "id": "34d247df9b60ae22",
     "name": "Entity Culling Fabric/Forge",
-    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 229.1M Downloads | Mods",
+    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 229.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
-    "external_hash": "65182bf86e3461067f029546ff7186aeb564f92e6977ac086bd972ebae9437da",
+    "external_hash": "868d5ed785b46d3661953419e4fd60dd1cc0e1f1401351dcb8508621a5103494",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -374,7 +374,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:58+00:00",
     "discovered_at": "2026-08-24T21:39:58+00:00",
-    "updated_at": "2026-09-24T22:33:16+00:00",
+    "updated_at": "2026-09-25T13:55:03+00:00",
     "admin_locked": []
   },
   {
@@ -2628,7 +2628,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 78147151,
+    "downloads": 78288444,
     "categories": [
       "fabric",
       "forge",
@@ -2689,7 +2689,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-09-25T01:37:33+00:00",
+    "updated_at": "2026-09-25T13:56:04+00:00",
     "admin_locked": []
   },
   {
