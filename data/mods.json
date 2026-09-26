@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 372.7M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 372.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "3e74cd6c1eb57bf6552ce04d425f7aa4360b4928827e779057fafaa14d182549",
+    "external_hash": "31d9829dd9686a95a0c466955888efa89e79880607161737dff419471c2df49a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,16 +38,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-09-25T18:42:49+00:00",
+    "updated_at": "2026-09-26T07:49:54+00:00",
     "admin_locked": []
   },
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 627.3M Downloads | Mods",
+    "description": "View Items and Recipes 627.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "60ae5c2c2754eb990b42c19e4bbf310dcad5474a62ce33a99ef544b14901aa41",
+    "external_hash": "fe19db0d924860656044e6e9ebc656de2648d140b0d94933fb93abe325588ac5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-09-25T22:27:49+00:00",
+    "updated_at": "2026-09-26T07:49:44+00:00",
     "admin_locked": []
   },
   {
@@ -86,10 +86,10 @@
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 416.6M Downloads | Mods",
+    "description": "An open source library for other mods! 416.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "fa32107ab977f9d7bc9dcbbad6e482a815ae9442f27c457ab2d3119437b2f779",
+    "external_hash": "dfa09894dd35c95f4d2e5e13dbb79ae1e0310e3f747f8350dfbed2efa196a444",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-09-25T18:42:42+00:00",
+    "updated_at": "2026-09-26T07:49:39+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 205.5M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 205.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "b73d6127d3cb6a1bbb7031659b0353832f28e74a0cf83e5a56fc90735a8b2a50",
+    "external_hash": "bfca8ee47e6ddddc4c6cf2d2a7d62339a5ad475ca4cecc20ac2adb76ff53ceb4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-09-25T18:42:45+00:00",
+    "updated_at": "2026-09-26T07:49:51+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 411.6M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 411.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "a803aa253acd5b40b0512f248cb7e6f98cba7debb62c4c0c674caf529f3ce779",
+    "external_hash": "3c8916a51626d63218ac1c140384adfaa39b84db9f748c1b9681d7382f1732e7",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-09-25T22:27:57+00:00",
+    "updated_at": "2026-09-26T07:49:45+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 256.5M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 256.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "3c9e90632e4e0f1d3eb32ab3a3b553f231621b296fffc3e6b2fcc3a4a6cfca6d",
+    "external_hash": "2dfa73ee6875b1b1bf601f534a540868619c09b14b9e73abf90a8144d39ce890",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-09-26T01:39:21+00:00",
+    "updated_at": "2026-09-26T07:49:57+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 184.5M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 184.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "1197865bf428aa8ee3cce7e811bd2f55cc45610f8f23aa036347a2f406680d31",
+    "external_hash": "22419a9cd78288efe06a2d2890ce545b3432383687b68a299a8a8d5d6953853f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,16 +227,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-09-25T22:27:56+00:00",
+    "updated_at": "2026-09-26T07:50:02+00:00",
     "admin_locked": []
   },
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 345.8M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 345.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "e4ef3958515e5f872866d87fc2e17be5fc7f8d3b858540c11b2ba640e9e00f2a",
+    "external_hash": "a67e009335d05a7612a3d6a093a9a5336126a65891f805b816c168bad45ba413",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,16 +248,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-09-25T18:42:43+00:00",
+    "updated_at": "2026-09-26T07:49:42+00:00",
     "admin_locked": []
   },
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 308.8M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 308.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "f2f5fedd0b618399b3c19ffefaa67152604ce9271a55b5d81080b305b5eb7d72",
+    "external_hash": "62c9b3f2f8553fb714dd889b6f8dad5eccd6599b81891ef7aa5b341e8497b46b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,16 +269,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-09-25T22:27:52+00:00",
+    "updated_at": "2026-09-26T07:49:47+00:00",
     "admin_locked": []
   },
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 242.2M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 242.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "80a94bdf51f7336f6b1e62844f6343b1ff8258b52d28568bf488540bb14e5b31",
+    "external_hash": "bf0cca662f3f023dbae49ecd88302b663375a271deeebcb298be3fb7cfc861b4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,16 +290,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-09-26T01:39:26+00:00",
+    "updated_at": "2026-09-26T07:49:53+00:00",
     "admin_locked": []
   },
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 377.8M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 377.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "7211f46d54b2ff2df7591c952abbe1836d06f6f6771364f4d2ce813d31098a17",
+    "external_hash": "c26a02ddcd8afdaf1eebc542424440a42f3d7a0c0e10204bd8eec23e8df5410e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-09-25T22:27:59+00:00",
+    "updated_at": "2026-09-26T07:49:55+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 271.7M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 271.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "4a5ae2efe6ad9002bdd299193cc27d0978e87ad7b23ec10ca731affb2b9d4818",
+    "external_hash": "a28db5956b9201ac4d59e902daf4474b6adf8d69f40fb00a77fc15739b5951c1",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,16 +353,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-09-25T22:27:50+00:00",
+    "updated_at": "2026-09-26T07:49:56+00:00",
     "admin_locked": []
   },
   {
     "id": "34d247df9b60ae22",
     "name": "Entity Culling Fabric/Forge",
-    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 229.3M Downloads | Mods",
+    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 229.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
-    "external_hash": "09d6e22a25c21bf7408bab5244dffd5fdda3cc4b58de3c66b01adddfe6c8283f",
+    "external_hash": "563673d89d3f529d61af57a618598fba8049f33a939388bb8b2c7730bdd4b52e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -374,16 +374,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:58+00:00",
     "discovered_at": "2026-08-24T21:39:58+00:00",
-    "updated_at": "2026-09-25T22:28:02+00:00",
+    "updated_at": "2026-09-26T07:49:58+00:00",
     "admin_locked": []
   },
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 286.3M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 286.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "6790774a82b64053f510e9c9e72d701703c4632b7c6859c5bbf8eff3f9a1062f",
+    "external_hash": "3330eae4941303a0503d16ddb80df405a372f18e355f50e1ca1935acdf6734b8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-09-25T18:42:51+00:00",
+    "updated_at": "2026-09-26T07:49:49+00:00",
     "admin_locked": []
   },
   {
@@ -6470,7 +6470,7 @@
     },
     "is_verified": true,
     "author": "Forstride",
-    "downloads": 36235001,
+    "downloads": 36242841,
     "categories": [
       "adventure",
       "decoration",
@@ -6530,7 +6530,7 @@
     ],
     "published_at": "2023-11-19T19:41:58.508068+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-09-26T01:40:22+00:00",
+    "updated_at": "2026-09-26T07:50:53+00:00",
     "admin_locked": []
   },
   {
