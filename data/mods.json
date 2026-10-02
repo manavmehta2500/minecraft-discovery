@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 416.1M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 416.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "aeab7be97032cfd3c6ff1f5f3a32e20ee2701a6377c0da12a4f944634b81c4e5",
+    "external_hash": "bb6275f61697c936c2ddb10ff27e780010f8af54b24290f42254d341036da78b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,7 +17,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-10-02T13:56:11+00:00",
+    "updated_at": "2026-10-02T23:50:59+00:00",
     "admin_locked": []
   },
   {
@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 630.1M Downloads | Mods",
+    "description": "View Items and Recipes 630.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "e8ba738b2c09fe87ae31fdf617691fee86dcfa7952c7c880f6b19c4cd236487c",
+    "external_hash": "d0e38849854b028838aad441f9a15e2d090c8864a8ba456f10b42b00b7c798b5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-10-02T19:23:20+00:00",
+    "updated_at": "2026-10-02T23:50:57+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 154.3M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 154.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "30cbe37e14b5782e6774813e5d0e76a846c4f04c3f4587c3b1f07e7fca401650",
+    "external_hash": "ecfad052308e3cff71aec0525044c7a8369b932a3d396838af314ea771074f52",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,16 +80,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-10-02T19:23:28+00:00",
+    "updated_at": "2026-10-02T23:50:52+00:00",
     "admin_locked": []
   },
   {
     "id": "b6dab9407a208903",
     "name": "Bookshelf",
-    "description": "An open source library for other mods! 418.3M Downloads | Mods",
+    "description": "An open source library for other mods! 418.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
-    "external_hash": "dd5ce511ad359f8aaaffe61c2e68e37cf2e0e38a441d3a4c447c06efc17e9500",
+    "external_hash": "66eac543ec7138fa446dcec95b30c5dd04091b0f10dc779db914502751a92b63",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -101,7 +101,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:43+00:00",
     "discovered_at": "2026-08-24T21:39:43+00:00",
-    "updated_at": "2026-10-02T13:56:05+00:00",
+    "updated_at": "2026-10-02T23:51:02+00:00",
     "admin_locked": []
   },
   {
@@ -128,10 +128,10 @@
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 207.2M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 207.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "1cc4ffc34328b7e6383ae8507a3a178a1ce46962d491b33c186b45d9d0504839",
+    "external_hash": "48a87c94d2babc7a89b6b84606b004d7d241be51e4b7b182fc808d46594879dd",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,16 +143,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-10-02T19:23:29+00:00",
+    "updated_at": "2026-10-02T23:51:05+00:00",
     "admin_locked": []
   },
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 414.4M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 414.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "4b3311a0dc790a623086fe9151aaf27f60b350fae0e0b4e1f423ffc5ed99f27e",
+    "external_hash": "de136d0b93cf6960b15d0cbba53bde4bc80628ad396b45090f9778a43793bd9c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-10-02T19:23:34+00:00",
+    "updated_at": "2026-10-02T23:51:03+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 347.2M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 347.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "50fbfb17bdf4324ade9d9fc4f323ea6af4c6448a159850c746636b4a1150ae91",
+    "external_hash": "17ac362cd67675de97dd75c6dd67ea3c26d7d1a37fefc39d985c725b002a4b1f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,16 +248,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-10-02T13:56:15+00:00",
+    "updated_at": "2026-10-02T23:50:56+00:00",
     "admin_locked": []
   },
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 310.5M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 310.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "481395c2496b6b88846b9361dd2ab1053abf4c1ae60fe4c6642535c4b1aea33f",
+    "external_hash": "062f713ec834a186e2bb5be53938b2d6d0e01d2ecd31fe6aa45a80a71412c33a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-10-02T13:56:18+00:00",
+    "updated_at": "2026-10-02T23:51:00+00:00",
     "admin_locked": []
   },
   {
@@ -3202,7 +3202,7 @@
     },
     "is_verified": true,
     "author": "Snownee",
-    "downloads": 69326203,
+    "downloads": 69445003,
     "categories": [
       "fabric",
       "forge",
@@ -3289,7 +3289,7 @@
     ],
     "published_at": "2022-12-11T14:21:53.979193+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-02T07:05:16+00:00",
+    "updated_at": "2026-10-02T23:51:57+00:00",
     "admin_locked": []
   },
   {
@@ -7523,10 +7523,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 251.0M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 251.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "93501596ffabbe2b91949f7cf6bcd46fcd33799eb351093b2ab17586709111f5",
+    "external_hash": "4c383f03217b33678592771b58c1c7762cf81ade687626fa9a404d69ead98979",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7538,16 +7538,16 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-10-02T19:23:23+00:00",
+    "updated_at": "2026-10-02T23:51:10+00:00",
     "admin_locked": []
   },
   {
     "id": "3bb93cb24c24d0a9",
     "name": "Waystones",
-    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 320.7M Downloads | Mods",
+    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 320.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
-    "external_hash": "6a91f7e61d8d42aa4e5cd1fb56846ebce70de51ddc5504be29793f8251a9cde4",
+    "external_hash": "ef1a7ec261e2e580fd4f229ecc45227af1492a5aa6d24cc2508a46bafea26fba",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7559,7 +7559,7 @@
     "categories": [],
     "published_at": "2026-09-23T11:47:47+00:00",
     "discovered_at": "2026-09-23T11:47:47+00:00",
-    "updated_at": "2026-10-02T19:23:17+00:00",
+    "updated_at": "2026-10-02T23:51:07+00:00",
     "admin_locked": []
   }
 ]
