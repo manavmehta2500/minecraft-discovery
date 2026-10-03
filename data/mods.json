@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 630.7M Downloads | Mods",
+    "description": "View Items and Recipes 630.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "db7f8731a9a2bdf231469bcdf63679d5c56de50c4bbf9000c6e24bd2614cb280",
+    "external_hash": "6def2c38ec996d84769485b3cc582003c2652461a40c8d3a0a3595d9a548cf75",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-10-03T19:59:00+00:00",
+    "updated_at": "2026-10-03T23:08:34+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 154.6M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 154.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "175d070cbdea79b8b837f56e9afd9bcf8a58697d619a7452d2feb2e960886b8e",
+    "external_hash": "ad84f3ecd8f0d4fa106d7087fb4abb503fffb0d63f0ad90e0cbfa482f588b759",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-10-03T19:58:46+00:00",
+    "updated_at": "2026-10-03T23:08:45+00:00",
     "admin_locked": []
   },
   {
@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 222.6M Downloads | Mods",
+    "description": "Memory usage optimizations 222.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "ae8f3868f5a2b40a2aa2244e7c24759794ca8f10880cef58a9fe99123ac15e4f",
+    "external_hash": "47d561230200e6f430a1187ee88471a2fa7ef187a3a2ccd75d61147c2a5a57d7",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,16 +122,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-10-03T05:25:53+00:00",
+    "updated_at": "2026-10-03T23:08:47+00:00",
     "admin_locked": []
   },
   {
     "id": "02c6c062a14bfefa",
     "name": "Cupboard",
-    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 207.5M Downloads | Mods",
+    "description": "Cupboard provides code, frameworks, and utilities for minecraft mods 207.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/852/567/256/256/638255508280634753.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-    "external_hash": "4ba7291f652ca18a08403069f953f7c3faf68bc3bb8770377f4f426834bd0d8f",
+    "external_hash": "a3499c711e2ccac6f46f01ab9d76230bb9398cbe0f690e77c93acda0414abe1a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -143,7 +143,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:45+00:00",
     "discovered_at": "2026-08-24T21:39:45+00:00",
-    "updated_at": "2026-10-03T19:58:45+00:00",
+    "updated_at": "2026-10-03T23:08:43+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 258.9M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 259.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "99367976d0b30f241ecea63aba6056b6b34e26f0bfbeb1dd9b0514bd04e835fd",
+    "external_hash": "fe0a5f121783dad44cbbafe08f6914a6053eb6fac88c09e7ee5a8ab1a8f43c73",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-10-03T16:29:09+00:00",
+    "updated_at": "2026-10-03T23:08:31+00:00",
     "admin_locked": []
   },
   {
@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 186.7M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 186.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "1b6846d196426ccc7ccc40fe3981d09d203ecccba48a0bcd5594c44bb0c0bd4e",
+    "external_hash": "4ca0c10e09600ba1b82b5aee0291ccc7ed2ce200078b032ca92a4c21e643dc1a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-10-03T19:58:52+00:00",
+    "updated_at": "2026-10-03T23:08:46+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 244.5M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 244.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "206f33ab295b0cb7f762a16a06d1f5ce653f584676df77e3b87d665d78575232",
+    "external_hash": "ac1c2bc53783597b7dbb77a9b43b6c226564ecfbd4c613fd9d72ef53a914de2d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-10-03T16:29:03+00:00",
+    "updated_at": "2026-10-03T23:08:36+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 274.0M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 274.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "110f76981d154b40240d96dd5d119a64f5281a080ac8ff5f122d3e05091d5e23",
+    "external_hash": "ce74ea6b5478e26f70139efee54076ae78f802d434dcb6b9866009c151e3075a",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-10-03T19:58:57+00:00",
+    "updated_at": "2026-10-03T23:08:38+00:00",
     "admin_locked": []
   },
   {
@@ -7544,10 +7544,10 @@
   {
     "id": "3bb93cb24c24d0a9",
     "name": "Waystones",
-    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 321.0M Downloads | Mods",
+    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 321.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
-    "external_hash": "7284827a16c66d1132d83682d4cb034f1578e0ab22ee8072293e96c54b3877eb",
+    "external_hash": "9001a8913e64fbd6c494d4631d6c2ca288151c8ae732b63129a561ee1e411f1f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7559,7 +7559,7 @@
     "categories": [],
     "published_at": "2026-09-23T11:47:47+00:00",
     "discovered_at": "2026-09-23T11:47:47+00:00",
-    "updated_at": "2026-10-03T19:59:02+00:00",
+    "updated_at": "2026-10-03T23:08:42+00:00",
     "admin_locked": []
   }
 ]
