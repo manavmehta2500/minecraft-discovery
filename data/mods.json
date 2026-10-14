@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 419.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 419.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "ce58884c7322e4a1023eae09b0c296a8b5462b5718fde31d0c64859407352989",
+    "external_hash": "13f03bdeb7b13fed43405ff2084fbeef6946f96feeed8bfa1fedb14423aabe50",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-10-13T22:53:07+00:00",
+    "updated_at": "2026-10-14T07:45:41+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 262.2M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 262.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "48d2e496846ddf4f516572fec3f91f448b586cc42703e8463ded15fe8de1bb16",
+    "external_hash": "69b7db48ec2d98fe42538cb346a02bc93776ce11a56b6867e10f98a58c6ecdf8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-10-13T22:53:11+00:00",
+    "updated_at": "2026-10-14T07:45:44+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 291.1M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 291.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "32c7fc2f76d28d119c052c7dca580af1710b0c6e261234afeffad0405a3eefba",
+    "external_hash": "e04b80303218ddcdaab74a1a25158aa61cecf446d0d708e21a10ed35455d8969",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,7 +395,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-10-13T22:53:13+00:00",
+    "updated_at": "2026-10-14T07:45:25+00:00",
     "admin_locked": []
   },
   {
@@ -6490,7 +6490,7 @@
     },
     "is_verified": true,
     "author": "Forstride",
-    "downloads": 38342197,
+    "downloads": 38347350,
     "categories": [
       "adventure",
       "decoration",
@@ -6550,7 +6550,7 @@
     ],
     "published_at": "2023-11-19T19:41:58.508068+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-10-14T01:59:26+00:00",
+    "updated_at": "2026-10-14T07:46:43+00:00",
     "admin_locked": []
   },
   {
