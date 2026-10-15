@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 635.5M Downloads | Mods",
+    "description": "View Items and Recipes 635.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "107cdb377868df9ee62bc714c2a6c2cf59e563929dd10affb40ed5d97f0466c1",
+    "external_hash": "28e84c9ddb4bd8432456ea713d8967b86358dc954346704910ea2afe68348a48",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-10-15T13:31:17+00:00",
+    "updated_at": "2026-10-15T18:22:23+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 419.8M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 419.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "645e9a139638003ab7166a43f4e3bcce3a4758b51ae48199ba5aa697fa62ebb7",
+    "external_hash": "fc43852951149dcce3a744c23e8dd0e6826cbfdc2696846564ccef4a62a8b890",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-10-15T07:32:53+00:00",
+    "updated_at": "2026-10-15T18:22:09+00:00",
     "admin_locked": []
   },
   {
@@ -191,10 +191,10 @@
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 481.9M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 482.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "833efb3053cd62ed63d6593e181cd64f7ead8649eda3ec3217edf03fb8fb6744",
+    "external_hash": "91c9728911554d068add56a5165fc19ad9f06cc3c772ab959adeb33e0c6d055f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,16 +206,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-10-15T07:32:42+00:00",
+    "updated_at": "2026-10-15T18:22:11+00:00",
     "admin_locked": []
   },
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 190.0M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 190.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "95f22b5fbfed612bebb2416bb793cf8f5d9ac041a63f015e7ba093fbc2641225",
+    "external_hash": "c85ae87936002488e0b426d025211b520c718a44730a506916a05979a1bf637b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,7 +227,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-10-15T07:32:49+00:00",
+    "updated_at": "2026-10-15T18:22:18+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 314.0M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 314.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "1c22fe052c4be7a47481fb84914d2b19a00cf70249399ea5f50fb83a75ee6b15",
+    "external_hash": "64a6bdc46c1f1e6db0c38eac5539c47a34f9cfd6bda2354c3c0a8de5f0a89f35",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-10-15T07:33:09+00:00",
+    "updated_at": "2026-10-15T18:22:16+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 277.4M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 277.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "e72791470efc1844746a5e8c80abd611f228561146425f5404ca59a59769c7ea",
+    "external_hash": "b5c0b59a991f029a0e627a49838bc91685095d7c0e0e7300ccd9e78b39dd374d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-10-15T07:33:05+00:00",
+    "updated_at": "2026-10-15T18:22:26+00:00",
     "admin_locked": []
   },
   {
@@ -849,7 +849,7 @@
     },
     "is_verified": true,
     "author": "jellysquid3",
-    "downloads": 245166038,
+    "downloads": 245727557,
     "categories": [
       "fabric",
       "neoforge",
@@ -899,7 +899,7 @@
     ],
     "published_at": "2021-01-03T00:53:34.185936+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-15T01:34:17+00:00",
+    "updated_at": "2026-10-15T18:23:19+00:00",
     "admin_locked": []
   },
   {
@@ -2635,7 +2635,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 83126328,
+    "downloads": 83311937,
     "categories": [
       "fabric",
       "forge",
@@ -2696,7 +2696,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-15T01:34:17+00:00",
+    "updated_at": "2026-10-15T18:23:19+00:00",
     "admin_locked": []
   },
   {
@@ -5095,7 +5095,7 @@
     },
     "is_verified": true,
     "author": "MehVahdJukaar",
-    "downloads": 42586687,
+    "downloads": 42665008,
     "categories": [
       "fabric",
       "forge",
@@ -5119,7 +5119,7 @@
     ],
     "published_at": "2022-06-21T07:56:14.814685+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-15T01:34:18+00:00",
+    "updated_at": "2026-10-15T18:23:21+00:00",
     "admin_locked": []
   },
   {
@@ -5965,7 +5965,7 @@
     },
     "is_verified": true,
     "author": "ishland",
-    "downloads": 40312570,
+    "downloads": 40428289,
     "categories": [
       "fabric",
       "optimization",
@@ -6237,7 +6237,7 @@
     ],
     "published_at": "2021-10-02T10:14:46.020070+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-10-15T01:34:19+00:00",
+    "updated_at": "2026-10-15T18:23:22+00:00",
     "admin_locked": []
   },
   {
@@ -7515,7 +7515,7 @@
     },
     "is_verified": true,
     "author": "Su5eD",
-    "downloads": 30126770,
+    "downloads": 30185312,
     "categories": [
       "forge",
       "library",
@@ -7530,16 +7530,16 @@
     ],
     "published_at": "2023-07-18T01:52:43.220355+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-10-15T01:34:19+00:00",
+    "updated_at": "2026-10-15T18:23:22+00:00",
     "admin_locked": []
   },
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 254.3M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 254.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "d263a9691657c3feb634d8428679cfc836e59f9159b501242a825524062dabd2",
+    "external_hash": "2785c08d0bae4b0cbc4aeeb740105a29f088b415cfe5c8cf8c22cae281fb4c4f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7551,7 +7551,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-10-15T07:33:01+00:00",
+    "updated_at": "2026-10-15T18:22:17+00:00",
     "admin_locked": []
   },
   {
