@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 636.0M Downloads | Mods",
+    "description": "View Items and Recipes 636.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "1351931d34290fcffa34e3d1a0a95abed71de02c5af2312c8cb8ee764d188814",
+    "external_hash": "7d2f28d4492695dd960cf6935a1deee8185527e276a0e9c2ab92f3649441ae54",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-10-16T18:08:50+00:00",
+    "updated_at": "2026-10-16T21:20:03+00:00",
     "admin_locked": []
   },
   {
@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 224.2M Downloads | Mods",
+    "description": "Memory usage optimizations 224.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "1442bc83db70b22bf05bef7e0e4c3eef4607a169ef433a7536f6944be1ed6e82",
+    "external_hash": "8e15ff79f7797ba9ee36c7b802c93a30188a775c345c6ba34c68b92184eab54e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,7 +122,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-10-15T22:25:59+00:00",
+    "updated_at": "2026-10-16T21:20:09+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 420.3M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 420.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "1c83b7c4344e970108fe63ed52aeadcbe81dbd673d9eb52155e52e12149368e6",
+    "external_hash": "429f3ada560c187a329b690f7f4f2c1ed780937a5f2ff4cfbd938234f6fbe969",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-10-16T18:08:47+00:00",
+    "updated_at": "2026-10-16T21:20:06+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 262.9M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 263.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "033a9e70e1d90518e7f88f64ef7d7be624469ce0aa201648f233418bed27e0f7",
+    "external_hash": "12e9a9834de6eaba17e912050fe6300fdc15f7a7994c74e93e40a0c0c9224e8e",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-10-16T13:19:31+00:00",
+    "updated_at": "2026-10-16T21:20:00+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 350.1M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 350.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "5a5b21cf717bede6bc2a3a33df19eeca1296fc76229ac9653e66f9210c730b74",
+    "external_hash": "45f309f6d4fd335e99847579459211bcae27e381e89b3d903821c120f5b83dd0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-10-16T13:19:42+00:00",
+    "updated_at": "2026-10-16T21:19:53+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 248.5M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 248.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "a7c5d7f2b54ae08bb066b25b8fbf50803b3dda276052e734973949923b0eb27b",
+    "external_hash": "39f785bf6723dbe0791d1f361e6c76c19e8de9da09471b461da4376c73516b1d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-10-16T18:08:56+00:00",
+    "updated_at": "2026-10-16T21:20:17+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 397.8M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 397.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "955bf2a63462b08a5ae81ca307e10c59ca0e48cc5c9d0206a8221015fb2038a6",
+    "external_hash": "0374511c01645a578d7e8dd9c467d30b79e2e4bfb9cc9f4ba0f9a0f3157f1ff9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-10-16T07:18:32+00:00",
+    "updated_at": "2026-10-16T21:19:54+00:00",
     "admin_locked": []
   },
   {
@@ -3803,7 +3803,7 @@
     },
     "is_verified": true,
     "author": "Serilum",
-    "downloads": 68850819,
+    "downloads": 69073870,
     "categories": [
       "fabric",
       "forge",
@@ -3842,7 +3842,7 @@
     ],
     "published_at": "2022-08-30T10:44:01.264939+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-16T01:29:03+00:00",
+    "updated_at": "2026-10-16T21:21:09+00:00",
     "admin_locked": []
   },
   {
@@ -4674,7 +4674,7 @@
     },
     "is_verified": true,
     "author": "glisco",
-    "downloads": 50296316,
+    "downloads": 50420648,
     "categories": [
       "fabric",
       "library",
@@ -4718,7 +4718,7 @@
     ],
     "published_at": "2021-09-30T20:46:31.667429+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-16T01:29:03+00:00",
+    "updated_at": "2026-10-16T21:21:09+00:00",
     "admin_locked": []
   },
   {
@@ -5686,7 +5686,7 @@
     },
     "is_verified": true,
     "author": "fzzyhmstrs",
-    "downloads": 43038763,
+    "downloads": 43193146,
     "categories": [
       "fabric",
       "forge",
@@ -5734,7 +5734,7 @@
     ],
     "published_at": "2024-04-21T07:12:15.276277+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-10-16T01:29:03+00:00",
+    "updated_at": "2026-10-16T21:21:09+00:00",
     "admin_locked": []
   },
   {
