@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 636.3M Downloads | Mods",
+    "description": "View Items and Recipes 636.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "b507d2757c00416d6f64e9021edd48052a71de4f68d496c2116af507961203aa",
+    "external_hash": "d3976ce0c3fbcda7aa172e13c60804a034cb45a7cd41b502a36d78bb68b37dd0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-10-17T10:54:20+00:00",
+    "updated_at": "2026-10-17T14:15:38+00:00",
     "admin_locked": []
   },
   {
@@ -107,10 +107,10 @@
   {
     "id": "e75951e1fde5916c",
     "name": "FerriteCore ((Neo)Forge)",
-    "description": "Memory usage optimizations 224.3M Downloads | Mods",
+    "description": "Memory usage optimizations 224.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/323/941/256/256/637438748346113688.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-    "external_hash": "8e15ff79f7797ba9ee36c7b802c93a30188a775c345c6ba34c68b92184eab54e",
+    "external_hash": "4f8f2b036e2a4a4563ac4d3431edde90a473d3f56184c6f525ae6397a701f490",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -122,7 +122,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:44+00:00",
     "discovered_at": "2026-08-24T21:39:44+00:00",
-    "updated_at": "2026-10-16T21:20:09+00:00",
+    "updated_at": "2026-10-17T14:15:42+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 420.6M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 420.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "94e13e2327f549c0a1e00971b2482135fffafe88a9f89263981f16606b2ec5d4",
+    "external_hash": "352f1ff738b30c373e573227278f563c3be7a109541a85a2627cb1e088235fcb",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-10-17T10:54:25+00:00",
+    "updated_at": "2026-10-17T14:15:29+00:00",
     "admin_locked": []
   },
   {
@@ -191,10 +191,10 @@
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 482.3M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 482.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "57c30b7c8200615a89ac9f390083363a871fe7c11569d2723c73fef3a33e69dc",
+    "external_hash": "88969d662f9936d86fa9fd96969d19f66d237abc431f29180e11dce42d6b6287",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-10-17T05:39:58+00:00",
+    "updated_at": "2026-10-17T14:15:37+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 314.5M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 314.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "b1308c7e05fa7d2e8b2b7cab71b5ac29210a2ff4e144ab594664e9f1027dfa77",
+    "external_hash": "df8c99c2d6f1126c9e7421f6293ae69accfd2a10de53519820d99a7f99d768b4",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-10-17T05:39:51+00:00",
+    "updated_at": "2026-10-17T14:15:20+00:00",
     "admin_locked": []
   },
   {
@@ -2635,7 +2635,7 @@
     },
     "is_verified": true,
     "author": "mezz",
-    "downloads": 83887661,
+    "downloads": 83913899,
     "categories": [
       "fabric",
       "forge",
@@ -2696,7 +2696,7 @@
     ],
     "published_at": "2023-01-29T05:17:57.073755+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-17T10:55:13+00:00",
+    "updated_at": "2026-10-17T14:16:33+00:00",
     "admin_locked": []
   },
   {
@@ -3803,7 +3803,7 @@
     },
     "is_verified": true,
     "author": "Serilum",
-    "downloads": 69106175,
+    "downloads": 69258904,
     "categories": [
       "fabric",
       "forge",
@@ -3842,7 +3842,7 @@
     ],
     "published_at": "2022-08-30T10:44:01.264939+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-17T00:35:25+00:00",
+    "updated_at": "2026-10-17T14:16:34+00:00",
     "admin_locked": []
   },
   {
@@ -7557,10 +7557,10 @@
   {
     "id": "3bb93cb24c24d0a9",
     "name": "Waystones",
-    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 324.4M Downloads | Mods",
+    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 324.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
-    "external_hash": "b1b641cc78394022fd6480f2ead29e09a97beeff514797626eb13a0b81b6c435",
+    "external_hash": "c35ae6dd779095eba670a3a34cb89bc0084eb9b7f8d085e587fb662e070d9c94",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7572,7 +7572,7 @@
     "categories": [],
     "published_at": "2026-09-23T11:47:47+00:00",
     "discovered_at": "2026-09-23T11:47:47+00:00",
-    "updated_at": "2026-10-17T05:40:00+00:00",
+    "updated_at": "2026-10-17T14:15:25+00:00",
     "admin_locked": []
   }
 ]
