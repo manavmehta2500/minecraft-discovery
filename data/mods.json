@@ -212,10 +212,10 @@
   {
     "id": "ad1ff86aa5418323",
     "name": "ImmediatelyFast",
-    "description": "Speed up immediate mode rendering in Minecraft 191.5M Downloads | Mods",
+    "description": "Speed up immediate mode rendering in Minecraft 191.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/873/971/256/256/638294478643875692.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
-    "external_hash": "eb7f44accd6680ded4cf17245e8a37532f3afbc9515399948af3afaafa151a28",
+    "external_hash": "262bf526235ed8f012cee89afe6d646aedc210430b847871038732fb768eee47",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -227,16 +227,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:50+00:00",
     "discovered_at": "2026-08-24T21:39:50+00:00",
-    "updated_at": "2026-10-20T01:54:16+00:00",
+    "updated_at": "2026-10-20T13:38:20+00:00",
     "admin_locked": []
   },
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 350.9M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 351.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "39bf1b8283d2821cd8bf56de5d13aafc89902e894522dcd4cf5069f23fc54851",
+    "external_hash": "1cab7b532dc1df3fa3cbd27317271028ba0302f450bd0cb285b0b903840fafa1",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-10-19T22:27:16+00:00",
+    "updated_at": "2026-10-20T13:38:25+00:00",
     "admin_locked": []
   },
   {
@@ -338,10 +338,10 @@
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 278.9M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 279.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "43c2e406624e8c1c17309175ee8058d6edc4cc879490285ba1bb1490e90d3983",
+    "external_hash": "23036023cd2c1bb20ce4184659d29ec20880bd5a09a959af4fe2d8b661a066e2",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-10-20T01:54:14+00:00",
+    "updated_at": "2026-10-20T13:38:21+00:00",
     "admin_locked": []
   },
   {
@@ -1859,7 +1859,7 @@
     },
     "is_verified": true,
     "author": "thexaero",
-    "downloads": 119721649,
+    "downloads": 119765016,
     "categories": [
       "adventure",
       "fabric",
@@ -1914,7 +1914,7 @@
     ],
     "published_at": "2023-04-22T18:06:33.825340+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-20T07:43:39+00:00",
+    "updated_at": "2026-10-20T13:39:23+00:00",
     "admin_locked": []
   },
   {
@@ -2101,7 +2101,7 @@
     },
     "is_verified": true,
     "author": "thexaero",
-    "downloads": 104922882,
+    "downloads": 104964133,
     "categories": [
       "adventure",
       "fabric",
@@ -2156,7 +2156,7 @@
     ],
     "published_at": "2023-04-22T18:06:37.599573+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-20T07:43:39+00:00",
+    "updated_at": "2026-10-20T13:39:23+00:00",
     "admin_locked": []
   },
   {
@@ -2507,7 +2507,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 98937070,
+    "downloads": 99214196,
     "categories": [
       "bukkit",
       "cursed",
@@ -2561,7 +2561,7 @@
     ],
     "published_at": "2023-05-27T18:02:21.144599+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-20T01:55:14+00:00",
+    "updated_at": "2026-10-20T13:39:23+00:00",
     "admin_locked": []
   },
   {
@@ -3371,7 +3371,7 @@
     },
     "is_verified": true,
     "author": "juliand665",
-    "downloads": 71194721,
+    "downloads": 71275094,
     "categories": [
       "fabric",
       "forge",
@@ -3573,7 +3573,7 @@
     ],
     "published_at": "2020-12-01T15:57:46.862046+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-20T01:55:15+00:00",
+    "updated_at": "2026-10-20T13:39:24+00:00",
     "admin_locked": []
   },
   {
@@ -3803,7 +3803,7 @@
     },
     "is_verified": true,
     "author": "Serilum",
-    "downloads": 70011247,
+    "downloads": 70086427,
     "categories": [
       "fabric",
       "forge",
@@ -3842,7 +3842,7 @@
     ],
     "published_at": "2022-08-30T10:44:01.264939+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-20T01:55:15+00:00",
+    "updated_at": "2026-10-20T13:39:24+00:00",
     "admin_locked": []
   },
   {
@@ -4331,7 +4331,7 @@
     },
     "is_verified": true,
     "author": "Miraculixx",
-    "downloads": 71568867,
+    "downloads": 71817575,
     "categories": [
       "equipment",
       "fabric",
@@ -4361,7 +4361,7 @@
     ],
     "published_at": "2025-03-27T22:25:52.213186+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-20T01:55:15+00:00",
+    "updated_at": "2026-10-20T13:39:24+00:00",
     "admin_locked": []
   },
   {
@@ -4433,7 +4433,7 @@
     },
     "is_verified": true,
     "author": "creativemd",
-    "downloads": 55228125,
+    "downloads": 55279948,
     "categories": [
       "fabric",
       "forge",
@@ -4470,7 +4470,7 @@
     ],
     "published_at": "2021-08-17T09:10:08.972681+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-20T01:55:15+00:00",
+    "updated_at": "2026-10-20T13:39:24+00:00",
     "admin_locked": []
   },
   {
