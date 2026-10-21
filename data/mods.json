@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 419.9M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 420.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "d33b4d161ef1163e2ef6b51fc1920a553909d92aacba19711c825e4351e88928",
+    "external_hash": "600507f1230f6404b9e1e773167a6b60fcc4346d7e96fb9981f2847fe94e5305",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,7 +17,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-10-21T07:47:03+00:00",
+    "updated_at": "2026-10-21T22:26:40+00:00",
     "admin_locked": []
   },
   {
@@ -170,10 +170,10 @@
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 264.5M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 264.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "972a738a3a3430f1e47cb13c4fad04818372bf7f6bf537d2d9d74c3ebd1df5ee",
+    "external_hash": "7090289483aa04d5b55155c27bc15327060ccb85f790b1d5f398c44d6c931132",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-10-21T13:55:14+00:00",
+    "updated_at": "2026-10-21T22:26:19+00:00",
     "admin_locked": []
   },
   {
@@ -254,10 +254,10 @@
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 315.7M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 315.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "b0377226104fdf403510da26b26c7043c134d342a93370b3d66b50578e49f867",
+    "external_hash": "30b473d67a9622a7ab57ee3c3e346b3137331a0ff09fc5450eecdbdda6edf592",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,7 +269,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-10-21T13:55:20+00:00",
+    "updated_at": "2026-10-21T22:26:20+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 293.2M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 293.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "bdbb71f4ced685ee33f3292e7042d1a24374fd6e568a53d8b292c02d1276745b",
+    "external_hash": "166595cd70f3a2b74c6ec9e6db24e0ce0dc04efc530ee49336d34a5da4b8ae07",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,16 +395,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-10-21T13:55:10+00:00",
+    "updated_at": "2026-10-21T22:26:45+00:00",
     "admin_locked": []
   },
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 398.6M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 398.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "36b7012921b28d677a942358005c988aca94248fad131fbbcf54b64f59b5b805",
+    "external_hash": "7570383c2640afc59fe2c13965ff52ca623653ae8242da5679d21cc5120db57c",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-10-21T01:41:16+00:00",
+    "updated_at": "2026-10-21T22:26:27+00:00",
     "admin_locked": []
   },
   {
@@ -3805,7 +3805,7 @@
     },
     "is_verified": true,
     "author": "Serilum",
-    "downloads": 70318874,
+    "downloads": 70430756,
     "categories": [
       "fabric",
       "forge",
@@ -3844,7 +3844,7 @@
     ],
     "published_at": "2022-08-30T10:44:01.264939+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-10-21T13:56:14+00:00",
+    "updated_at": "2026-10-21T22:27:33+00:00",
     "admin_locked": []
   },
   {
@@ -7539,10 +7539,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 255.9M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 256.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "ea0a599446b10ec04a65462f23a7c50fc4f4a103528a800f35253e29fac0c1aa",
+    "external_hash": "717aa15267fb48632f982c06feba4eb998c03f0addbeb87a4dd925eec505a3c0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7554,7 +7554,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-10-21T13:54:57+00:00",
+    "updated_at": "2026-10-21T22:26:31+00:00",
     "admin_locked": []
   },
   {
