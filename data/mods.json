@@ -23,10 +23,10 @@
   {
     "id": "d99a043a372e3736",
     "name": "Clumps",
-    "description": "Clumps XP orbs together to reduce lag 377.9M Downloads | Mods",
+    "description": "Clumps XP orbs together to reduce lag 378.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1289/817/256/256/638838549850518521_animated.gif",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
-    "external_hash": "62c7ebceebdaca98f82a522fd6c75c57fe1363176c3e88f6b4935becd447a6e9",
+    "external_hash": "04df6291555771b919efeacae7a194516f235a526966d117382458ea70357df9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -38,16 +38,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:39+00:00",
     "discovered_at": "2026-08-24T21:39:39+00:00",
-    "updated_at": "2026-10-27T06:23:25+00:00",
+    "updated_at": "2026-10-27T23:50:17+00:00",
     "admin_locked": []
   },
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 640.9M Downloads | Mods",
+    "description": "View Items and Recipes 641.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "c6a01d6c4996911538300781aadc0eedfeaf77db85031321b45c12af83f685af",
+    "external_hash": "bc86d4df4cb2ff407fd86e358a39e82762583272df9fa2617fed44c4370cbc19",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,7 +59,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-10-27T19:28:48+00:00",
+    "updated_at": "2026-10-27T23:50:14+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 425.2M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 425.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "f1f61a15cedfba55f0c2a26d777f05d654553ac6245eded0a50e526ebec9a22f",
+    "external_hash": "623a52d301ce962334bd43e3fec5e5978752a5e054a57878648294028231410f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,16 +164,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-10-27T19:28:44+00:00",
+    "updated_at": "2026-10-27T23:50:00+00:00",
     "admin_locked": []
   },
   {
     "id": "adcb16f45cfd5204",
     "name": "Balm",
-    "description": "Abstraction Layer for Multi-Loader Mods 266.4M Downloads | Mods",
+    "description": "Abstraction Layer for Multi-Loader Mods 266.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/balm",
-    "external_hash": "707539b9e46e4b831a6ac4478ea346018334c4062b568373231a9934536e0ae8",
+    "external_hash": "08349156e8be7d6c53edb2492bcc994592b33edc485b758155a44c06a88f15e9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -185,7 +185,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:48+00:00",
     "discovered_at": "2026-08-24T21:39:48+00:00",
-    "updated_at": "2026-10-27T13:20:22+00:00",
+    "updated_at": "2026-10-27T23:50:18+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 352.3M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 352.4M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "4393a825b8b5d12b42220de2fd77a1cd74810bdf63c48bbbf465d76f736f1286",
+    "external_hash": "bea52def6ef6e29bf18b5ddf838c737f9aeed1905b2d5b14a561d7646e485964",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,7 +248,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-10-27T06:23:29+00:00",
+    "updated_at": "2026-10-27T23:50:10+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 252.0M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 252.1M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "a06298ef1a06b540e7457caf600ce7887d2892c3153f27ad03528a6df57cfd1e",
+    "external_hash": "a7ad20c6b541a5640c7cf7649b2a413eab310941b59b0ef8935210bce4a56b95",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-10-27T13:19:55+00:00",
+    "updated_at": "2026-10-27T23:49:59+00:00",
     "admin_locked": []
   },
   {
@@ -359,10 +359,10 @@
   {
     "id": "34d247df9b60ae22",
     "name": "Entity Culling Fabric/Forge",
-    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 237.4M Downloads | Mods",
+    "description": "Using async path-tracing to hide BlockEntities/Entities that are not visible 237.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
-    "external_hash": "88b19f33ff9e0b96fe6aae71b2d219d19aefb00f49fc1e3917ce60b81ecf8a5d",
+    "external_hash": "2eebdcab0e5e519183423a54b1ed30f588f1ccd3a0206ad49a93ef1bc6e99581",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -374,7 +374,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:58+00:00",
     "discovered_at": "2026-08-24T21:39:58+00:00",
-    "updated_at": "2026-10-27T13:20:03+00:00",
+    "updated_at": "2026-10-27T23:50:16+00:00",
     "admin_locked": []
   },
   {
@@ -401,10 +401,10 @@
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 399.5M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 399.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "cdf7175d0acde02cb3abe22ae3784f1650a81fd35f9fa9d7da8480aa5d64b06c",
+    "external_hash": "eacc9f83f72f8ff39c7e050ee24c650841e05fe292a6ee37d4b0fff5275f3adf",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-10-27T06:23:46+00:00",
+    "updated_at": "2026-10-27T23:50:05+00:00",
     "admin_locked": []
   },
   {
@@ -1198,7 +1198,7 @@
     },
     "is_verified": true,
     "author": "Prospector",
-    "downloads": 162758431,
+    "downloads": 163142949,
     "categories": [
       "fabric",
       "quilt",
@@ -1383,11 +1383,12 @@
       "mc_version:26.3-rc-1",
       "mc_version:26.3",
       "mc_version:26.4-snapshot-1",
-      "mc_version:26.4-snapshot-3"
+      "mc_version:26.4-snapshot-3",
+      "mc_version:26.4-snapshot-6"
     ],
     "published_at": "2020-11-06T05:11:04.725058+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-10-27T00:34:23+00:00",
+    "updated_at": "2026-10-27T23:51:05+00:00",
     "admin_locked": []
   },
   {
@@ -7542,10 +7543,10 @@
   {
     "id": "c0f1554e4a8dabdc",
     "name": "Xaero's Minimap",
-    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 257.5M Downloads | Mods",
+    "description": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. 257.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/92/854/256/256/636258666554688823.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-    "external_hash": "44cd9841243dce47ab6fd85b05174a5ef8a5ba7307e0a3252cbb47aa2d7bdaf2",
+    "external_hash": "1d74a954e588ba2ac3ffe4496f9bb9e77c854b29ed17fdaa40b91e8626c847d5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7557,7 +7558,7 @@
     "categories": [],
     "published_at": "2026-09-03T11:23:38+00:00",
     "discovered_at": "2026-09-03T11:23:38+00:00",
-    "updated_at": "2026-10-27T19:28:51+00:00",
+    "updated_at": "2026-10-27T23:50:02+00:00",
     "admin_locked": []
   },
   {
