@@ -2,10 +2,10 @@
   {
     "id": "14acd5a31fbaff31",
     "name": "AppleSkin",
-    "description": "Adds some useful information about food/hunger to the HUD 423.7M Downloads | Mods",
+    "description": "Adds some useful information about food/hunger to the HUD 423.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-    "external_hash": "60603451427b935f266554e04d9cfc486f6d37ba2fa29847dca0d90a1e2bf44f",
+    "external_hash": "793a0f31e671bd3b00e517974d158187fb89850188b1d7220517ec5311d76253",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -17,7 +17,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:38+00:00",
     "discovered_at": "2026-08-24T21:39:38+00:00",
-    "updated_at": "2026-11-11T22:46:11+00:00",
+    "updated_at": "2026-11-12T12:52:50+00:00",
     "admin_locked": []
   },
   {
@@ -149,10 +149,10 @@
   {
     "id": "68756bb144a81247",
     "name": "GeckoLib",
-    "description": "A 3D animation library for entities, blocks, items, armor, and more! 430.8M Downloads | Mods",
+    "description": "A 3D animation library for entities, blocks, items, armor, and more! 430.9M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1081/393/256/256/638621132937140582.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-    "external_hash": "528b14f9d85e0994fbd4316e2dde87d002b7da7a46f3579b4aca710b7596f18b",
+    "external_hash": "1dcd7ac525ba0473be56f34ab572245b3d240209c45255dad10595ee4c6295c9",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -164,7 +164,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:46+00:00",
     "discovered_at": "2026-08-24T21:39:46+00:00",
-    "updated_at": "2026-11-12T03:53:26+00:00",
+    "updated_at": "2026-11-12T12:53:10+00:00",
     "admin_locked": []
   },
   {
@@ -275,10 +275,10 @@
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 256.2M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 256.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "0b21f64cc45dc0e771819d0a7771a71de2654301873d123b61cb12a0a246ae0b",
+    "external_hash": "8707f4461920e986daf68b380aef0f6dc19d4c01fc622574eaa0befbd037f822",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,16 +290,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-11-11T22:46:14+00:00",
+    "updated_at": "2026-11-12T12:52:54+00:00",
     "admin_locked": []
   },
   {
     "id": "697c2bfed8a1ecb3",
     "name": "Cloth Config API (Fabric/Forge/NeoForge)",
-    "description": "Config Screen API for Minecraft 388.1M Downloads | Mods",
+    "description": "Config Screen API for Minecraft 388.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-    "external_hash": "f5b7825b2debff63da6ef7e260657af1bc2c7d6ff7df618be8e979fd68783506",
+    "external_hash": "3334c22bd380e47a8f3cc34680e0b9952359bd737303490ce3ab372e2ffc1c3f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -311,7 +311,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:55+00:00",
     "discovered_at": "2026-08-24T21:39:55+00:00",
-    "updated_at": "2026-11-11T22:46:04+00:00",
+    "updated_at": "2026-11-12T12:53:09+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 304.4M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 304.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "5ef9f14d8e1be9677db8c529e544d8824f092965a663982dbc37329c807a837d",
+    "external_hash": "5d70651e5e420f992b1ab1a4a2b9b98f82f34f7593043d9a95eafc31fe615822",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,16 +395,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-11-11T22:46:05+00:00",
+    "updated_at": "2026-11-12T12:53:03+00:00",
     "admin_locked": []
   },
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 401.6M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 401.7M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "4f56b71475799f0a21a4adc99e3edf5ef94284c33ab8842a0fa25b87e803ab0e",
+    "external_hash": "03d75c3d2dff50ecf3808e30e49298a14b6b724b63a3c78211270840a876df58",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-11-11T15:22:43+00:00",
+    "updated_at": "2026-11-12T12:52:55+00:00",
     "admin_locked": []
   },
   {
@@ -1200,7 +1200,7 @@
     },
     "is_verified": true,
     "author": "Prospector",
-    "downloads": 160453699,
+    "downloads": 160527752,
     "categories": [
       "fabric",
       "quilt",
@@ -1391,7 +1391,7 @@
     ],
     "published_at": "2020-11-06T05:11:04.725058+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-11-12T03:54:18+00:00",
+    "updated_at": "2026-11-12T12:53:59+00:00",
     "admin_locked": []
   },
   {
