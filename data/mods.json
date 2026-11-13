@@ -44,10 +44,10 @@
   {
     "id": "85be45392725a9d8",
     "name": "Just Enough Items (JEI)",
-    "description": "View Items and Recipes 646.9M Downloads | Mods",
+    "description": "View Items and Recipes 647.0M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jei",
-    "external_hash": "bbba2dfcebb3e5c0105fa0ee91acc89897f59752325616671f682ecef4db7b14",
+    "external_hash": "0195d589b63ecf1be7d7fcc1dbd3dfb170e5f3deece6819b9d832422c3c8d55f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -59,16 +59,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:40+00:00",
     "discovered_at": "2026-08-24T21:39:40+00:00",
-    "updated_at": "2026-11-12T20:54:48+00:00",
+    "updated_at": "2026-11-13T09:41:09+00:00",
     "admin_locked": []
   },
   {
     "id": "b53dd674f5ba6e4c",
     "name": "Sodium",
-    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 164.1M Downloads | Mods",
+    "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! 164.2M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/284/773/256/256/637298471098686391.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
-    "external_hash": "a3365b334112b227fe6bff4833023b62330d4dc4713d40254b65f497654fb2ce",
+    "external_hash": "97ebd2fbce523f75001599650ad9ea5c49effe12af0d4215f8a118394951dde0",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -80,7 +80,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:41+00:00",
     "discovered_at": "2026-08-24T21:39:41+00:00",
-    "updated_at": "2026-11-12T20:54:52+00:00",
+    "updated_at": "2026-11-13T09:41:19+00:00",
     "admin_locked": []
   },
   {
@@ -191,10 +191,10 @@
   {
     "id": "f1052268df6eb52d",
     "name": "Mouse Tweaks",
-    "description": "Enhances inventory management by adding various functions to the mouse buttons. 487.4M Downloads | Mods",
+    "description": "Enhances inventory management by adding various functions to the mouse buttons. 487.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/467/691/256/256/637749969243449870.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-    "external_hash": "11b877173bdc24e563e22dbac38a6f49a7b1a8e13f0c3a2c63b5907e7e695f9f",
+    "external_hash": "b26a07a57827d38eb3d50f7f6ac0ef31382dc7c66ab5691162a9f717ac8c0af8",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -206,7 +206,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:49+00:00",
     "discovered_at": "2026-08-24T21:39:49+00:00",
-    "updated_at": "2026-11-12T20:54:46+00:00",
+    "updated_at": "2026-11-13T09:41:12+00:00",
     "admin_locked": []
   },
   {
@@ -233,10 +233,10 @@
   {
     "id": "06061e84d99e47b3",
     "name": "Architectury API",
-    "description": "An intermediary api aimed to ease developing multiplatform mods. 355.2M Downloads | Mods",
+    "description": "An intermediary api aimed to ease developing multiplatform mods. 355.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/313/420/256/256/637408811378175814.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-    "external_hash": "e7e332f0072108aacbb777bd486c971c6554b6f286c92ddfe97dd7a290d8d391",
+    "external_hash": "936bdf156d9e781f2f46870c1af5fa46ed895d48a40fac22833afacbbf293f1d",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -248,16 +248,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:51+00:00",
     "discovered_at": "2026-08-24T21:39:51+00:00",
-    "updated_at": "2026-11-12T20:54:49+00:00",
+    "updated_at": "2026-11-13T09:41:05+00:00",
     "admin_locked": []
   },
   {
     "id": "1f7f6ca33b92d55a",
     "name": "Curios API",
-    "description": "A flexible and expandable accessory/equipment API for users and developers. 322.2M Downloads | Mods",
+    "description": "A flexible and expandable accessory/equipment API for users and developers. 322.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/195/772/256/256/636881112930494939.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/curios",
-    "external_hash": "06171e76a9b4f1188978165e89799b055c49deb8b94580658187a5bc5bfe7e2f",
+    "external_hash": "fd143fef8831021bd5024f3df090e471e0394bb6ac57a2a83a075a4cdb11963f",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -269,16 +269,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:52+00:00",
     "discovered_at": "2026-08-24T21:39:52+00:00",
-    "updated_at": "2026-11-12T20:54:50+00:00",
+    "updated_at": "2026-11-13T09:41:20+00:00",
     "admin_locked": []
   },
   {
     "id": "b868aba2069aa5e2",
     "name": "ModernFix",
-    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 256.4M Downloads | Mods",
+    "description": "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! 256.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/881/436/256/256/638311693460984164.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-    "external_hash": "7b68defd9eed1d93312833dc4edf57db4f9037f04055da3b755026e8adc0b7b1",
+    "external_hash": "1ba734be91dc294156bcecae4cc1e59b1dc59e0b30958c1cdc4b05d3ee3304f5",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -290,7 +290,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:53+00:00",
     "discovered_at": "2026-08-24T21:39:53+00:00",
-    "updated_at": "2026-11-12T20:54:34+00:00",
+    "updated_at": "2026-11-13T09:40:58+00:00",
     "admin_locked": []
   },
   {
@@ -317,10 +317,10 @@
   {
     "id": "d5ef85ab809d909e",
     "name": "Collective",
-    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 276.4M Downloads | Mods",
+    "description": "🎓 Collective is a shared library with common code for all of Serilum's mods. 276.5M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/975/602/256/256/638479075930399380.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/collective",
-    "external_hash": "6d20ff3ae9fa08ea34c5b194a09080b8f8f7f2bbc346de79297c22c8390d0eb2",
+    "external_hash": "9b9ca92a063f6c57bd7ddbe93422c49bedb0fdd21264ef89eb9c957771ca0938",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -332,16 +332,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:56+00:00",
     "discovered_at": "2026-08-24T21:39:56+00:00",
-    "updated_at": "2026-11-12T20:54:33+00:00",
+    "updated_at": "2026-11-13T09:41:06+00:00",
     "admin_locked": []
   },
   {
     "id": "3d5222aecbf89d01",
     "name": "Jade 🔍",
-    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 285.2M Downloads | Mods",
+    "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+) 285.3M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/jade",
-    "external_hash": "768d3318acf7d1cb939d49d62a4bff96d0101a8f88f832354ae1645ac43298a4",
+    "external_hash": "45bd89d6bd92876a4f7c7daf6d1bb46bc80fa21f2891c162265bb559bdabc490",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -353,7 +353,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:39:57+00:00",
     "discovered_at": "2026-08-24T21:39:57+00:00",
-    "updated_at": "2026-11-12T20:54:30+00:00",
+    "updated_at": "2026-11-13T09:41:04+00:00",
     "admin_locked": []
   },
   {
@@ -380,10 +380,10 @@
   {
     "id": "bb50c029c6152003",
     "name": "Moonlight Lib",
-    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 304.7M Downloads | Mods",
+    "description": "Forge and Fabric lightweight library with utilities such as custom Villagers AI, data driven trades, global datapack, custom Map Markers, First and third person item animations, dynamic assets generation, dynamic registration & more 304.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/402/662/256/256/637610797055895331.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/selene",
-    "external_hash": "df843cdef5c3223bfa60fe40a9d162bd713474c4ee77e0ea48f1327c3413e1d6",
+    "external_hash": "a6ad662c8628c6c14c616875c5c64fe66033cff43f0d27d8d3147b59eb8ea002",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -395,16 +395,16 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:00+00:00",
     "discovered_at": "2026-08-24T21:40:00+00:00",
-    "updated_at": "2026-11-13T01:55:17+00:00",
+    "updated_at": "2026-11-13T09:41:21+00:00",
     "admin_locked": []
   },
   {
     "id": "712fb1abf31412dd",
     "name": "Controlling",
-    "description": "Adds a search bar to the Key-Bindings menu 401.7M Downloads | Mods",
+    "description": "Adds a search bar to the Key-Bindings menu 401.8M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/49/603/256/256/636079972364045115.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
-    "external_hash": "03d75c3d2dff50ecf3808e30e49298a14b6b724b63a3c78211270840a876df58",
+    "external_hash": "2ca053249762c46655c6e170ece20b9f26c9e911bdf5f7c1d85dff838df0b1da",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -416,7 +416,7 @@
     "categories": [],
     "published_at": "2026-08-24T21:40:02+00:00",
     "discovered_at": "2026-08-24T21:40:02+00:00",
-    "updated_at": "2026-11-12T12:52:55+00:00",
+    "updated_at": "2026-11-13T09:41:11+00:00",
     "admin_locked": []
   },
   {
@@ -7575,10 +7575,10 @@
   {
     "id": "3bb93cb24c24d0a9",
     "name": "Waystones",
-    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 330.5M Downloads | Mods",
+    "description": "Teleport from waystone to waystone or craft magical scrolls to warp. 330.6M Downloads | Mods",
     "image_url": "https://media.forgecdn.net/avatars/thumbnails/1107/108/256/256/638657104456838765.png",
     "external_url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
-    "external_hash": "be0c7c7a6c6f4212cd9f7307661007a88d620b7026327c5f51227eed93884e1d",
+    "external_hash": "cac6e21d5385ed40f1368f7086fcd5043119ba3f519fc58d69c9808ac6dfea2b",
     "category": "mods",
     "source": {
       "name": "CurseForge",
@@ -7590,7 +7590,7 @@
     "categories": [],
     "published_at": "2026-09-23T11:47:47+00:00",
     "discovered_at": "2026-09-23T11:47:47+00:00",
-    "updated_at": "2026-11-12T20:54:29+00:00",
+    "updated_at": "2026-11-13T09:41:02+00:00",
     "admin_locked": []
   },
   {
