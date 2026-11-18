@@ -2587,7 +2587,7 @@
     },
     "is_verified": true,
     "author": "embeddedt",
-    "downloads": 84610064,
+    "downloads": 84666090,
     "categories": [
       "fabric",
       "forge",
@@ -2627,7 +2627,7 @@
     ],
     "published_at": "2023-04-18T00:08:34.429392+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-11-18T04:32:03+00:00",
+    "updated_at": "2026-11-18T22:05:50+00:00",
     "admin_locked": []
   },
   {
@@ -4688,7 +4688,7 @@
     },
     "is_verified": true,
     "author": "glisco",
-    "downloads": 51483056,
+    "downloads": 51526889,
     "categories": [
       "fabric",
       "library",
@@ -4732,7 +4732,7 @@
     ],
     "published_at": "2021-09-30T20:46:31.667429+00:00",
     "discovered_at": "2026-08-24T21:40:51+00:00",
-    "updated_at": "2026-11-18T04:32:04+00:00",
+    "updated_at": "2026-11-18T22:05:51+00:00",
     "admin_locked": []
   },
   {
