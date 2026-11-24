@@ -433,7 +433,7 @@
     },
     "is_verified": true,
     "author": "modmuss50",
-    "downloads": 291490606,
+    "downloads": 291707300,
     "categories": [
       "fabric",
       "library",
@@ -824,6 +824,7 @@
       "mc_version:26.3-snapshot-7",
       "mc_version:26.3-snapshot-8",
       "mc_version:26.3-snapshot-9",
+      "mc_version:26.4-pre-1",
       "mc_version:26.4-snapshot-1",
       "mc_version:26.4-snapshot-10",
       "mc_version:26.4-snapshot-2",
@@ -837,7 +838,7 @@
     ],
     "published_at": "2021-01-22T11:04:41.419169+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-11-24T02:19:34+00:00",
+    "updated_at": "2026-11-24T23:31:11+00:00",
     "admin_locked": []
   },
   {
@@ -854,7 +855,7 @@
     },
     "is_verified": true,
     "author": "jellysquid3",
-    "downloads": 256047095,
+    "downloads": 256374594,
     "categories": [
       "fabric",
       "neoforge",
@@ -904,7 +905,7 @@
     ],
     "published_at": "2021-01-03T00:53:34.185936+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-11-24T02:19:34+00:00",
+    "updated_at": "2026-11-24T23:31:11+00:00",
     "admin_locked": []
   },
   {
@@ -2020,7 +2021,7 @@
     },
     "is_verified": true,
     "author": "shedaniel",
-    "downloads": 110079343,
+    "downloads": 110191700,
     "categories": [
       "fabric",
       "forge",
@@ -2093,7 +2094,7 @@
     ],
     "published_at": "2020-11-16T10:40:17.116288+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-11-24T02:19:34+00:00",
+    "updated_at": "2026-11-24T23:31:11+00:00",
     "admin_locked": []
   },
   {
@@ -2587,7 +2588,7 @@
     },
     "is_verified": true,
     "author": "embeddedt",
-    "downloads": 85246749,
+    "downloads": 85297937,
     "categories": [
       "fabric",
       "forge",
@@ -2627,7 +2628,7 @@
     ],
     "published_at": "2023-04-18T00:08:34.429392+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-11-24T02:19:34+00:00",
+    "updated_at": "2026-11-24T23:31:11+00:00",
     "admin_locked": []
   },
   {
@@ -2909,7 +2910,7 @@
     },
     "is_verified": true,
     "author": "henkelmax",
-    "downloads": 77867747,
+    "downloads": 77924223,
     "categories": [
       "adventure",
       "bukkit",
@@ -3192,6 +3193,7 @@
       "mc_version:26.3-snapshot-7",
       "mc_version:26.3-snapshot-8",
       "mc_version:26.3-snapshot-9",
+      "mc_version:26.4-pre-1",
       "mc_version:26.4-snapshot-1",
       "mc_version:26.4-snapshot-10",
       "mc_version:26.4-snapshot-2",
@@ -3205,7 +3207,7 @@
     ],
     "published_at": "2021-11-15T12:29:48.239701+00:00",
     "discovered_at": "2026-08-24T21:40:49+00:00",
-    "updated_at": "2026-11-24T02:19:34+00:00",
+    "updated_at": "2026-11-24T23:31:11+00:00",
     "admin_locked": []
   },
   {
@@ -5979,7 +5981,7 @@
     },
     "is_verified": true,
     "author": "ishland",
-    "downloads": 42421073,
+    "downloads": 42464408,
     "categories": [
       "fabric",
       "optimization",
@@ -6243,6 +6245,7 @@
       "mc_version:26.3-snapshot-7",
       "mc_version:26.3-snapshot-8",
       "mc_version:26.3-snapshot-9",
+      "mc_version:26.4-pre-1",
       "mc_version:26.4-snapshot-1",
       "mc_version:26.4-snapshot-10",
       "mc_version:26.4-snapshot-2",
@@ -6257,7 +6260,7 @@
     ],
     "published_at": "2021-10-02T10:14:46.020070+00:00",
     "discovered_at": "2026-08-24T21:40:52+00:00",
-    "updated_at": "2026-11-24T02:19:37+00:00",
+    "updated_at": "2026-11-24T23:31:13+00:00",
     "admin_locked": []
   },
   {
